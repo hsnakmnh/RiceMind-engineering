@@ -1,0 +1,22 @@
+{
+  "dataset": "2025-2026-keyword-filtered",
+  "input_sentences": 1207889,
+  "retained_sentences": 35451,
+  "retained_by_year": {
+    "2025": 24189,
+    "2026": 11262
+  },
+  "input_scope": "Annual 2025/2026 batches; publication month range not independently verified",
+  "provenance": "Prepared earlier by keyword_filter_pre_oger.py; bundled IDs/text copied without refiltering",
+  "text_rights": "Literature-derived text; rights of original authors/publishers remain. Code LICENSE does not relicense corpus.",
+  "files": {
+    "combined.tsv": {
+      "bytes": 10055844,
+      "sha256": "a469eb6c2cd8feeb9391e5a26c57276712df0a7b763df2aa17ff5edfe4605dff"
+    },
+    "year_map.tsv": {
+      "bytes": 673586,
+      "sha256": "668211c141aa4a41114551620303f9678ca6e4e0e055611503af750a08cf8aa3"
+    }
+  }
+}

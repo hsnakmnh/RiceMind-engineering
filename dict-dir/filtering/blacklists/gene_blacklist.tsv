@@ -1,0 +1,4 @@
+enabled	category	entity_id	match_type	matched_text	standard_name	source
+1	gene	OryzaGeneID:2268	id_text	1	AMT1;1	user annotation audit 2026-09-30
+1	gene	OryzaGeneID:2270	id_text	2	AMT1;3	user annotation audit 2026-09-30
+1	gene	OryzaGeneID:2269	id_text	3	AMT1;2	user annotation audit 2026-09-30

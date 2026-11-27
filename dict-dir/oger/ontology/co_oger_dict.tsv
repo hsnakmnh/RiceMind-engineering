@@ -1,0 +1,686 @@
+CropOntology	CO_320	CO_320:0000092	Abortion pattern	Abortion pattern	co_trait
+CropOntology	CO_320	CO_320:0000092	abortion stage	Abortion pattern	co_trait
+CropOntology	CO_320	CO_320:0000055	Alkali injury	Alkali injury	co_trait
+CropOntology	CO_320	CO_320:0000055	AlkInj	Alkali injury	co_trait
+CropOntology	CO_320	CO_320:0000055	Alkali tolerance	Alkali injury	co_trait
+CropOntology	CO_320	CO_320:0000102	Amylose content	Amylose content	co_trait
+CropOntology	CO_320	CO_320:0000102	AmyCt	Amylose content	co_trait
+CropOntology	CO_320	CO_320:0000894	Anther colour	Anther colour	co_trait
+CropOntology	CO_320	CO_320:0000894	AnCo	Anther colour	co_trait
+CropOntology	CO_320	CO_320:0000150	Anther length	Anther length	co_trait
+CropOntology	CO_320	CO_320:0000150	AnLt	Anther length	co_trait
+CropOntology	CO_320	CO_320:0000895	Anthocyanin below apiculus	Anthocyanin below apiculus	co_trait
+CropOntology	CO_320	CO_320:0000895	BApAnth	Anthocyanin below apiculus	co_trait
+CropOntology	CO_320	CO_320:0000896	Apiculus anthocyanin	Apiculus anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000896	ApAnth	Apiculus anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000037	Apiculus color	Apiculus color	co_trait
+CropOntology	CO_320	CO_320:0000037	APCO	Apiculus color	co_trait
+CropOntology	CO_320	CO_320:0000037	ApCol	Apiculus color	co_trait
+CropOntology	CO_320	CO_320:0000486	Apiculus shape	Apiculus shape	co_trait
+CropOntology	CO_320	CO_320:0000486	ApSh	Apiculus shape	co_trait
+CropOntology	CO_320	CO_320:0000487	Auricle anthocyanin	Auricle anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000487	AurShp	Auricle anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000029	Auricle color	Auricle color	co_trait
+CropOntology	CO_320	CO_320:0000029	AUCO	Auricle color	co_trait
+CropOntology	CO_320	CO_320:0000029	AurCol	Auricle color	co_trait
+CropOntology	CO_320	CO_320:0000036	Awn color	Awn color	co_trait
+CropOntology	CO_320	CO_320:0000036	AWCO	Awn color	co_trait
+CropOntology	CO_320	CO_320:0000036	AwCol	Awn color	co_trait
+CropOntology	CO_320	CO_320:0000036	awn colour	Awn color	co_trait
+CropOntology	CO_320	CO_320:0000488	Awn distribution	Awn distribution	co_trait
+CropOntology	CO_320	CO_320:0000488	AwDist	Awn distribution	co_trait
+CropOntology	CO_320	CO_320:0000146	Awn length	Awn length	co_trait
+CropOntology	CO_320	CO_320:0000146	AWLT	Awn length	co_trait
+CropOntology	CO_320	CO_320:0000146	AwLng	Awn length	co_trait
+CropOntology	CO_320	CO_320:0000156	Awn presence	Awn presence	co_trait
+CropOntology	CO_320	CO_320:0000156	AWPR	Awn presence	co_trait
+CropOntology	CO_320	CO_320:0000156	AwPres	Awn presence	co_trait
+CropOntology	CO_320	CO_320:0000144	Awn thickness	Awn thickness	co_trait
+CropOntology	CO_320	CO_320:0000144	AWTH	Awn thickness	co_trait
+CropOntology	CO_320	CO_320:0000144	AwThk	Awn thickness	co_trait
+CropOntology	CO_320	CO_320:0000015	Awning	Awning	co_trait
+CropOntology	CO_320	CO_320:0000015	AwType	Awning	co_trait
+CropOntology	CO_320	CO_320:0000015	awn type	Awning	co_trait
+CropOntology	CO_320	CO_320:0000173	Bacterial blight damage	Bacterial blight damage	co_trait
+CropOntology	CO_320	CO_320:0000173	BBDam	Bacterial blight damage	co_trait
+CropOntology	CO_320	CO_320:0000173	bacterial blight	Bacterial blight damage	co_trait
+CropOntology	CO_320	CO_320:0000174	Bacterial leaf streak damage	Bacterial leaf streak damage	co_trait
+CropOntology	CO_320	CO_320:0000174	BLS	Bacterial leaf streak damage	co_trait
+CropOntology	CO_320	CO_320:0000174	bacterial leaf blight	Bacterial leaf streak damage	co_trait
+CropOntology	CO_320	CO_320:0000174	bacterial leaf streak	Bacterial leaf streak damage	co_trait
+CropOntology	CO_320	CO_320:0000174	leaf blight	Bacterial leaf streak damage	co_trait
+CropOntology	CO_320	CO_320:0000195	Bakanae disease	Bakanae disease	co_trait
+CropOntology	CO_320	CO_320:0000195	BakInc	Bakanae disease	co_trait
+CropOntology	CO_320	CO_320:0000195	bakanae disease	Bakanae disease	co_trait
+CropOntology	CO_320	CO_320:0000489	Basal leaf sheath anthocyanin	Basal leaf sheath anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000489	BLSAnth	Basal leaf sheath anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000023	Basal leaf sheath color	Basal leaf sheath color	co_trait
+CropOntology	CO_320	CO_320:0000023	BLSCO	Basal leaf sheath color	co_trait
+CropOntology	CO_320	CO_320:0000023	BLSCol	Basal leaf sheath color	co_trait
+CropOntology	CO_320	CO_320:0000213	Bird damage	Bird damage	co_trait
+CropOntology	CO_320	CO_320:0000213	BirdDam	Bird damage	co_trait
+CropOntology	CO_320	CO_320:0000196	Brown planthopper damage	Brown planthopper damage	co_trait
+CropOntology	CO_320	CO_320:0000196	BPHDam	Brown planthopper damage	co_trait
+CropOntology	CO_320	CO_320:0000196	brown planthopper	Brown planthopper damage	co_trait
+CropOntology	CO_320	CO_320:0000111	Brown rice protein content	Brown rice protein content	co_trait
+CropOntology	CO_320	CO_320:0000111	BRiceProtCt	Brown rice protein content	co_trait
+CropOntology	CO_320	CO_320:0000177	Brown spot damage	Brown spot damage	co_trait
+CropOntology	CO_320	CO_320:0000177	brown spot	Brown spot damage	co_trait
+CropOntology	CO_320	CO_320:0000110	Caryopsis length	Caryopsis length	co_trait
+CropOntology	CO_320	CO_320:0000110	CaryoLng	Caryopsis length	co_trait
+CropOntology	CO_320	CO_320:0000110	brown rice length	Caryopsis length	co_trait
+CropOntology	CO_320	CO_320:0000110	decorticated grain length	Caryopsis length	co_trait
+CropOntology	CO_320	CO_320:0000109	Caryopsis shape	Caryopsis shape	co_trait
+CropOntology	CO_320	CO_320:0000109	CaryoShp	Caryopsis shape	co_trait
+CropOntology	CO_320	CO_320:0000109	brown rice shape	Caryopsis shape	co_trait
+CropOntology	CO_320	CO_320:0000109	decorticated grain shape	Caryopsis shape	co_trait
+CropOntology	CO_320	CO_320:0000117	Caryopsis width	Caryopsis width	co_trait
+CropOntology	CO_320	CO_320:0000117	CaryoWdt	Caryopsis width	co_trait
+CropOntology	CO_320	CO_320:0000117	brown rice width	Caryopsis width	co_trait
+CropOntology	CO_320	CO_320:0000117	decorticated grain width	Caryopsis width	co_trait
+CropOntology	CO_320	CO_320:0000197	Case worm damage	Case worm damage	co_trait
+CropOntology	CO_320	CO_320:0000197	CaseWormDam	Case worm damage	co_trait
+CropOntology	CO_320	CO_320:0000197	case worm	Case worm damage	co_trait
+CropOntology	CO_320	CO_320:0000104	Chalkiness of endosperm	Chalkiness of endosperm	co_trait
+CropOntology	CO_320	CO_320:0000104	Clk	Chalkiness of endosperm	co_trait
+CropOntology	CO_320	CO_320:0000104	chalk	Chalkiness of endosperm	co_trait
+CropOntology	CO_320	CO_320:0000104	chalkiness	Chalkiness of endosperm	co_trait
+CropOntology	CO_320	CO_320:0000490	Chromosome number	Chromosome number	co_trait
+CropOntology	CO_320	CO_320:0000490	ChrNo	Chromosome number	co_trait
+CropOntology	CO_320	CO_320:0000057	Cold tolerance	Cold tolerance	co_trait
+CropOntology	CO_320	CO_320:0000057	ColdSens	Cold tolerance	co_trait
+CropOntology	CO_320	CO_320:0000491	Coleoptile anthocyanin	Coleoptile anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000491	ColeoAnth	Coleoptile anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000492	Collar anthocyanin	Collar anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000492	CollAnth	Collar anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000028	Collar color	Collar color	co_trait
+CropOntology	CO_320	CO_320:0000028	CCO	Collar color	co_trait
+CropOntology	CO_320	CO_320:0000028	CollCol	Collar color	co_trait
+CropOntology	CO_320	CO_320:0000031	Culm angle	Culm angle	co_trait
+CropOntology	CO_320	CO_320:0000031	CUAN	Culm angle	co_trait
+CropOntology	CO_320	CO_320:0000031	Culm habit	Culm angle	co_trait
+CropOntology	CO_320	CO_320:0000031	CulmAng	Culm angle	co_trait
+CropOntology	CO_320	CO_320:0000155	Culm diameter - 1st internode	Culm diameter - 1st internode	co_trait
+CropOntology	CO_320	CO_320:0000155	CUDI	Culm diameter - 1st internode	co_trait
+CropOntology	CO_320	CO_320:0000155	CulmDiam	Culm diameter - 1st internode	co_trait
+CropOntology	CO_320	CO_320:0000155	DBI	Culm diameter - 1st internode	co_trait
+CropOntology	CO_320	CO_320:0000155	basal internode diameter	Culm diameter - 1st internode	co_trait
+CropOntology	CO_320	CO_320:0000155	stem thickness	Culm diameter - 1st internode	co_trait
+CropOntology	CO_320	CO_320:0000016	Culm internode anthocyanin	Culm internode anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000016	CulmINodAnth	Culm internode anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000016	stem internode anthocyanin	Culm internode anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000493	Culm internode color	Culm internode color	co_trait
+CropOntology	CO_320	CO_320:0000493	CulmINodCol	Culm internode color	co_trait
+CropOntology	CO_320	CO_320:0000493	stem internode color	Culm internode color	co_trait
+CropOntology	CO_320	CO_320:0000494	Culm internode underlying colour	Culm internode underlying colour	co_trait
+CropOntology	CO_320	CO_320:0000494	CulmINodUnderCol	Culm internode underlying colour	co_trait
+CropOntology	CO_320	CO_320:0000494	stem internode underlying colour	Culm internode underlying colour	co_trait
+CropOntology	CO_320	CO_320:0000030	Culm length	Culm length	co_trait
+CropOntology	CO_320	CO_320:0000030	CULT	Culm length	co_trait
+CropOntology	CO_320	CO_320:0000030	CulmLng	Culm length	co_trait
+CropOntology	CO_320	CO_320:0000030	stem length	Culm length	co_trait
+CropOntology	CO_320	CO_320:0000495	Culm node anthocyanin	Culm node anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000495	CulmNodAnth	Culm node anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000495	Stem node anthocyanin	Culm node anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000154	Culm node underlying colour	Culm node underlying colour	co_trait
+CropOntology	CO_320	CO_320:0000154	CulmNodUndCol	Culm node underlying colour	co_trait
+CropOntology	CO_320	CO_320:0000496	Culm number	Culm number	co_trait
+CropOntology	CO_320	CO_320:0000496	CUNO	Culm number	co_trait
+CropOntology	CO_320	CO_320:0000496	CulmNo	Culm number	co_trait
+CropOntology	CO_320	CO_320:0000084	Culm strength	Culm strength	co_trait
+CropOntology	CO_320	CO_320:0000084	CUST	Culm strength	co_trait
+CropOntology	CO_320	CO_320:0000084	CulmStr	Culm strength	co_trait
+CropOntology	CO_320	CO_320:0000088	Time to flowering (from sowing)	Time to flowering (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0000088	DFlwS	Time to flowering (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0000088	FLW	Time to flowering (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0000088	Time to heading	Time to flowering (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0000060	Drought injury	Drought injury	co_trait
+CropOntology	CO_320	CO_320:0000060	DhtInj	Drought injury	co_trait
+CropOntology	CO_320	CO_320:0000060	drought sensitivity	Drought injury	co_trait
+CropOntology	CO_320	CO_320:0000058	Drought recovery	Drought recovery	co_trait
+CropOntology	CO_320	CO_320:0000058	DhtRecov	Drought recovery	co_trait
+CropOntology	CO_320	CO_320:0000497	Endosperm type	Endosperm type	co_trait
+CropOntology	CO_320	CO_320:0000497	EndoType	Endosperm type	co_trait
+CropOntology	CO_320	CO_320:0000178	False smut	False smut	co_trait
+CropOntology	CO_320	CO_320:0000178	FSmut	False smut	co_trait
+CropOntology	CO_320	CO_320:0000178	false smut	False smut	co_trait
+CropOntology	CO_320	CO_320:0000098	Fertility restoration	Fertility restoration	co_trait
+CropOntology	CO_320	CO_320:0000098	FertRest	Fertility restoration	co_trait
+CropOntology	CO_320	CO_320:0000017	Flag leaf angle	Flag leaf angle	co_trait
+CropOntology	CO_320	CO_320:0000017	FlgLfAng	Flag leaf angle	co_trait
+CropOntology	CO_320	CO_320:0000017	flag leaf attitude	Flag leaf angle	co_trait
+CropOntology	CO_320	CO_320:0000138	Flag leaf length	Flag leaf length	co_trait
+CropOntology	CO_320	CO_320:0000138	FLL	Flag leaf length	co_trait
+CropOntology	CO_320	CO_320:0000138	FLLT	Flag leaf length	co_trait
+CropOntology	CO_320	CO_320:0000138	FlgLfLng	Flag leaf length	co_trait
+CropOntology	CO_320	CO_320:0000137	Flag leaf width	Flag leaf width	co_trait
+CropOntology	CO_320	CO_320:0000137	FLWD	Flag leaf width	co_trait
+CropOntology	CO_320	CO_320:0000137	FlgLfWdt	Flag leaf width	co_trait
+CropOntology	CO_320	CO_320:0000498	Flowering date	Flowering date	co_trait
+CropOntology	CO_320	CO_320:0000498	FlwDate	Flowering date	co_trait
+CropOntology	CO_320	CO_320:0000498	heading date	Flowering date	co_trait
+CropOntology	CO_320	CO_320:0000199	Gall midge damage	Gall midge damage	co_trait
+CropOntology	CO_320	CO_320:0000199	GallMidgeDam	Gall midge damage	co_trait
+CropOntology	CO_320	CO_320:0000199	gall midge	Gall midge damage	co_trait
+CropOntology	CO_320	CO_320:0000106	Gel consistency	Gel consistency	co_trait
+CropOntology	CO_320	CO_320:0000106	GelC	Gel consistency	co_trait
+CropOntology	CO_320	CO_320:0000107	Gelatinization temperature	Gelatinization temperature	co_trait
+CropOntology	CO_320	CO_320:0000107	GelTemp	Gelatinization temperature	co_trait
+CropOntology	CO_320	CO_320:0000094	Glume opening	Glume opening	co_trait
+CropOntology	CO_320	CO_320:0000094	GlOp	Glume opening	co_trait
+CropOntology	CO_320	CO_320:0000499	Grain discoloration	Grain discoloration	co_trait
+CropOntology	CO_320	CO_320:0000499	GrDiscol	Grain discoloration	co_trait
+CropOntology	CO_320	CO_320:0000499	grain discoloration	Grain discoloration	co_trait
+CropOntology	CO_320	CO_320:0000105	Grain elongation	Grain elongation	co_trait
+CropOntology	CO_320	CO_320:0000105	GrElong	Grain elongation	co_trait
+CropOntology	CO_320	CO_320:0000004	Grain length	Grain length	co_trait
+CropOntology	CO_320	CO_320:0000004	GRLT	Grain length	co_trait
+CropOntology	CO_320	CO_320:0000004	GrLng	Grain length	co_trait
+CropOntology	CO_320	CO_320:0000020	Grain thickness	Grain thickness	co_trait
+CropOntology	CO_320	CO_320:0000020	GRTH	Grain thickness	co_trait
+CropOntology	CO_320	CO_320:0000020	GrThk	Grain thickness	co_trait
+CropOntology	CO_320	CO_320:0000100	Grain weight	Grain weight	co_trait
+CropOntology	CO_320	CO_320:0000100	GRWT	Grain weight	co_trait
+CropOntology	CO_320	CO_320:0000100	GrnWt	Grain weight	co_trait
+CropOntology	CO_320	CO_320:0000005	Grain width	Grain width	co_trait
+CropOntology	CO_320	CO_320:0000005	GRWD	Grain width	co_trait
+CropOntology	CO_320	CO_320:0000005	GrWdt	Grain width	co_trait
+CropOntology	CO_320	CO_320:0000073	Grain yield	Grain yield	co_trait
+CropOntology	CO_320	CO_320:0000073	GrYld	Grain yield	co_trait
+CropOntology	CO_320	CO_320:0000179	Grassy stunt 1 disease	Grassy stunt 1 disease	co_trait
+CropOntology	CO_320	CO_320:0000179	RGSV1Sev	Grassy stunt 1 disease	co_trait
+CropOntology	CO_320	CO_320:0000179	rice grassy stunt 1 disease	Grassy stunt 1 disease	co_trait
+CropOntology	CO_320	CO_320:0000500	Grassy stunt 2 disease	Grassy stunt 2 disease	co_trait
+CropOntology	CO_320	CO_320:0000500	RGSV2Sev	Grassy stunt 2 disease	co_trait
+CropOntology	CO_320	CO_320:0000500	rice grassy stunt 2 disease	Grassy stunt 2 disease	co_trait
+CropOntology	CO_320	CO_320:0000200	Green leafhopper damage	Green leafhopper damage	co_trait
+CropOntology	CO_320	CO_320:0000200	GLhDam	Green leafhopper damage	co_trait
+CropOntology	CO_320	CO_320:0000200	green leafhopper	Green leafhopper damage	co_trait
+CropOntology	CO_320	CO_320:0000182	Narrow brown leaf spot damage	Narrow brown leaf spot damage	co_trait
+CropOntology	CO_320	CO_320:0000182	NBLSDam	Narrow brown leaf spot damage	co_trait
+CropOntology	CO_320	CO_320:0000182	narrow brown leaf spot	Narrow brown leaf spot damage	co_trait
+CropOntology	CO_320	CO_320:0000508	Outcrossing extent	Outcrossing extent	co_trait
+CropOntology	CO_320	CO_320:0000508	OutXExt	Outcrossing extent	co_trait
+CropOntology	CO_320	CO_320:0000035	Panicle axis attitude	Panicle axis attitude	co_trait
+CropOntology	CO_320	CO_320:0000035	PanAxAtt	Panicle axis attitude	co_trait
+CropOntology	CO_320	CO_320:0000035	Panicle attitude	Panicle axis attitude	co_trait
+CropOntology	CO_320	CO_320:0000128	Panicle axis texture	Panicle axis texture	co_trait
+CropOntology	CO_320	CO_320:0000128	PanAxText	Panicle axis texture	co_trait
+CropOntology	CO_320	CO_320:0000509	Panicle basal branch number	Panicle basal branch number	co_trait
+CropOntology	CO_320	CO_320:0000509	PBPan	Panicle basal branch number	co_trait
+CropOntology	CO_320	CO_320:0000509	PanN	Panicle basal branch number	co_trait
+CropOntology	CO_320	CO_320:0000510	Panicle blast damage	Panicle blast damage	co_trait
+CropOntology	CO_320	CO_320:0000510	PBDam	Panicle blast damage	co_trait
+CropOntology	CO_320	CO_320:0000510	neck blast	Panicle blast damage	co_trait
+CropOntology	CO_320	CO_320:0000510	panicle blast	Panicle blast damage	co_trait
+CropOntology	CO_320	CO_320:0000511	Panicle blast severity	Panicle blast severity	co_trait
+CropOntology	CO_320	CO_320:0000511	PBSev	Panicle blast severity	co_trait
+CropOntology	CO_320	CO_320:0000511	neck blast	Panicle blast severity	co_trait
+CropOntology	CO_320	CO_320:0000511	panicle blast	Panicle blast severity	co_trait
+CropOntology	CO_320	CO_320:0000512	Panicle blast incidence	Panicle blast incidence	co_trait
+CropOntology	CO_320	CO_320:0000512	PBInc	Panicle blast incidence	co_trait
+CropOntology	CO_320	CO_320:0000512	neck blast	Panicle blast incidence	co_trait
+CropOntology	CO_320	CO_320:0000512	panicle blast	Panicle blast incidence	co_trait
+CropOntology	CO_320	CO_320:0000513	Panicle branch arrangement	Panicle branch arrangement	co_trait
+CropOntology	CO_320	CO_320:0000513	PanBrArr	Panicle branch arrangement	co_trait
+CropOntology	CO_320	CO_320:0000141	Panicle distance to basal branch	Panicle distance to basal branch	co_trait
+CropOntology	CO_320	CO_320:0000141	PanBasBrDist	Panicle distance to basal branch	co_trait
+CropOntology	CO_320	CO_320:0000074	Panicle exsertion	Panicle exsertion	co_trait
+CropOntology	CO_320	CO_320:0000074	Exs	Panicle exsertion	co_trait
+CropOntology	CO_320	CO_320:0000074	PEX	Panicle exsertion	co_trait
+CropOntology	CO_320	CO_320:0000074	PanExs	Panicle exsertion	co_trait
+CropOntology	CO_320	CO_320:0000033	Panicle length	Panicle length	co_trait
+CropOntology	CO_320	CO_320:0000033	PLT	Panicle length	co_trait
+CropOntology	CO_320	CO_320:0000033	PanLng	Panicle length	co_trait
+CropOntology	CO_320	CO_320:0000009	Panicle number per plant	Panicle number per plant	co_trait
+CropOntology	CO_320	CO_320:0000009	PNO	Panicle number per plant	co_trait
+CropOntology	CO_320	CO_320:0000009	PanNo	Panicle number per plant	co_trait
+CropOntology	CO_320	CO_320:0000009	PanPlt	Panicle number per plant	co_trait
+CropOntology	CO_320	CO_320:0000152	Panicle shattering	Panicle shattering	co_trait
+CropOntology	CO_320	CO_320:0000152	PSH	Panicle shattering	co_trait
+CropOntology	CO_320	CO_320:0000152	PanSh	Panicle shattering	co_trait
+CropOntology	CO_320	CO_320:0000078	Panicle threshability	Panicle threshability	co_trait
+CropOntology	CO_320	CO_320:0000078	PTH	Panicle threshability	co_trait
+CropOntology	CO_320	CO_320:0000078	PanThr	Panicle threshability	co_trait
+CropOntology	CO_320	CO_320:0000018	Panicle type	Panicle type	co_trait
+CropOntology	CO_320	CO_320:0000018	PTY	Panicle type	co_trait
+CropOntology	CO_320	CO_320:0000018	PanTyp	Panicle type	co_trait
+CropOntology	CO_320	CO_320:0000018	branch attitude	Panicle type	co_trait
+CropOntology	CO_320	CO_320:0000115	Pericarp colour	Pericarp colour	co_trait
+CropOntology	CO_320	CO_320:0000115	PericCol	Pericarp colour	co_trait
+CropOntology	CO_320	CO_320:0000115	Seed coat colour	Pericarp colour	co_trait
+CropOntology	CO_320	CO_320:0000115	bran colour	Pericarp colour	co_trait
+CropOntology	CO_320	CO_320:0000115	decorticated grain colour	Pericarp colour	co_trait
+CropOntology	CO_320	CO_320:0000075	Phenotypic Acceptability	Phenotypic Acceptability	co_trait
+CropOntology	CO_320	CO_320:0000075	PhenAcc	Phenotypic Acceptability	co_trait
+CropOntology	CO_320	CO_320:0000065	Phosphorus deficiency damage	Phosphorus deficiency damage	co_trait
+CropOntology	CO_320	CO_320:0000065	PDef	Phosphorus deficiency damage	co_trait
+CropOntology	CO_320	CO_320:0000065	phosphorus deficiency	Phosphorus deficiency damage	co_trait
+CropOntology	CO_320	CO_320:0000076	Plant height	Plant height	co_trait
+CropOntology	CO_320	CO_320:0000076	PlntHt	Plant height	co_trait
+CropOntology	CO_320	CO_320:0000158	Pollen sterility	Pollen sterility	co_trait
+CropOntology	CO_320	CO_320:0000158	MaleSter	Pollen sterility	co_trait
+CropOntology	CO_320	CO_320:0000158	male sterility	Pollen sterility	co_trait
+CropOntology	CO_320	CO_320:0000183	Ragged stunt disease	Ragged stunt disease	co_trait
+CropOntology	CO_320	CO_320:0000183	RaggedStuntSev	Ragged stunt disease	co_trait
+CropOntology	CO_320	CO_320:0000183	ragged stunt	Ragged stunt disease	co_trait
+CropOntology	CO_320	CO_320:0000183	rice ragged stunt disease	Ragged stunt disease	co_trait
+CropOntology	CO_320	CO_320:0000214	Rat damage	Rat damage	co_trait
+CropOntology	CO_320	CO_320:0000214	RatDam	Rat damage	co_trait
+CropOntology	CO_320	CO_320:0000124	Rhizome and stolon formation	Rhizome and stolon formation	co_trait
+CropOntology	CO_320	CO_320:0000124	RHIFOR	Rhizome and stolon formation	co_trait
+CropOntology	CO_320	CO_320:0000124	RhyzForm	Rhizome and stolon formation	co_trait
+CropOntology	CO_320	CO_320:0000203	Rice bug damage	Rice bug damage	co_trait
+CropOntology	CO_320	CO_320:0000203	RBugDam	Rice bug damage	co_trait
+CropOntology	CO_320	CO_320:0000203	rice bug	Rice bug damage	co_trait
+CropOntology	CO_320	CO_320:0000216	Rice delphacid	Rice delphacid	co_trait
+CropOntology	CO_320	CO_320:0000216	RDelphDam	Rice delphacid	co_trait
+CropOntology	CO_320	CO_320:0000216	rice delphacid	Rice delphacid	co_trait
+CropOntology	CO_320	CO_320:0000184	Rice tungro disease	Rice tungro disease	co_trait
+CropOntology	CO_320	CO_320:0000184	RTungroSev	Rice tungro disease	co_trait
+CropOntology	CO_320	CO_320:0000184	rice tungro virus	Rice tungro disease	co_trait
+CropOntology	CO_320	CO_320:0000184	tungo disease	Rice tungro disease	co_trait
+CropOntology	CO_320	CO_320:0000184	tungro	Rice tungro disease	co_trait
+CropOntology	CO_320	CO_320:0000206	Rice whorl maggot damage	Rice whorl maggot damage	co_trait
+CropOntology	CO_320	CO_320:0000206	RWhorlMaggDam	Rice whorl maggot damage	co_trait
+CropOntology	CO_320	CO_320:0000206	rice whorl maggot	Rice whorl maggot damage	co_trait
+CropOntology	CO_320	CO_320:0000066	Salt injury	Salt injury	co_trait
+CropOntology	CO_320	CO_320:0000066	SaltInj	Salt injury	co_trait
+CropOntology	CO_320	CO_320:0000066	salinity	Salt injury	co_trait
+CropOntology	CO_320	CO_320:0000066	salinity injury	Salt injury	co_trait
+CropOntology	CO_320	CO_320:0000066	salt tolerance	Salt injury	co_trait
+CropOntology	CO_320	CO_320:0000103	Scent	Scent	co_trait
+CropOntology	CO_320	CO_320:0000103	Aroma	Scent	co_trait
+CropOntology	CO_320	CO_320:0000103	Sct	Scent	co_trait
+CropOntology	CO_320	CO_320:0000103	caryopsis scent	Scent	co_trait
+CropOntology	CO_320	CO_320:0000034	Secondary panicle branching	Secondary panicle branching	co_trait
+CropOntology	CO_320	CO_320:0000034	Pan2ndBr	Secondary panicle branching	co_trait
+CropOntology	CO_320	CO_320:0000034	SECOND_BR	Secondary panicle branching	co_trait
+CropOntology	CO_320	CO_320:0000086	Seed germination	Seed germination	co_trait
+CropOntology	CO_320	CO_320:0000086	SdGerm	Seed germination	co_trait
+CropOntology	CO_320	CO_320:0000514	Seeding date	Seeding date	co_trait
+CropOntology	CO_320	CO_320:0000514	SdDate	Seeding date	co_trait
+CropOntology	CO_320	CO_320:0000218	Seedling height	Seedling height	co_trait
+CropOntology	CO_320	CO_320:0000218	SDHT	Seedling height	co_trait
+CropOntology	CO_320	CO_320:0000218	SeedlHt	Seedling height	co_trait
+CropOntology	CO_320	CO_320:0000189	Sheath blight	Sheath blight	co_trait
+CropOntology	CO_320	CO_320:0000189	ShBltInc	Sheath blight	co_trait
+CropOntology	CO_320	CO_320:0000185	Sheath rot	Sheath rot	co_trait
+CropOntology	CO_320	CO_320:0000185	ShRotInc	Sheath rot	co_trait
+CropOntology	CO_320	CO_320:0000185	sheath rot	Sheath rot	co_trait
+CropOntology	CO_320	CO_320:0000090	Spikelet fertility	Spikelet fertility	co_trait
+CropOntology	CO_320	CO_320:0000090	SPKF	Spikelet fertility	co_trait
+CropOntology	CO_320	CO_320:0000090	SpFert	Spikelet fertility	co_trait
+CropOntology	CO_320	CO_320:0000090	SpkFer	Spikelet fertility	co_trait
+CropOntology	CO_320	CO_320:0000159	Spikelet sterility	Spikelet sterility	co_trait
+CropOntology	CO_320	CO_320:0000159	SPKF	Spikelet sterility	co_trait
+CropOntology	CO_320	CO_320:0000159	SpFert	Spikelet sterility	co_trait
+CropOntology	CO_320	CO_320:0000159	SpkSter	Spikelet sterility	co_trait
+CropOntology	CO_320	CO_320:0000208	Stem borer damage	Stem borer damage	co_trait
+CropOntology	CO_320	CO_320:0000208	StemBorer	Stem borer damage	co_trait
+CropOntology	CO_320	CO_320:0000208	stem borer	Stem borer damage	co_trait
+CropOntology	CO_320	CO_320:0000061	Stem elongation	Stem elongation	co_trait
+CropOntology	CO_320	CO_320:0000061	StmElong	Stem elongation	co_trait
+CropOntology	CO_320	CO_320:0000061	elongation ability	Stem elongation	co_trait
+CropOntology	CO_320	CO_320:0000061	elongation in deepwater	Stem elongation	co_trait
+CropOntology	CO_320	CO_320:0000186	Stem rot	Stem rot	co_trait
+CropOntology	CO_320	CO_320:0000186	StmRotInc	Stem rot	co_trait
+CropOntology	CO_320	CO_320:0000186	stem rot	Stem rot	co_trait
+CropOntology	CO_320	CO_320:0000041	Sterile lemma color	Sterile lemma color	co_trait
+CropOntology	CO_320	CO_320:0000041	SLCO	Sterile lemma color	co_trait
+CropOntology	CO_320	CO_320:0000041	SLmc	Sterile lemma color	co_trait
+CropOntology	CO_320	CO_320:0000041	StrLmCol	Sterile lemma color	co_trait
+CropOntology	CO_320	CO_320:0000041	glume color	Sterile lemma color	co_trait
+CropOntology	CO_320	CO_320:0000042	Sterile lemma length	Sterile lemma length	co_trait
+CropOntology	CO_320	CO_320:0000042	SLLT	Sterile lemma length	co_trait
+CropOntology	CO_320	CO_320:0000042	StrLmLng	Sterile lemma length	co_trait
+CropOntology	CO_320	CO_320:0000042	glume length	Sterile lemma length	co_trait
+CropOntology	CO_320	CO_320:0000121	Sterile lemma shape	Sterile lemma shape	co_trait
+CropOntology	CO_320	CO_320:0000121	LemaShp	Sterile lemma shape	co_trait
+CropOntology	CO_320	CO_320:0000038	Stigma color	Stigma color	co_trait
+CropOntology	CO_320	CO_320:0000038	STCO	Stigma color	co_trait
+CropOntology	CO_320	CO_320:0000038	StgmCol	Stigma color	co_trait
+CropOntology	CO_320	CO_320:0000093	Stigma exsertion	Stigma exsertion	co_trait
+CropOntology	CO_320	CO_320:0000093	StgExers	Stigma exsertion	co_trait
+CropOntology	CO_320	CO_320:0000067	Submergence tolerance	Submergence tolerance	co_trait
+CropOntology	CO_320	CO_320:0000067	SubTol	Submergence tolerance	co_trait
+CropOntology	CO_320	CO_320:0000210	Thrip damage	Thrip damage	co_trait
+CropOntology	CO_320	CO_320:0000210	ThripDam	Thrip damage	co_trait
+CropOntology	CO_320	CO_320:0000210	thrips	Thrip damage	co_trait
+CropOntology	CO_320	CO_320:0000079	Tiller number per plant	Tiller number per plant	co_trait
+CropOntology	CO_320	CO_320:0000079	TilPlt	Tiller number per plant	co_trait
+CropOntology	CO_320	CO_320:0000079	TillNo	Tiller number per plant	co_trait
+CropOntology	CO_320	CO_320:0000079	Tillering	Tiller number per plant	co_trait
+CropOntology	CO_320	CO_320:0000194	Udbatta disease	Udbatta disease	co_trait
+CropOntology	CO_320	CO_320:0000194	UDInc	Udbatta disease	co_trait
+CropOntology	CO_320	CO_320:0000194	udbatta disease	Udbatta disease	co_trait
+CropOntology	CO_320	CO_320:0000187	Ufra	Ufra	co_trait
+CropOntology	CO_320	CO_320:0000187	UfraDam	Ufra	co_trait
+CropOntology	CO_320	CO_320:0000187	ufra	Ufra	co_trait
+CropOntology	CO_320	CO_320:0000077	Vigor	Vigor	co_trait
+CropOntology	CO_320	CO_320:0000077	PlntVg	Vigor	co_trait
+CropOntology	CO_320	CO_320:0000211	Whitebacked planthopper damage	Whitebacked planthopper damage	co_trait
+CropOntology	CO_320	CO_320:0000211	WBPH	Whitebacked planthopper damage	co_trait
+CropOntology	CO_320	CO_320:0000211	whitebacked planthopper	Whitebacked planthopper damage	co_trait
+CropOntology	CO_320	CO_320:0000515	Yellow dwarf	Yellow dwarf	co_trait
+CropOntology	CO_320	CO_320:0000515	YellowDwarfSev	Yellow dwarf	co_trait
+CropOntology	CO_320	CO_320:0000192	Yellow mottle disease	Yellow mottle disease	co_trait
+CropOntology	CO_320	CO_320:0000192	YellowMottleSev	Yellow mottle disease	co_trait
+CropOntology	CO_320	CO_320:0000192	rice yellow mottle disease	Yellow mottle disease	co_trait
+CropOntology	CO_320	CO_320:0000192	yellow mottle	Yellow mottle disease	co_trait
+CropOntology	CO_320	CO_320:0000069	Zinc deficiency injury	Zinc deficiency injury	co_trait
+CropOntology	CO_320	CO_320:0000069	ZnDefInj	Zinc deficiency injury	co_trait
+CropOntology	CO_320	CO_320:0000069	zinc deficiency	Zinc deficiency injury	co_trait
+CropOntology	CO_320	CO_320:0000108	Head rice	Head rice	co_trait
+CropOntology	CO_320	CO_320:0000108	HdR	Head rice	co_trait
+CropOntology	CO_320	CO_320:0000108	head rice percent	Head rice	co_trait
+CropOntology	CO_320	CO_320:0000062	Heat injury	Heat injury	co_trait
+CropOntology	CO_320	CO_320:0000062	HeatSens	Heat injury	co_trait
+CropOntology	CO_320	CO_320:0000062	heat tolerance	Heat injury	co_trait
+CropOntology	CO_320	CO_320:0000193	Hoja blanca disease	Hoja blanca disease	co_trait
+CropOntology	CO_320	CO_320:0000193	HojaBlancaSev	Hoja blanca disease	co_trait
+CropOntology	CO_320	CO_320:0000193	hoja blanca	Hoja blanca disease	co_trait
+CropOntology	CO_320	CO_320:0000193	rice hoja blanca	Hoja blanca disease	co_trait
+CropOntology	CO_320	CO_320:0000063	Iron toxicity injury	Iron toxicity injury	co_trait
+CropOntology	CO_320	CO_320:0000063	IronInj	Iron toxicity injury	co_trait
+CropOntology	CO_320	CO_320:0000063	iron toxicity	Iron toxicity injury	co_trait
+CropOntology	CO_320	CO_320:0000501	Keel anthocyanin	Keel anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000501	KeelAnth	Keel anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000501	Lemma keel anthocyanin	Keel anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000180	Kernel smut	Kernel smut	co_trait
+CropOntology	CO_320	CO_320:0000180	KSmut	Kernel smut	co_trait
+CropOntology	CO_320	CO_320:0000180	kernel smut	Kernel smut	co_trait
+CropOntology	CO_320	CO_320:0000064	Kneeing ability	Kneeing ability	co_trait
+CropOntology	CO_320	CO_320:0000064	CUKNEE	Kneeing ability	co_trait
+CropOntology	CO_320	CO_320:0000064	KnA	Kneeing ability	co_trait
+CropOntology	CO_320	CO_320:0000064	KneeAb	Kneeing ability	co_trait
+CropOntology	CO_320	CO_320:0000014	Leaf angle	Leaf angle	co_trait
+CropOntology	CO_320	CO_320:0000014	LfAng	Leaf angle	co_trait
+CropOntology	CO_320	CO_320:0000014	leaf attitude	Leaf angle	co_trait
+CropOntology	CO_320	CO_320:0000502	Leaf blade anthocyanin	Leaf blade anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000502	LfBladAnth	Leaf blade anthocyanin	co_trait
+CropOntology	CO_320	CO_320:0000006	Leaf blade color	Leaf blade color	co_trait
+CropOntology	CO_320	CO_320:0000006	LfBladCol	Leaf blade color	co_trait
+CropOntology	CO_320	CO_320:0000503	Leaf blade greenness	Leaf blade greenness	co_trait
+CropOntology	CO_320	CO_320:0000503	LfBladGreen	Leaf blade greenness	co_trait
+CropOntology	CO_320	CO_320:0000013	Leaf blade pubescence	Leaf blade pubescence	co_trait
+CropOntology	CO_320	CO_320:0000013	LBP	Leaf blade pubescence	co_trait
+CropOntology	CO_320	CO_320:0000013	LfBladPub	Leaf blade pubescence	co_trait
+CropOntology	CO_320	CO_320:0000013	blpub	Leaf blade pubescence	co_trait
+CropOntology	CO_320	CO_320:0000176	Leaf blast damage	Leaf blast damage	co_trait
+CropOntology	CO_320	CO_320:0000176	LfBlastDam	Leaf blast damage	co_trait
+CropOntology	CO_320	CO_320:0000176	blast	Leaf blast damage	co_trait
+CropOntology	CO_320	CO_320:0000176	leaf blast	Leaf blast damage	co_trait
+CropOntology	CO_320	CO_320:0000176	rice leaf blast	Leaf blast damage	co_trait
+CropOntology	CO_320	CO_320:0000011	Leaf length	Leaf length	co_trait
+CropOntology	CO_320	CO_320:0000011	LLT	Leaf length	co_trait
+CropOntology	CO_320	CO_320:0000011	LfLng	Leaf length	co_trait
+CropOntology	CO_320	CO_320:0000011	leaf blade length	Leaf length	co_trait
+CropOntology	CO_320	CO_320:0000504	Leaf margin pubescence	Leaf margin pubescence	co_trait
+CropOntology	CO_320	CO_320:0000504	LfMargPub	Leaf margin pubescence	co_trait
+CropOntology	CO_320	CO_320:0000181	Leaf scald damage	Leaf scald damage	co_trait
+CropOntology	CO_320	CO_320:0000181	LfScald	Leaf scald damage	co_trait
+CropOntology	CO_320	CO_320:0000181	leaf scald	Leaf scald damage	co_trait
+CropOntology	CO_320	CO_320:0000085	Leaf senescence	Leaf senescence	co_trait
+CropOntology	CO_320	CO_320:0000085	LSEN	Leaf senescence	co_trait
+CropOntology	CO_320	CO_320:0000085	LfSen	Leaf senescence	co_trait
+CropOntology	CO_320	CO_320:0000021	Leaf width	Leaf width	co_trait
+CropOntology	CO_320	CO_320:0000021	LWD	Leaf width	co_trait
+CropOntology	CO_320	CO_320:0000021	LfWdt	Leaf width	co_trait
+CropOntology	CO_320	CO_320:0000021	leaf blade width	Leaf width	co_trait
+CropOntology	CO_320	CO_320:0000201	Leaffolder damage	Leaffolder damage	co_trait
+CropOntology	CO_320	CO_320:0000201	LfFolderDam	Leaffolder damage	co_trait
+CropOntology	CO_320	CO_320:0000201	leaffolder	Leaffolder damage	co_trait
+CropOntology	CO_320	CO_320:0000039	Lemma and palea color	Lemma and palea color	co_trait
+CropOntology	CO_320	CO_320:0000039	LmPCol	Lemma and palea color	co_trait
+CropOntology	CO_320	CO_320:0000039	glume colour	Lemma and palea color	co_trait
+CropOntology	CO_320	CO_320:0000039	hull colour	Lemma and palea color	co_trait
+CropOntology	CO_320	CO_320:0000505	Lemma and palea color ornementation	Lemma and palea color ornementation	co_trait
+CropOntology	CO_320	CO_320:0000505	LmPColOrn	Lemma and palea color ornementation	co_trait
+CropOntology	CO_320	CO_320:0000505	glume colour	Lemma and palea color ornementation	co_trait
+CropOntology	CO_320	CO_320:0000505	hull colour	Lemma and palea color ornementation	co_trait
+CropOntology	CO_320	CO_320:0000040	Lemma and palea pubescence	Lemma and palea pubescence	co_trait
+CropOntology	CO_320	CO_320:0000040	LPPUB	Lemma and palea pubescence	co_trait
+CropOntology	CO_320	CO_320:0000040	LmPPub	Lemma and palea pubescence	co_trait
+CropOntology	CO_320	CO_320:0000040	LmPb	Lemma and palea pubescence	co_trait
+CropOntology	CO_320	CO_320:0000506	Lemma phenol reaction	Lemma phenol reaction	co_trait
+CropOntology	CO_320	CO_320:0000506	PhenReac	Lemma phenol reaction	co_trait
+CropOntology	CO_320	CO_320:0000026	Ligule color	Ligule color	co_trait
+CropOntology	CO_320	CO_320:0000026	LIGCO	Ligule color	co_trait
+CropOntology	CO_320	CO_320:0000026	LigCol	Ligule color	co_trait
+CropOntology	CO_320	CO_320:0000025	Ligule length	Ligule length	co_trait
+CropOntology	CO_320	CO_320:0000025	LGL	Ligule length	co_trait
+CropOntology	CO_320	CO_320:0000025	LIGLT	Ligule length	co_trait
+CropOntology	CO_320	CO_320:0000025	LigLng	Ligule length	co_trait
+CropOntology	CO_320	CO_320:0000507	Ligule margin shape	Ligule margin shape	co_trait
+CropOntology	CO_320	CO_320:0000507	LigMargShp	Ligule margin shape	co_trait
+CropOntology	CO_320	CO_320:0000132	Ligule pubescence	Ligule pubescence	co_trait
+CropOntology	CO_320	CO_320:0000132	LIGPUB	Ligule pubescence	co_trait
+CropOntology	CO_320	CO_320:0000132	LigPub	Ligule pubescence	co_trait
+CropOntology	CO_320	CO_320:0000027	Ligule shape	Ligule shape	co_trait
+CropOntology	CO_320	CO_320:0000027	LIGSH	Ligule shape	co_trait
+CropOntology	CO_320	CO_320:0000027	LigShp	Ligule shape	co_trait
+CropOntology	CO_320	CO_320:0000080	Lodging incidence	Lodging incidence	co_trait
+CropOntology	CO_320	CO_320:0000080	LodInc	Lodging incidence	co_trait
+CropOntology	CO_320	CO_320:0000091	Male sterility group	Male sterility group	co_trait
+CropOntology	CO_320	CO_320:0000091	MaleSterGp	Male sterility group	co_trait
+CropOntology	CO_320	CO_320:0000082	Maturity	Maturity	co_trait
+CropOntology	CO_320	CO_320:0000082	TMat	Maturity	co_trait
+CropOntology	CO_320	CO_320:0000082	time of maturity	Maturity	co_trait
+CropOntology	CO_320	CO_320:0001049	Aerenchyma area	Aerenchyma area	co_trait
+CropOntology	CO_320	CO_320:0001049	AerA	Aerenchyma area	co_trait
+CropOntology	CO_320	CO_320:0001059	Aerenchyma diameter	Aerenchyma diameter	co_trait
+CropOntology	CO_320	CO_320:0001059	AerD	Aerenchyma diameter	co_trait
+CropOntology	CO_320	CO_320:0001060	Aerenchyma number	Aerenchyma number	co_trait
+CropOntology	CO_320	CO_320:0001060	AerN	Aerenchyma number	co_trait
+CropOntology	CO_320	CO_320:0001061	Canopy height	Canopy height	co_trait
+CropOntology	CO_320	CO_320:0001061	CanH	Canopy height	co_trait
+CropOntology	CO_320	CO_320:0001062	Culm area	Culm area	co_trait
+CropOntology	CO_320	CO_320:0001062	CulmA	Culm area	co_trait
+CropOntology	CO_320	CO_320:0001063	Culm degree of deformation	Culm degree of deformation	co_trait
+CropOntology	CO_320	CO_320:0001063	CDef	Culm degree of deformation	co_trait
+CropOntology	CO_320	CO_320:0001050	Culm diameter - 2nd internode	Culm diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001050	CulmD	Culm diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001051	Culm major diameter - 2nd internode	Culm major diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001051	CDMaj	Culm major diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001052	Culm minor diameter - 2nd internode	Culm minor diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001052	CDMin	Culm minor diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001064	Culm partial porosity	Culm partial porosity	co_trait
+CropOntology	CO_320	CO_320:0001064	CulmPP	Culm partial porosity	co_trait
+CropOntology	CO_320	CO_320:0001065	Culm specific porosity	Culm specific porosity	co_trait
+CropOntology	CO_320	CO_320:0001065	CulmSP	Culm specific porosity	co_trait
+CropOntology	CO_320	CO_320:0001066	Culm total porosity	Culm total porosity	co_trait
+CropOntology	CO_320	CO_320:0001066	CulmTP	Culm total porosity	co_trait
+CropOntology	CO_320	CO_320:0001067	Culm wall thickness	Culm wall thickness	co_trait
+CropOntology	CO_320	CO_320:0001067	CwallT	Culm wall thickness	co_trait
+CropOntology	CO_320	CO_320:0001068	Culm wall area	Culm wall area	co_trait
+CropOntology	CO_320	CO_320:0001068	CwallA	Culm wall area	co_trait
+CropOntology	CO_320	CO_320:0001069	Time to flowering (from transplanting)	Time to flowering (from transplanting)	co_trait
+CropOntology	CO_320	CO_320:0001069	DFlwT	Time to flowering (from transplanting)	co_trait
+CropOntology	CO_320	CO_320:0001070	Time to initial flowering (from transplanting)	Time to initial flowering (from transplanting)	co_trait
+CropOntology	CO_320	CO_320:0001070	DiFlwT	Time to initial flowering (from transplanting)	co_trait
+CropOntology	CO_320	CO_320:0001071	Time to maturity (from transplanting)	Time to maturity (from transplanting)	co_trait
+CropOntology	CO_320	CO_320:0001071	DMatT	Time to maturity (from transplanting)	co_trait
+CropOntology	CO_320	CO_320:0001072	Time to panicle exsertion (from heading)	Time to panicle exsertion (from heading)	co_trait
+CropOntology	CO_320	CO_320:0001072	DExs	Time to panicle exsertion (from heading)	co_trait
+CropOntology	CO_320	CO_320:0001073	Dry matter yield	Dry matter yield	co_trait
+CropOntology	CO_320	CO_320:0001073	TDM	Dry matter yield	co_trait
+CropOntology	CO_320	CO_320:0001074	Elongated internode number	Elongated internode number	co_trait
+CropOntology	CO_320	CO_320:0001074	EInt	Elongated internode number	co_trait
+CropOntology	CO_320	CO_320:0001075	Flag leaf area	Flag leaf area	co_trait
+CropOntology	CO_320	CO_320:0001075	FLA	Flag leaf area	co_trait
+CropOntology	CO_320	CO_320:0001076	Flag leaf dry weight	Flag leaf dry weight	co_trait
+CropOntology	CO_320	CO_320:0001076	FLDw	Flag leaf dry weight	co_trait
+CropOntology	CO_320	CO_320:0001077	Dry weight of flag leaf and flag leaf-1	Dry weight of flag leaf and flag leaf-1	co_trait
+CropOntology	CO_320	CO_320:0001077	FLpDw	Dry weight of flag leaf and flag leaf-1	co_trait
+CropOntology	CO_320	CO_320:0001078	Specific area of flag leaf and flag leaf-1	Specific area of flag leaf and flag leaf-1	co_trait
+CropOntology	CO_320	CO_320:0001078	FLpSla	Specific area of flag leaf and flag leaf-1	co_trait
+CropOntology	CO_320	CO_320:0001079	Flag leaf relative size	Flag leaf relative size	co_trait
+CropOntology	CO_320	CO_320:0001079	FLsizeR	Flag leaf relative size	co_trait
+CropOntology	CO_320	CO_320:0001080	Flag leaf specific area	Flag leaf specific area	co_trait
+CropOntology	CO_320	CO_320:0001080	FLSla	Flag leaf specific area	co_trait
+CropOntology	CO_320	CO_320:0001081	Flag leaf-1 area	Flag leaf-1 area	co_trait
+CropOntology	CO_320	CO_320:0001081	FL1A	Flag leaf-1 area	co_trait
+CropOntology	CO_320	CO_320:0001082	Flag leaf-1 dry weight	Flag leaf-1 dry weight	co_trait
+CropOntology	CO_320	CO_320:0001082	FL1Dw	Flag leaf-1 dry weight	co_trait
+CropOntology	CO_320	CO_320:0001083	Flag leaf-1 length	Flag leaf-1 length	co_trait
+CropOntology	CO_320	CO_320:0001083	FL1L	Flag leaf-1 length	co_trait
+CropOntology	CO_320	CO_320:0001084	Flag leaf-1 specific leaf area	Flag leaf-1 specific leaf area	co_trait
+CropOntology	CO_320	CO_320:0001084	FL1Sla	Flag leaf-1 specific leaf area	co_trait
+CropOntology	CO_320	CO_320:0001085	Flag leaf-1 width	Flag leaf-1 width	co_trait
+CropOntology	CO_320	CO_320:0001085	FL1W	Flag leaf-1 width	co_trait
+CropOntology	CO_320	CO_320:0001086	Green leaf number	Green leaf number	co_trait
+CropOntology	CO_320	CO_320:0001086	GLf	Green leaf number	co_trait
+CropOntology	CO_320	CO_320:0001087	Harvest index	Harvest index	co_trait
+CropOntology	CO_320	CO_320:0001048	Filled grain weight	Filled grain weight	co_trait
+CropOntology	CO_320	CO_320:0001048	FGW	Filled grain weight	co_trait
+CropOntology	CO_320	CO_320:0001088	Leaf total number	Leaf total number	co_trait
+CropOntology	CO_320	CO_320:0001089	Oxygen radical absorbance capacity	Oxygen radical absorbance capacity	co_trait
+CropOntology	CO_320	CO_320:0001089	ORAC	Oxygen radical absorbance capacity	co_trait
+CropOntology	CO_320	CO_320:0001056	Panicles per hill	Panicles per hill	co_trait
+CropOntology	CO_320	CO_320:0001056	PanHill	Panicles per hill	co_trait
+CropOntology	CO_320	CO_320:0001090	Panicle density	Panicle density	co_trait
+CropOntology	CO_320	CO_320:0001090	PanD	Panicle density	co_trait
+CropOntology	CO_320	CO_320:0001091	Peduncle length	Peduncle length	co_trait
+CropOntology	CO_320	CO_320:0001091	PedL	Peduncle length	co_trait
+CropOntology	CO_320	CO_320:0001092	Pith area	Pith area	co_trait
+CropOntology	CO_320	CO_320:0001092	PithA	Pith area	co_trait
+CropOntology	CO_320	CO_320:0001093	Pith diameter	Pith diameter	co_trait
+CropOntology	CO_320	CO_320:0001093	PithD	Pith diameter	co_trait
+CropOntology	CO_320	CO_320:0001094	Pith major diameter	Pith major diameter	co_trait
+CropOntology	CO_320	CO_320:0001094	PDMaj	Pith major diameter	co_trait
+CropOntology	CO_320	CO_320:0001095	Pith minor diameter	Pith minor diameter	co_trait
+CropOntology	CO_320	CO_320:0001095	PDMin	Pith minor diameter	co_trait
+CropOntology	CO_320	CO_320:0001096	Second internode length	Second internode length	co_trait
+CropOntology	CO_320	CO_320:0001096	Int2L	Second internode length	co_trait
+CropOntology	CO_320	CO_320:0001053	Filled spikelets per panicle	Filled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001053	FSpPan	Filled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001097	Filled spikelet density	Filled spikelet density	co_trait
+CropOntology	CO_320	CO_320:0001097	FSD	Filled spikelet density	co_trait
+CropOntology	CO_320	CO_320:0001098	Filled spikelet proportion	Filled spikelet proportion	co_trait
+CropOntology	CO_320	CO_320:0001098	FSpProp	Filled spikelet proportion	co_trait
+CropOntology	CO_320	CO_320:0001099	Spikelets per hill	Spikelets per hill	co_trait
+CropOntology	CO_320	CO_320:0001099	SpHill	Spikelets per hill	co_trait
+CropOntology	CO_320	CO_320:0001100	Spikelets per panicle	Spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001100	SpPan	Spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001101	Spikelets density	Spikelets density	co_trait
+CropOntology	CO_320	CO_320:0001101	SpD	Spikelets density	co_trait
+CropOntology	CO_320	CO_320:0001102	Unfilled spikelets density	Unfilled spikelets density	co_trait
+CropOntology	CO_320	CO_320:0001102	USpD	Unfilled spikelets density	co_trait
+CropOntology	CO_320	CO_320:0001103	Stay-green	Stay-green	co_trait
+CropOntology	CO_320	CO_320:0001103	SGr	Stay-green	co_trait
+CropOntology	CO_320	CO_320:0001104	Stem diameter - 2nd internode	Stem diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001104	StemD	Stem diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001105	Stem major diameter - 2nd internode	Stem major diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001105	SDMaj	Stem major diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001106	Stem minor diameter - 2nd internode	Stem minor diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001106	SDMin	Stem minor diameter - 2nd internode	co_trait
+CropOntology	CO_320	CO_320:0001107	Straw yield	Straw yield	co_trait
+CropOntology	CO_320	CO_320:0001107	StDM	Straw yield	co_trait
+CropOntology	CO_320	CO_320:0001108	Tiller number per hill	Tiller number per hill	co_trait
+CropOntology	CO_320	CO_320:0001108	TilHill	Tiller number per hill	co_trait
+CropOntology	CO_320	CO_320:0001109	Tiller density	Tiller density	co_trait
+CropOntology	CO_320	CO_320:0001109	TilD	Tiller density	co_trait
+CropOntology	CO_320	CO_320:0001046	Water extraction capacity	Water extraction capacity	co_trait
+CropOntology	CO_320	CO_320:0001046	SMTwp	Water extraction capacity	co_trait
+CropOntology	CO_320	CO_320:0001057	Root diameter	Root diameter	co_trait
+CropOntology	CO_320	CO_320:0001057	RtD	Root diameter	co_trait
+CropOntology	CO_320	CO_320:0001110	Root length	Root length	co_trait
+CropOntology	CO_320	CO_320:0001110	RtL	Root length	co_trait
+CropOntology	CO_320	CO_320:0001111	Root surface area	Root surface area	co_trait
+CropOntology	CO_320	CO_320:0001111	RtA	Root surface area	co_trait
+CropOntology	CO_320	CO_320:0001112	Root volume	Root volume	co_trait
+CropOntology	CO_320	CO_320:0001112	RtV	Root volume	co_trait
+CropOntology	CO_320	CO_320:0001113	Leaf intercellular carbon dioxide concentration	Leaf intercellular carbon dioxide concentration	co_trait
+CropOntology	CO_320	CO_320:0001114	Photosynthetic rate	Photosynthetic rate	co_trait
+CropOntology	CO_320	CO_320:0001115	Transpiration rate	Transpiration rate	co_trait
+CropOntology	CO_320	CO_320:0001116	Stomatal conductance	Stomatal conductance	co_trait
+CropOntology	CO_320	CO_320:0001117	Stomatal resistance	Stomatal resistance	co_trait
+CropOntology	CO_320	CO_320:0001118	Leaf temperature	Leaf temperature	co_trait
+CropOntology	CO_320	CO_320:0001118	LfT	Leaf temperature	co_trait
+CropOntology	CO_320	CO_320:0001119	Tiller fertility	Tiller fertility	co_trait
+CropOntology	CO_320	CO_320:0001119	FerTil	Tiller fertility	co_trait
+CropOntology	CO_320	CO_320:0001120	Time to flowering (from emergence)	Time to flowering (from emergence)	co_trait
+CropOntology	CO_320	CO_320:0001120	DFlwE	Time to flowering (from emergence)	co_trait
+CropOntology	CO_320	CO_320:0001121	Half-filled spikelet weight per area	Half-filled spikelet weight per area	co_trait
+CropOntology	CO_320	CO_320:0001121	HFSpY	Half-filled spikelet weight per area	co_trait
+CropOntology	CO_320	CO_320:0001122	Unfilled spikelets weight per area	Unfilled spikelets weight per area	co_trait
+CropOntology	CO_320	CO_320:0001122	UFSpY	Unfilled spikelets weight per area	co_trait
+CropOntology	CO_320	CO_320:0001123	Grain length to width ratio	Grain length to width ratio	co_trait
+CropOntology	CO_320	CO_320:0001123	GLWR	Grain length to width ratio	co_trait
+CropOntology	CO_320	CO_320:0001124	Proportion of grains with chalkiness	Proportion of grains with chalkiness	co_trait
+CropOntology	CO_320	CO_320:0001124	PGWC	Proportion of grains with chalkiness	co_trait
+CropOntology	CO_320	CO_320:0001125	Head milled rice rate	Head milled rice rate	co_trait
+CropOntology	CO_320	CO_320:0001125	HMRR	Head milled rice rate	co_trait
+CropOntology	CO_320	CO_320:0001126	Brown rice rate	Brown rice rate	co_trait
+CropOntology	CO_320	CO_320:0001126	BRR	Brown rice rate	co_trait
+CropOntology	CO_320	CO_320:0001127	Milled rice rate	Milled rice rate	co_trait
+CropOntology	CO_320	CO_320:0001127	MRR	Milled rice rate	co_trait
+CropOntology	CO_320	CO_320:0001128	Time to initial flowering (from sowing)	Time to initial flowering (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0001128	DiFlwS	Time to initial flowering (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0001129	Stem dry weight	Stem dry weight	co_trait
+CropOntology	CO_320	CO_320:0001129	SDWplt	Stem dry weight	co_trait
+CropOntology	CO_320	CO_320:0001130	Leaf dry weight per plant	Leaf dry weight per plant	co_trait
+CropOntology	CO_320	CO_320:0001130	LDWplt	Leaf dry weight per plant	co_trait
+CropOntology	CO_320	CO_320:0001054	Grain yield per plant	Grain yield per plant	co_trait
+CropOntology	CO_320	CO_320:0001054	GYplt	Grain yield per plant	co_trait
+CropOntology	CO_320	CO_320:0001131	Total dry matter per plant	Total dry matter per plant	co_trait
+CropOntology	CO_320	CO_320:0001131	TDMplt	Total dry matter per plant	co_trait
+CropOntology	CO_320	CO_320:0001047	Unfilled spikelets per panicle	Unfilled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001047	UFSpPan	Unfilled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001047	USpPan	Unfilled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001132	Time to maturity (from sowing)	Time to maturity (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0001132	DMatS	Time to maturity (from sowing)	co_trait
+CropOntology	CO_320	CO_320:0001133	Leaf sheath thickness	Leaf sheath thickness	co_trait
+CropOntology	CO_320	CO_320:0001133	LfST	Leaf sheath thickness	co_trait
+CropOntology	CO_320	CO_320:0001134	Culm porosity	Culm porosity	co_trait
+CropOntology	CO_320	CO_320:0001134	CulmP	Culm porosity	co_trait
+CropOntology	CO_320	CO_320:0001135	Half-filled grain weight	Half-filled grain weight	co_trait
+CropOntology	CO_320	CO_320:0001135	THfGW	Half-filled grain weight	co_trait
+CropOntology	CO_320	CO_320:0001136	Unfilled grain weight	Unfilled grain weight	co_trait
+CropOntology	CO_320	CO_320:0001136	TUfGW	Unfilled grain weight	co_trait
+CropOntology	CO_320	CO_320:0001137	Half-filled spikelets proportion	Half-filled spikelets proportion	co_trait
+CropOntology	CO_320	CO_320:0001137	HFSpPct	Half-filled spikelets proportion	co_trait
+CropOntology	CO_320	CO_320:0001138	Unfilled spikelets proportion	Unfilled spikelets proportion	co_trait
+CropOntology	CO_320	CO_320:0001138	UFSpPct	Unfilled spikelets proportion	co_trait
+CropOntology	CO_320	CO_320:0001139	Half-filled spikelets per panicle	Half-filled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001139	HFSpPan	Half-filled spikelets per panicle	co_trait
+CropOntology	CO_320	CO_320:0001140	Stem sucrose content	Stem sucrose content	co_trait
+CropOntology	CO_320	CO_320:0001140	StSUC	Stem sucrose content	co_trait
+CropOntology	CO_320	CO_320:0001141	Stem protein content	Stem protein content	co_trait
+CropOntology	CO_320	CO_320:0001141	StPRO	Stem protein content	co_trait
+CropOntology	CO_320	CO_320:0001142	Stem starch content	Stem starch content	co_trait
+CropOntology	CO_320	CO_320:0001142	StSTA	Stem starch content	co_trait
+CropOntology	CO_320	CO_320:0001143	Stem total nonstructural carbohydrate content	Stem total nonstructural carbohydrate content	co_trait
+CropOntology	CO_320	CO_320:0001143	StNSC	Stem total nonstructural carbohydrate content	co_trait
+CropOntology	CO_320	CO_320:0001144	Stem ash content	Stem ash content	co_trait
+CropOntology	CO_320	CO_320:0001144	StASH	Stem ash content	co_trait
+CropOntology	CO_320	CO_320:0001145	Stem total lignin content	Stem total lignin content	co_trait
+CropOntology	CO_320	CO_320:0001145	StLIG	Stem total lignin content	co_trait
+CropOntology	CO_320	CO_320:0001146	Stem cell wall carbohydrate content	Stem cell wall carbohydrate content	co_trait
+CropOntology	CO_320	CO_320:0001146	StCWC	Stem cell wall carbohydrate content	co_trait
+CropOntology	CO_320	CO_320:0001147	Stem extractives content	Stem extractives content	co_trait
+CropOntology	CO_320	CO_320:0001147	StEXT	Stem extractives content	co_trait
+CropOntology	CO_320	CO_320:0001148	Stem total structural materials content	Stem total structural materials content	co_trait
+CropOntology	CO_320	CO_320:0001148	StSTR	Stem total structural materials content	co_trait
+CropOntology	CO_320	CO_320:0001149	Total stem materials content	Total stem materials content	co_trait
+CropOntology	CO_320	CO_320:0001149	StTWT	Total stem materials content	co_trait
+CropOntology	CO_320	CO_320:0001150	Half-filled spikelet densty	Half-filled spikelet densty	co_trait
+CropOntology	CO_320	CO_320:0001150	HSpD	Half-filled spikelet densty	co_trait
+CropOntology	CO_320	CO_320:0001151	Flag leaf chlorophyll content	Flag leaf chlorophyll content	co_trait
+CropOntology	CO_320	CO_320:0001151	FLCC	Flag leaf chlorophyll content	co_trait
+CropOntology	CO_320	CO_320:0001151	SCMR	Flag leaf chlorophyll content	co_trait
+CropOntology	CO_320	CO_320:0001152	Productive tiller number per plant	Productive tiller number per plant	co_trait
+CropOntology	CO_320	CO_320:0001152	TilProd	Productive tiller number per plant	co_trait
+CropOntology	CO_320	CO_320:0001153	Flag leaf temperature	Flag leaf temperature	co_trait
+CropOntology	CO_320	CO_320:0001153	FLfT	Flag leaf temperature	co_trait
+CropOntology	CO_320	CO_320:0001154	Straw dry matter per plant	Straw dry matter per plant	co_trait
+CropOntology	CO_320	CO_320:0001154	StDM	Straw dry matter per plant	co_trait
+CropOntology	CO_320	CO_320:0001155	Grain filling rate	Grain filling rate	co_trait
+CropOntology	CO_320	CO_320:0001155	GFR	Grain filling rate	co_trait
+CropOntology	CO_320	CO_320:0001156	Panicle dry weight per plant	Panicle dry weight per plant	co_trait
+CropOntology	CO_320	CO_320:0001156	PDWplt	Panicle dry weight per plant	co_trait
+CropOntology	CO_320	CO_320:0001055	Panicle temperature	Panicle temperature	co_trait
+CropOntology	CO_320	CO_320:0001055	PanT	Panicle temperature	co_trait
+CropOntology	CO_320	CO_320:0001559	Zinc content in grain	Zinc content in grain	co_trait
+CropOntology	CO_320	CO_320:0001559	zinc content	Zinc content in grain	co_trait

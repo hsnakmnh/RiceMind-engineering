@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+
+# RiceMind server configuration.
+# run_ricemind.sh and run_oger_five_passes.sh load this file automatically.
+# Keep repository paths here so the remaining Python scripts do not need to
+# contain machine-specific absolute paths.
+export RICEMIND_BASE_DIR="$(cd "$(dirname "$BASH_SOURCE")" && pwd)"
+
+# ---------------------------------------------------------------------------
+# Repository data and result locations
+# ---------------------------------------------------------------------------
+export RICEMIND_PUBTATOR_DIR="$RICEMIND_BASE_DIR/RICE-pubtator-dir"
+export RICEMIND_SENTENCE_DIR="$RICEMIND_BASE_DIR/rice_sentences"
+export RICEMIND_RESULTS_DIR="$RICEMIND_BASE_DIR/results"
+export RICEMIND_OGER_INPUT_DIR="$RICEMIND_RESULTS_DIR/oger_input"
+export RICEMIND_OGER_OUTPUT_DIR="$RICEMIND_RESULTS_DIR/oger"
+export RICEMIND_SCISPACY_OUTPUT_ROOT="$RICEMIND_RESULTS_DIR/scispacy"
+export RICEMIND_PHRASE_OUTPUT_ROOT="$RICEMIND_RESULTS_DIR/phrase"
+
+# ---------------------------------------------------------------------------
+# Active dictionaries
+#
+# The active server layout is organized by purpose under dict-dir.  These
+# root variables make the layout explicit; individual files below are the
+# only dictionary paths consumed by the annotation scripts.
+# ---------------------------------------------------------------------------
+export RICEMIND_DICT_DIR="$RICEMIND_BASE_DIR/dict-dir"
+export RICEMIND_ANNOTATION_DICT_DIR="$RICEMIND_DICT_DIR/annotation"
+export RICEMIND_FILTER_DICT_DIR="$RICEMIND_DICT_DIR/filtering"
+export RICEMIND_NOISE_BLACKLIST_DIR="$RICEMIND_FILTER_DICT_DIR/blacklists"
+unset RICEMIND_NOISE_BLACKLIST_FILE
+
+export RICEMIND_CO_DICT="$RICEMIND_ANNOTATION_DICT_DIR/co-dict.tsv"
+export RICEMIND_GO_DICT="$RICEMIND_ANNOTATION_DICT_DIR/go-dict.tsv"
+export RICEMIND_TO_DICT="$RICEMIND_ANNOTATION_DICT_DIR/to-dict.tsv"
+export RICEMIND_RTO_DICT="$RICEMIND_ANNOTATION_DICT_DIR/rto-dict.tsv"
+export RICEMIND_VARIETY_DICT="$RICEMIND_ANNOTATION_DICT_DIR/variety-dict.tsv"
+
+# Five-pass OGER dictionary directories and local archive.
+export RICEMIND_OGER_DICT_DIR="$RICEMIND_DICT_DIR/oger"
+export RICEMIND_OGER_GENE_DIR="$RICEMIND_OGER_DICT_DIR/genes"
+export RICEMIND_OGER_ONTOLOGY_DIR="$RICEMIND_OGER_DICT_DIR/ontology"
+export RICEMIND_OGER_DICT_ARCHIVE="$RICEMIND_DICT_DIR/archive/dict.tar.gz"
+
+# ---------------------------------------------------------------------------
+# External packages and models
+# ---------------------------------------------------------------------------
+export RICEMIND_SCISPACY_MODEL="/path/to/en_core_sci_scibert/en_core_sci_scibert-0.5.4"
+# OGER_PACKAGE is auto-detected from the active Python environment.
+
+# This variable is only used by the legacy `bash run_ricemind.sh oger`
+# command.  The current five-pass workflow uses RICEMIND_OGER_DICT_DIR above.
+# Set it only if the separate self-built OGER term list exists on the server.
+# export RICEMIND_OGER_TERMLIST="$RICEMIND_BASE_DIR/OGER++/self-built_terms_cleaned_python_10001-end.tsv"
+
+# ---------------------------------------------------------------------------
+# Later database/GTA stages (optional until their reference data are present)
+# ---------------------------------------------------------------------------
+export RICEMIND_STANDARD_GENE_DIR="$RICEMIND_BASE_DIR/standard_gene"
+export RICEMIND_SEQUENCE_DATA_DIR="$RICEMIND_BASE_DIR/sequence_data"
+export RICEMIND_DATA_DIR="$RICEMIND_BASE_DIR/data/data_on_server/RiceMind"
+export RICEMIND_GTA_DIR="$RICEMIND_BASE_DIR/GTA"

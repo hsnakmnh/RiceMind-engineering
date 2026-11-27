@@ -1,0 +1,38 @@
+{
+  "years": [
+    2025,
+    2026
+  ],
+  "input_files": [
+    "rice_sentences/2025_filtered_sent.txt",
+    "rice_sentences/2026_filtered_sent.txt"
+  ],
+  "input_sentences": 1207889,
+  "malformed_lines": 0,
+  "retained_sentences": 35451,
+  "retention_rate": 0.02935,
+  "retained_by_year": {
+    "2025": 24189,
+    "2026": 11262
+  },
+  "retained_by_filter_tag": {
+    "Cat3_Process": 8045,
+    "Cat2_BioConcept": 22610,
+    "Cat4_Os": 4791,
+    "Cat5_LOC": 5
+  },
+  "dropped_by_reason": {
+    "NoRice": 1089342,
+    "Blacklist": 43070,
+    "NoKeywords": 25664,
+    "RiceAsName": 4680,
+    "TooShort": 7849,
+    "TooLong": 1833
+  },
+  "outputs": {
+    "combined_tsv": "combined.tsv",
+    "oger_json": "oger.json (generate with tools/prepare_sentence_data.py)",
+    "sentence_year_map": "year_map.tsv"
+  },
+  "packaging_note": "Historical counts retained; path strings changed to portable references; annotation JSON and annual TSV generated on demand."
+}

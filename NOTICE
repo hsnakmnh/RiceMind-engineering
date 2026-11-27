@@ -1,0 +1,9 @@
+RiceMind Engineering Adaptation
+Derived from https://github.com/muhaha2/RiceMind
+Upstream Apache License 2.0 is retained in LICENSE.
+Original research and existing source attribution remain with their authors.
+Modified files carry a change notice; see docs/CHANGES_FROM_UPSTREAM.md.
+The PhraseMatcher adapter also references separately author-provided source.
+The maintainer confirmed the original author permits public redistribution
+of that script and adapter on 2026-11-27; see docs/ATTRIBUTION.md.
+No upstream endorsement is claimed.

@@ -1,0 +1,13 @@
+{
+  "upstream_url": "https://github.com/muhaha2/RiceMind",
+  "upstream_commit": null,
+  "archive_sha256": "a53902a5045e9fcba1b6c8541e189ac9466106d3c66a43bb9e58b36bad774e80",
+  "separate_phrase_reference_sha256": "014e8519fde4df24cb8d0dea95d21f97b9e7872db4829cc62b301c018d2e4be5",
+  "baseline_python_files": 24,
+  "baseline_shell_files": 2,
+  "notes": [
+    "Preserved ZIP, not claimed to match current main.",
+    "Candidate source changes are comment-only notices.",
+    "Maintainer confirmed author permission to publish the separately supplied script and adapter on 2026-11-27; no correspondence bundled."
+  ]
+}

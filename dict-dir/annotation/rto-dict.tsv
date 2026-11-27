@@ -1,0 +1,2051 @@
+RTO:0000001	Rice Trait	Rice Trait
+RTO:0000002	carbon sensitivity	CBSN|carbon deficiency
+RTO:0000003	epigenetic trait	epigenetic trait
+RTO:0000004	alkali soil sensitivity	AlkS|alkali sensitivity
+RTO:0000005	reversible male sterility	RMS
+RTO:0000006	calcium sensitivity	calcium deficiency|CALSN
+RTO:0000007	sulfur sensitivity	sulfur deficiency|SFSN
+RTO:0000008	potassium sensitivity	potassium deficiency|KSN
+RTO:0000009	genic male sterility-photoperiod sensitive	PGMS|photoperiod sensitive genic male sterility|PPDSNGMS
+RTO:0000010	magnesium sensitivity	magnesium deficiency|MGSN
+RTO:0000011	nitrogen sensitivity	NISN|nitrogen deficiency
+RTO:0000012	hydrogen sensitivity	hydrogen ion sensitivity|molecular hydrogen sensitivity
+RTO:0000013	resistance to disease by mycoplasma-like organism	MLO|MLORS
+RTO:0000014	panicle weight	PNWT
+RTO:0000015	oxygen sensitivity	oxygen deficiency
+RTO:0000016	cobalt sensitivity	COSN
+RTO:0000017	plant morphology trait	plant structure trait|plant architecture trait
+RTO:0000018	boron sensitivity	BOSN|boron deficiency
+RTO:0000019	seedling height	SH
+RTO:0000020	black streak dwarf virus resistance	BSDVRS
+RTO:0000021	copper sensitivity	CUSN
+RTO:0000022	stink bug resistance	SBUGRS
+RTO:0000023	fungal infection related grain discoloration	grain discoloration|Gd
+RTO:0000024	ligule length	LIGLG|LgL
+RTO:0000025	molybdenum sensitivity	molybdenum sensitivity
+RTO:0000026	aborted tri-nucleate stage	TNUABR
+RTO:0000027	culm number	CmN
+RTO:0000028	unfilled grain number	unfilled florets per panicle|unfilled grain|UNFILGRNB
+RTO:0000029	chlorine sensitivity	CHLORSN
+RTO:0000030	sedge weed	sedge weed
+RTO:0000031	silicon sensitivity	silicon sensitivity
+RTO:0000032	selenium sensitivity	selenium sensitivity
+RTO:0000033	iodine sensitivity	iodine sensitivity
+RTO:0000034	chromium sensitivity	CHRSN
+RTO:0000035	incompatibility trait	incompatibility trait
+RTO:0000036	hybrid incompatibility	HYBIC
+RTO:0000037	male sterility extent	degree of male sterility of male sterile lines|male sterility measure
+RTO:0000038	fluorine sensitivity	fluorine sensitivity
+RTO:0000039	yield component	yield component
+RTO:0000040	panicle length	PNLG|PnL
+RTO:0000041	brown rice length	Len|BRWLG
+RTO:0000042	f1-hybrid incompatibility	F1HYBIC
+RTO:0000043	root morphology trait	root morphology trait
+RTO:0000044	stigma exsertion	STIEX|stigma exsertion of male sterile lines
+RTO:0000045	udbatta disease resistance	UDb
+RTO:0000046	f2-generation sterility	F2GST
+RTO:0000047	sporophytic incompatibility	sporophytic incompatibility
+RTO:0000048	kernel smut disease resistance	KSm|KSRS
+RTO:0000049	gametophytic incompatibility	GPHIC
+RTO:0000050	inflorescence branching	panicle branching
+RTO:0000051	stem strength	STEMSTR|Cs|CULMSTR|culm strength
+RTO:0000052	primary branching of inflorescence	primary branching of panicle|PBR
+RTO:0000053	pollen sterility	pollen sterility
+RTO:0000054	animal damage resistance	pest resistance
+RTO:0000055	leaf lamina pubescence	LFLPUBES|LBP|leaf blade pubescence|LFLHR
+RTO:0000056	stem color	stem color
+RTO:0000057	grain moisture	grain moisture
+RTO:0000058	herbicide sensitivity	weedicide tolerance|herbicide tolerance
+RTO:0000059	node color	NDCL
+RTO:0000060	aborted uni-nucleate stage	UNUABR
+RTO:0000061	node shattering	brittle node
+RTO:0000062	phenol reaction	phenol reaction
+RTO:0000063	mimic response	disease mimic response|MIRP|lesion mimic
+RTO:0000064	plant embryo morphology trait	plant embryo morphology trait
+RTO:0000065	root color	RTCL
+RTO:0000066	spot disease	spot disease
+RTO:0000067	genic male sterility-thermo sensitive	TGMS|thermo sensitive genic male sterility
+RTO:0000068	lodging incidence	Lg|LOI
+RTO:0000069	variegated leaf	leaf stripes|albino leaf striping
+RTO:0000070	variegated leaf necrosis	VLFNEC|ragged leaf
+RTO:0000071	anthocyanin content	ANTHCN
+RTO:0000072	awn length	AWNLG|awning|An
+RTO:0000073	manganese sensitivity	MNSN
+RTO:0000074	blast disease resistance	blast disease resistance trait|blast disease susceptibility
+RTO:0000075	light sensitivity	light sensitivity
+RTO:0000076	inflorescence feature	inflorescence feature
+RTO:0000077	shoot system morphology trait	shoot system morphology trait
+RTO:0000078	root dry weight	rdw/t|total root dry weight|RTDWT|rdw|root dry weight per tiller
+RTO:0000079	flower bract morphology trait	flower bract morphology trait
+RTO:0000080	micronutrient sensitivity	micronutrient deficiency
+RTO:0000081	deep root dry weight	deep root weight|deep root dry weight per tiller|drw/t|drw|DRTDWT
+RTO:0000082	zigzag leafhopper resistance	ZLFHRS
+RTO:0000083	penetrated root number	PENRTNB|number of penetrating roots|npr
+RTO:0000084	root number	tnr|RTNB
+RTO:0000085	leaf rolling	wilting|LFRL
+RTO:0000086	sheath rot disease resistance	SHROTRS|ShR
+RTO:0000087	grain aroma trait	Sct|odour|AROMA|scent
+RTO:0000088	rice yellow mottle virus resistance	RYMV|RYMVRS
+RTO:0000089	panicle inflorescence type	PNTYPE|panicle attitude of branches|PnT
+RTO:0000090	penetrated root thickness	prt|PENRTTH
+RTO:0000091	leafhopper	leafhopper
+RTO:0000092	deep root to shoot ratio	deep root/shoot ratio|deep root ratio|dr/s|DRTSHRO|deep root length to shoot length ratio
+RTO:0000093	root pulling force	rpf|RTPF
+RTO:0000094	basal root thickness	brt|BARTTH
+RTO:0000095	osmotic response sensitivity	oa|OSRPSN
+RTO:0000096	ratooning ability	RAAB
+RTO:0000097	amylopectin content	AMYPCTCN
+RTO:0000098	glutinous endosperm	opaque endosperm|waxy endosperm
+RTO:0000099	sugary endosperm	sugary kernel
+RTO:0000100	shrunken endosperm	transluscent kernel|collapsed kernel
+RTO:0000101	broad-leaved weed	broad-leaved weed
+RTO:0000102	phosphorus sensitivity	PHOSN|PDef|phosphorus deficiency
+RTO:0000103	deepwater stress	DWSTR|deep water stress
+RTO:0000104	floury endosperm	floury endosperm
+RTO:0000105	dull endosperm	glassy endosperm
+RTO:0000106	male sterility type	MS
+RTO:0000107	endosperm storage protein-1 content	endosperm storage protein-1 content
+RTO:0000108	leaf shattering	leaf abscission|LFSH
+RTO:0000109	endosperm storage protein-2 content	endosperm storage protein-2 content
+RTO:0000110	wild abortive CMS	CMS-WA|WACMS
+RTO:0000111	genetically engineered male sterility	genetically engineered male sterility
+RTO:0000112	disease resistance	disease susceptibility|disease tolerance|disease resistance trait|disease control
+RTO:0000113	giant embryo	giant embryo
+RTO:0000114	flooding related trait	flooding related trait
+RTO:0000115	root mass density	rmd|RTMD
+RTO:0000116	root mass density 0-15	rmd 0-15
+RTO:0000117	rat damage resistance	RD
+RTO:0000118	root mass density 15-30	rmd 15-30
+RTO:0000119	root mass density 30-45	rmd 30-45
+RTO:0000120	percent root mass density	prmd|PCENTRTMD
+RTO:0000121	ufra damage	U
+RTO:0000122	percent root mass density 0-15	prmd 0-15
+RTO:0000123	percent root mass density 15-30	prmd 15-30
+RTO:0000124	flag leaf angle	FLFAG
+RTO:0000125	percent root mass density 30-45	prmd 30-45
+RTO:0000126	rice grassy stunt virus-2 resistance	RGSV2RS|RGSV2
+RTO:0000127	rice grassy stunt virus-1 resistance	RGSV1RS|RGSV1
+RTO:0000128	harvest index	HVID|HI
+RTO:0000129	false smut disease resistance	FSm|FSRS
+RTO:0000130	far red light sensitivity	FRLTSN|Pfr light sensitivity
+RTO:0000131	leaf water potential	lwp|LFWP
+RTO:0000132	basal internode diameter	DBI|BAINDIA
+RTO:0000133	stature or vigor trait	stature or vigor trait
+RTO:0000134	alkali digestion	ALKDIG|AlkD
+RTO:0000135	leaf length	LFLG|LL|lfln
+RTO:0000136	leaf relative water content	RELWCN|leaf relative water content|rec
+RTO:0000137	days to heading	heading date|DTHD
+RTO:0000138	brown rice protein	Prt|BrP|BRWRPROT|brown rice protein content
+RTO:0000139	lemma apiculus color	ApC|APICL
+RTO:0000140	awn color	AWNCL
+RTO:0000141	secondary branching of inflorescence	panicle secondary branching|SBR|PnBr|secondary branching of panicle
+RTO:0000142	relative biomass	RB|RELBIOM|relative biomass yield
+RTO:0000143	milled rice yield	milled rice ratio|MR
+RTO:0000144	shoot axis internode length	INLG
+RTO:0000145	seed length	SDLG
+RTO:0000146	rice hoja blanca disease resistance	RHBV|HBVRS
+RTO:0000147	viral disease resistance	viral disease resistance
+RTO:0000148	seed width	SDWD|plump seed
+RTO:0000149	rice skipper resistance	SKIPRS
+RTO:0000150	panicle number	NP|PNNB|spike number|TP|number of panicle|NOP|panicle number per tiller|PN|number of effective tiller per plant|seed setting tillers per plant|panicle number per plant
+RTO:0000151	relative yield	RY|RELYLD
+RTO:0000152	thrips resistance	THRIPSRS
+RTO:0000153	drought susceptibility index	DRSID|drought score|drought sensitivity index|DSI|DRSSID
+RTO:0000154	penetrated root dry weight	PRDW|PENRTDWT
+RTO:0000155	canopy temperature	CANTMP
+RTO:0000156	red light sensitivity	Pr light sensitivity|RLTSN
+RTO:0000157	blue light sensitivity	BLTSN
+RTO:0000158	UV light sensitivity	UV resistance|Ultraviolet resistance|UVRS|Ultraviolet light sensitivity
+RTO:0000159	radiation response trait	response to radiation|RADSN|radiation sensitivity
+RTO:0000160	grain quality trait	grain quality trait
+RTO:0000161	auxin sensitivity	IAA sensitivity|IAA response|AUXSN|indole-3-acetic acid sensitivity|indole-3-acetic acid response
+RTO:0000162	stress trait	stress tolerance|crop damage|stress susceptibility|stress resistance
+RTO:0000163	panicle inflorescence exsertion	PNEX|Exs
+RTO:0000164	gibberellic acid sensitivity	Gibberellin response|gibberellic acid response|GASN|GB response|GA3 response
+RTO:0000165	cytokinin sensitivity	CKSN
+RTO:0000166	abiotic stress trait	abiotic stress tolerance
+RTO:0000167	chinsurah boro CMS	CMS-boro|BOROCMS
+RTO:0000168	elongation ability	Elon
+RTO:0000169	height trait	height trait
+RTO:0000170	jasmonic acid sensitivity	JASN
+RTO:0000171	ethylene sensitivity	ethylene response|ETHSN
+RTO:0000172	maturity trait	maturity trait
+RTO:0000173	rice bacterial blight disease resistance	BBRS|leaf blight|BB
+RTO:0000174	macronutrient sensitivity	macronutrient deficiency
+RTO:0000175	2,4-dichlorophenoxyacetic acid sensitivity	24DSN|2,4 D sensitivity
+RTO:0000176	acid soil sensitivity	acid soil sensitivity
+RTO:0000177	biotic stress trait	biotic stress trait
+RTO:0000178	spikelet fertility	seed setting|SpFert|SPKFRT|percent sterility
+RTO:0000179	seed weight	SDWT
+RTO:0000180	insecticide sensitivity	insecticide tolerance
+RTO:0000181	other miscellaneous trait	other miscellaneous trait
+RTO:0000182	seed morphology trait	seed morphology trait
+RTO:0000183	stigma color	STICL|SgC
+RTO:0000184	environmental stress related trait	environmental stress related trait
+RTO:0000185	anther color	ANTCL
+RTO:0000186	drought sensitivity	drought susceptibility|DRSN|DRS
+RTO:0000187	embryoless	germless
+RTO:0000188	seed coat color	bran color|SCC|SDCCL
+RTO:0000189	rice hispa resistance	HISPRS
+RTO:0000190	leaf-roller resistance	LFRRS
+RTO:0000191	embryo shape	embryo shape
+RTO:0000192	globular embryo	globular embryo
+RTO:0000193	shootless embryo	SHMIN
+RTO:0000194	amylose content	AMYCN|Amy
+RTO:0000195	ligule color	LIGCL|LgC
+RTO:0000196	rootless	RTMIN
+RTO:0000197	genic male sterility	GMS
+RTO:0000198	brittle culm	brittle culm
+RTO:0000199	panicle inflorescence color	PNCL
+RTO:0000200	germination ratio	GERMRO
+RTO:0000201	rice bacterial leaf streak disease resistance	BLS|BLSRS
+RTO:0000202	rice seedling blight disease resistance	SDLBTRS|leaf blight|kresek
+RTO:0000203	white-backed planthopper resistance	WBPH|WBPHRS
+RTO:0000204	leaf angle	LFAG|LBP
+RTO:0000205	plant height	PTHT|shoot height|Ht
+RTO:0000206	lemma number	lemma number
+RTO:0000207	palea number	PALNB
+RTO:0000208	anther number	ANTNB
+RTO:0000209	gel consistency	GelC|GELCON
+RTO:0000210	green leafhopper resistance	GLH|GLFHRS
+RTO:0000211	rice grassy stunt 1 and 2 virus resistance	RGSVRS
+RTO:0000212	anther shape	ANTSHP
+RTO:0000213	stamen morphology trait	stamen related trait
+RTO:0000214	grassy stunt virus disease	grassy stunt virus disease
+RTO:0000215	genic male sterility-thermo-photoperiod sensitive	thermo-photoperiod sensitive genic male sterility|TPGMS
+RTO:0000216	pollen abortion type	abortion pattern|abortion pattern of male sterile lines
+RTO:0000217	stem morphology	culm morphology
+RTO:0000218	rice bug resistance	RB|BUGRS
+RTO:0000219	glume color	glume pigmentation|glume discoloration|pigmentation of glume|GLCL
+RTO:0000220	head rice yield	HEADR|head rice ratio|head milled rice
+RTO:0000221	pistil morphology trait	pistil related trait
+RTO:0000222	iron sensitivity	iron toxicity|FeTox|FESN
+RTO:0000223	stamen number	STANB
+RTO:0000224	auricleless	auricle absent|auricle absence|AUMIN
+RTO:0000225	root length	MRL|RTLG|maximum root length|MRD|maximum root depth
+RTO:0000226	moisture content trait	moisture content trait
+RTO:0000227	photoperiod sensitivity trait	PPDSN
+RTO:0000228	crown rootless	CWRTMIN
+RTO:0000229	endospermless	ENDMIN
+RTO:0000230	rice cytoplasmic male sterility	CMS|cytoplasmic male sterility (sensu Oryza)
+RTO:0000231	root volume	RTVOL
+RTO:0000232	radicleless	radicleless
+RTO:0000233	liguleless	LIGMIN
+RTO:0000234	crop damage resistance	crop damage resistance trait
+RTO:0000235	water stress trait	water stress trait
+RTO:0000236	growth media composition sensitivity	edaphic
+RTO:0000237	plant genetic trait unknown	plant genetic trait unknown
+RTO:0000238	sterile lemma length	SLmL|STLEMLG
+RTO:0000239	leaf number	LFNB
+RTO:0000240	microbial damage resistance	microbial damage resistance
+RTO:0000241	in vitro regeneration ability	INVRAB
+RTO:0000242	coleoptile color	COLCL
+RTO:0000243	pollen free	pollen free
+RTO:0000244	rice delphacid resistance	RDel|DELRS
+RTO:0000245	other nutrient sensitivity	other nutrient sensitivity
+RTO:0000246	primary macronutrient sensitivity	primary macronutrient sensitivity
+RTO:0000247	leaf senescence trait	Sen|LFSNS|Foilar senescence
+RTO:0000248	plant vigor trait	plant vigour trait
+RTO:0000249	secondary macronutrient sensitivity	secondary macronutrient sensitivity
+RTO:0000250	non-mineral nutrient sensitivity	non-mineral nutrient sensitivity
+RTO:0000251	seed dormancy	SDDOR
+RTO:0000252	growth media pH sensitivity	soil pH stress
+RTO:0000253	sheath blight disease resistance	ShB|SHBTRS
+RTO:0000254	genetic trait	genetic trait
+RTO:0000255	root branching	RTBR|rbr
+RTO:0000256	leaf thickness	leaf thickness
+RTO:0000257	heat tolerance	HTol
+RTO:0000258	bird damage resistance	BD
+RTO:0000259	insect damage resistance	insect resistance
+RTO:0000260	panicle inflorescence shape	panicle inflorescence shape
+RTO:0000261	lemma and palea color	Lemma color|LmPC|palea color|LEMCL|LEMPALCL|PALCL
+RTO:0000262	light quality sensitivity	response to light quality
+RTO:0000263	chalky endosperm	CHALK|Clk|chalkiness of endosperm
+RTO:0000264	inflorescence type	INFLOTYPE|inflorescence type
+RTO:0000265	inflorescence shape	head shape
+RTO:0000266	100-grain weight	hundred seed weight|hundred grain weight|HGRWT|100-grain weight|HSDWT
+RTO:0000267	inflorescence axis angle	inflorescence axis angle
+RTO:0000268	inflorescence length	inflorescence length
+RTO:0000269	plant survivability	plant survivability
+RTO:0000270	armyworm resistance	AWRRS
+RTO:0000271	spikelet floret morphology trait	floret related trait
+RTO:0000272	perianth morphology trait	perianth related trait
+RTO:0000273	drought tolerance	drought resistance|DRTL
+RTO:0000274	biochemical trait	biochemical trait
+RTO:0000275	root to shoot ratio	root/shoot ratio|root length to shoot length ratio|r/s ratio|RTSHRO
+RTO:0000276	root weight	RTWT|total root weight|TRW
+RTO:0000277	seedling vigor	Sd|SDLVIG
+RTO:0000278	metabolite content trait	metabolite content trait
+RTO:0000279	enzymatic activity and protein content related trait	enzymatic activity and protein content related trait
+RTO:0000280	biological process trait	physiological process trait
+RTO:0000281	ADP glucose pyrophosphorylase activity trait	ADP-glucose synthase|AGPACT|glucose 1-phosphate adenylyltransferase|adenosine diphosphate glucose pyrophosphorylase|glucose-1-phosphate adenylyltransferase activity|ADPG pyrophosphorylase|adenosine diphosphoglucose pyrophosphorylase|ADP-glucose pyrophosphorylase|ADP-glucose synthetase
+RTO:0000282	nodal tillering	nodal tillering
+RTO:0000283	submergence sensitivity	Sub|submergence tolerance|SUBSN
+RTO:0000284	brown rice shape	BrS|BRWSHP
+RTO:0000285	alpha-amylase activity trait	Amy|taka-amylase A|alpha amylase|glycogenase|endoamylase|ALPHAAMYASEACT
+RTO:0000286	carotene content	carotene content
+RTO:0000287	flavonoid content	flavonoid content
+RTO:0000288	carbohydrate content	CARBCN
+RTO:0000289	yellow dwarf disease resistance	YD|YDRS
+RTO:0000290	chlorophyll a content	Chl a|chl-a|chlorophyll-a content
+RTO:0000291	leaf sheath auricle color	AC|AUCL
+RTO:0000292	chlorophyll b content	chl-b content|chl b content|chlorophyll-b content
+RTO:0000293	vegetative vigor	vegetative growth vigor|Vg|VGVIG
+RTO:0000294	glucosamine content	GLUCNCN|2-amino-2-deoxyglucopyranose content
+RTO:0000295	chlorophyll ratio	chl a to chl b ratio|chlorophyll content ratio|CHLRO|chl-a to chl-b ratio
+RTO:0000296	leaf lamina color	LBC|leaf blade color|LFLCL|leaf color
+RTO:0000297	glucose content	dextrose content|GLUCCN|D-glucose content
+RTO:0000298	xanthophyll content	XANCN
+RTO:0000299	smut disease	smut disease
+RTO:0000300	cold tolerance	CTol|COLDTL
+RTO:0000301	seed thickness	SDTH
+RTO:0000302	glutamine synthetase content	GS1CN|L-glutamine synthetase|glutamylhydroxamic synthetase|glutamate-ammonia ligase|GS1
+RTO:0000303	root thickness	RTTH
+RTO:0000304	hexose content	HEXCN
+RTO:0000305	male fertility restoration trait	male fertility restoration in F1 hybrids|MALERF
+RTO:0000306	self-incompatibility	Genetic self-incompatibility
+RTO:0000307	invertase activity trait	saccharase|beta-fructofuranosidase activity|glucosucrase|beta-h-fructosidase|maxinvert L 1000|sucrase|beta-D-fructofuranoside fructohydrolase|invertin|INVACT|acid invertase|alkaline invertase|fructosylinvertase|beta-fructosidase
+RTO:0000308	NADH glutamate synthase content	NADH-dependent glutamate synthase|NADH-glutamate synthase|glutamate (reduced nicotinamide adenine dinucleotide) synthase|L-glutamate synthase (NADH)|glutamate synthase (NADH) activity|glutamate synthase (NADH2)|L-glutamate synthetase|NADHGOGATCN
+RTO:0000309	perodidase-71 content	P71CN
+RTO:0000310	phosphoglycerate mutase content	PGAMCN|PGAM
+RTO:0000311	bacterial disease resistance	bacterial disease resistance
+RTO:0000312	photosynthetic ability	PHOTOSYNAB
+RTO:0000313	cutworm resistance	CUWRRS
+RTO:0000314	reducing sugar content	REDSUGCN
+RTO:0000315	rubisco content	RUBISCOCN
+RTO:0000316	chlorophyll to rubisco ratio	RUBISCOCHLRO
+RTO:0000317	rubisco to nitrogen content ratio	RUBISCONICNRO
+RTO:0000318	phenotypic acceptability	overall liking|PAcp
+RTO:0000319	stem rot disease resistance	CULMROTRS|SR
+RTO:0000320	rubisco to soluble protein ratio	RUBISCOSPROTRO
+RTO:0000321	soluble protein content	SPROTCN
+RTO:0000322	leaf color	LFCL
+RTO:0000323	shoot system yield trait	BIOMYLD|BY
+RTO:0000324	sucrose content	saccharose content|SUCROSECN
+RTO:0000325	tillering ability	Ti|TIAB
+RTO:0000326	outcrossing potential	extent of outcrossing|extent of outcrossing on male sterile lines
+RTO:0000327	sucrose phosphate synthase activity trait	sucrose 6-phosphate synthase|SPSACT|sucrose phosphate synthetase|uridine diphosphoglucose-fructose phosphate glucosyltransferase|sucrose phosphate-uridine diphosphate glucosyltransferase|sucrose-phosphate synthase activity|sucrosephosphate-UDP glucosyltransferase|SPS|UDP-glucose-fructose-phosphate glucosyltransferase
+RTO:0000328	rice whorl maggot resistance	RWMRS|RWM
+RTO:0000329	sugar content	SUGARCN
+RTO:0000330	hybrid evaluation	parental line evaluation
+RTO:0000331	ligule shape	LS|LIGSHP
+RTO:0000332	total amylase activity trait	TAMYASEACT|amylase activity
+RTO:0000333	kneeing ability	KNEAB|KnA|tiller angle
+RTO:0000334	beta-amylase activity trait	BETAAMYASEACT
+RTO:0000335	stem thickness	CULMTH|STEMTH|culm thickness|culm thickness (sensu Poaceae)
+RTO:0000336	total soluble sugar content	TSOLSUGARCN
+RTO:0000337	plant genetic trait	obsolete trait term
+RTO:0000338	panicle axis angle	PnAk
+RTO:0000339	grass weed	grass weed
+RTO:0000340	days to flowering trait	DTFL|Delay in flowering time|days to flowering
+RTO:0000341	seed viability	SDVIA
+RTO:0000342	tiller number	TINB
+RTO:0000343	weed damage	weed damage
+RTO:0000344	sogatodes resistance	SAGRS
+RTO:0000345	cms-hl type	HLCMS|CMS-HL
+RTO:0000346	zinc sensitivity	zinc deficiency|PDef|ZNSN
+RTO:0000347	plant dry weight	total dry mass|RTWT|PTDWT|DMASS|dry mass
+RTO:0000348	aborted at pollen maturity stage	PMTABR
+RTO:0000349	aluminum sensitivity	ALSN|aluminium sensitivity|aluminum toxicity
+RTO:0000350	heterosis	HET|hybrid vigor|heterosis in f1 hybrid
+RTO:0000351	brown spot disease resistance	BS
+RTO:0000352	plant growth and development trait	plant growth and development trait
+RTO:0000353	female sterility	FEMST
+RTO:0000354	female flowering	DTSLK|Female flower anthesis|days to silk|FFLW|FEMFLW|Female flower flowering
+RTO:0000355	leaf elongation rate	leaf growth rate|LFELRATE
+RTO:0000356	stem morphology trait	core morphology trait
+RTO:0000357	rot disease	rot disease
+RTO:0000358	leaf collar color	LFCCL|collar color|CC
+RTO:0000359	male flowering	MALEFLW|male flower anthesis|male flower flowering|MFLW
+RTO:0000360	reproductive growth time	RGTM
+RTO:0000361	basal leaf sheath color	BALFSCL|BLSC
+RTO:0000362	shoot elongation rate	elongation of plant height|SHELRATE
+RTO:0000363	vegetative growth time	VGTM
+RTO:0000364	leaf width	LW|LFWD|lfwid
+RTO:0000365	yield trait	YLD
+RTO:0000366	amylose to amylopectin ratio	AMYAMYPCTRO
+RTO:0000367	inflorescence morphology trait	Head morphology trait|inflorescence structure trait
+RTO:0000368	breakdown viscosity	BRKVIS
+RTO:0000369	brown rice length to width ratio	BRWRRO|brown rice length to width ratio
+RTO:0000370	consistency viscosity	CONVIS
+RTO:0000371	cooked grain elongation	cooked kernel elongation|CKKEL
+RTO:0000372	leaf scald disease resistance	LSc|LFSRS
+RTO:0000373	cool paste viscosity	CPVIS
+RTO:0000374	planthopper	planthopper
+RTO:0000375	cracked grain percentage	fissured grain percentage|CRKGRPCENT
+RTO:0000376	1000-grain weight	thousand grain weight|TSDWT|1000-grain weight|TGRWT|thousand seed weight
+RTO:0000377	grain belly percent white	GRBPCENTWHT
+RTO:0000378	nematode damage resistance	NDRS
+RTO:0000379	milled grain color	MGRCL|GRCL
+RTO:0000380	rice ragged stunt virus resistance	RSVRS
+RTO:0000381	plant trait	plant quality|plant phenotype
+RTO:0000382	forage yield	straw yield|FRGYLD|FY
+RTO:0000383	nuclear mediated male sterility	nuclear mediated male sterility
+RTO:0000384	grain core percent white	GRCPCENTWHT
+RTO:0000385	seed size	seed size
+RTO:0000386	sterility or fertility trait	sterility or fertility trait
+RTO:0000387	yield and yield component	yield and yield component
+RTO:0000388	drought related trait	dessication related trait
+RTO:0000389	grain yield trait	GRYLD|Yld
+RTO:0000390	grain size	GRSZ
+RTO:0000391	whole plant morphology trait	whole plant morphology trait
+RTO:0000392	grain thickness	GRTH
+RTO:0000393	sterile lemma color	STLEMCL|SLmC
+RTO:0000394	plant growth hormone sensitivity	growth regulator sensitivity|plant hormone response
+RTO:0000395	dehulled grain width	GRWD|dehulled grain width|width of grain without hull|DHULGRWD|dehulled grain curved width
+RTO:0000396	leaf-folder resistance	LFFRS|LF
+RTO:0000397	nodal rooting	nodal rooting
+RTO:0000398	caseworm resistance	paddy caseworm|float worm|CW|hama putih (indonesian)|CWRS
+RTO:0000399	panicle threshability	PNTH|Thr
+RTO:0000400	hoppers	hoppers
+RTO:0000401	hot paste viscosity	HPVIS
+RTO:0000402	peak viscosity	PVIS
+RTO:0000403	polished rice protein content	POLRPROTCN
+RTO:0000404	grain length to width ratio	SDLGWDRO|GRLGWDRO
+RTO:0000405	setback viscosity	setback|SETBKVIS|SETBK
+RTO:0000406	rice tungro virus resistance	RTVRS|RTD
+RTO:0000407	white rice protein content	polished rice protein|protein content for polished rice|WHTRPROTCN
+RTO:0000408	aborted bi-nucleate stage	BNUABR
+RTO:0000409	embryo sac abortion	EBSABR
+RTO:0000410	lemma and palea pubescence	LmPb
+RTO:0000411	bakanae disease resistance	BKRS|Bak
+RTO:0000412	vascular leaf morphology trait	vascular leaf morphology trait
+RTO:0000413	fertility related trait	fertility related trait
+RTO:0000414	pollen fertility	POFRT
+RTO:0000415	narrow brown leaf spot disease resistance	NBLS|NBLFSPRS
+RTO:0000416	gall midge resistance	GMRS|GM
+RTO:0000417	brown planthopper resistance	BPHRS|BPH
+RTO:0000418	anther culturability	anther culture response|ANTCAB
+RTO:0000419	stem internode color	INCL|culm internode color|CmlC
+RTO:0000420	culm angle	CULMAG|CmA
+RTO:0000421	callus induction	CAIND
+RTO:0000422	salt sensitivity	Sal|saline sensitivity|SALTSN
+RTO:0000423	germination rate	GERMRATE|germination speed|GERMSP
+RTO:0000424	ear length	earln|EARLG|ear infructescence length
+RTO:0000425	temperature response trait	temperature response trait
+RTO:0000426	ear diameter	EARDIA|eard|ear infructescence diameter
+RTO:0000427	root activity	RTACT
+RTO:0000428	seed longevity	SDLNG
+RTO:0000429	spikelet sterility	SPKST
+RTO:0000430	male sterility	degree of male sterility of male sterile lines|MALEST|male sterility measure
+RTO:0000431	fungal disease resistance	fungal disease resistance
+RTO:0000432	grain number per plant	GRNBPPT
+RTO:0000433	humidity related trait	humidity related trait
+RTO:0000434	plant fresh weight	PLFWT
+RTO:0000435	ear infructescence number	ENO|ears per plant|ENP|ear number per plant|ears per 10 plants|EARNB
+RTO:0000436	parasitic weed	parasitic weed
+RTO:0000437	fruit seed number	SDNB
+RTO:0000438	leaf drying	LFDRY
+RTO:0000439	filled grain number	number of grains per panicle|grain number per panicle (sensu Oryza)|FGRNB|FILGRNB|filled fruit number|GRNBPPN|filled grain number per panicle
+RTO:0000440	filled grain percentage	FGRPCENT|Filled grain percent per panicle
+RTO:0000441	grain yield per plant	GRYLDPPL
+RTO:0000442	grain yield per panicle	GRYLDPPN
+RTO:0000443	large vascular bundle number to spikelet number ratio	LVBNBSPKNBRO
+RTO:0000444	leaf area to spikelet number ratio	LFARSPKNBRO
+RTO:0000445	panicle to tiller ratio	panicle tiller ratio|PNTIRO|productive tiller percent
+RTO:0000446	stem borer resistance	SB|CULMBRRS
+RTO:0000447	seed set percent	percent seed set|SDSPCENT
+RTO:0000448	spikelet number	SPKNB|spikelet number per panicle|number of spikelets per panicle
+RTO:0000449	total biomass yield	dry matter yield|TBIOMYLD|total dry weight
+RTO:0000450	drought recovery	DRR
+RTO:0000451	root epidermis cell length	RTEPCELLG
+RTO:0000452	light intensity sensitivity	light intensity response
+RTO:0000453	basic vegetative phase	BAVEGPH
+RTO:0000454	gelatinization temperature	GELTZTMP
+RTO:0000455	anthesis silking interval	ASI|FLWSLKINTER|ANTSKIT
+RTO:0000456	albino plantlet differentiation frequency	ALBPTLDFQ
+RTO:0000457	mineral and ion content trait	mineral and ion content trait
+RTO:0000458	carbon content	CBCN
+RTO:0000459	cell membrane stability	CELMBSTB
+RTO:0000460	leaf blast disease resistance	LFBLRS|Bl
+RTO:0000461	days to maturity	time to harvest|Mat|DTMT
+RTO:0000462	vascular tissue morphology trait	vascular tissue morphology trait
+RTO:0000463	root penetration index	RTPNID
+RTO:0000464	vascular bundle number	VBNB
+RTO:0000465	grain shattering	GRSH|caryopsis shattering
+RTO:0000466	glume opening	glume angle|opening of glume of male sterile lines
+RTO:0000467	adventitious root thickness	ADVRTTH
+RTO:0000468	growth hormone content	growth hormone content
+RTO:0000469	panicle blast disease resistance	PB|PNBLRS
+RTO:0000470	abscisic acid concentration	abscisic acid accumulation|ABACONC|abscisic acid content|ABA concentration
+RTO:0000471	acid sensitivity	ADSN
+RTO:0000472	nutrient sensitivity	nutrient deficiency
+RTO:0000473	alkali sensitivity	ALKSN
+RTO:0000474	chemical stress sensitivity	chemical stress sensitivity
+RTO:0000475	germinability at low temperature	GERMABITMP|germination ability at low temperature
+RTO:0000476	seed shape	SDSHP
+RTO:0000477	sterility related trait	sterility related trait
+RTO:0000478	seed color	SDCL
+RTO:0000479	endosperm color	ENDCL
+RTO:0000480	seed composition quality trait	seed composition quality trait
+RTO:0000481	carbohydrate composition related trait	carbohydrate composition related trait
+RTO:0000482	seed protein composition trait	seed protein composition trait
+RTO:0000483	fat and essential oil composition related trait	fat and essential oil composition related trait
+RTO:0000484	leaf shape	LFSHP
+RTO:0000485	leaf composition trait	leaf composition trait
+RTO:0000486	pigment content trait	pigment content trait
+RTO:0000487	chlorophyll content	CHLCN
+RTO:0000488	carotenoid content	CRTCN
+RTO:0000489	fertility restoration trait	RF
+RTO:0000490	female fertility restoration trait	FEMRF
+RTO:0000491	flower morphology trait	flower morphology trait
+RTO:0000492	spikelet weight	SPKWT
+RTO:0000493	potassium chlorate resistance	KClO3 resistance|KCLO3RS
+RTO:0000494	leaf rolling time	LFRLTM
+RTO:0000495	leaf temperature	LFTMP
+RTO:0000496	leaf weight	LFWT
+RTO:0000497	nitrogen recycling	NIRCYC|nitrogen conservation
+RTO:0000498	osmotic adjustment capacity	OSADJCAP
+RTO:0000499	penetrated root length	PENRTLG
+RTO:0000500	penetrated to total root ratio	PENTRTRO
+RTO:0000501	phosphorus uptake	PHOUP
+RTO:0000502	plant survival percentage under submergence	PTSPCENTSUB
+RTO:0000503	potassium concentration	KCONC
+RTO:0000504	potassium uptake	KUP
+RTO:0000505	relative growth rate	RELGRATE
+RTO:0000506	relative root length	RELRTLG
+RTO:0000507	relative shoot elongation under submergence	RELSHELSUB
+RTO:0000508	rooting depth	maximum rooting depth|RTDP
+RTO:0000509	stomatal closure rate	STOCSRRATE
+RTO:0000510	stomatal closure time	STOCSRTM
+RTO:0000511	stomatal conductance	STOCOND
+RTO:0000512	stomatal resistance	STORS
+RTO:0000513	submergence tolerance	SUBTL
+RTO:0000514	sodium to potassium content ratio	NAKRO|Na/K ratio|sodium to potassium ratio
+RTO:0000515	sodium concentration	NACONC
+RTO:0000516	sodium uptake	NAUP
+RTO:0000517	total shoot elongation under submergence	TSHELSUB
+RTO:0000518	abaxial stomatal frequency	ABXSTOFQ
+RTO:0000519	adaxial stomatal frequency	ADXSTOFQ
+RTO:0000520	anther length	ANTLG
+RTO:0000521	lemma apiculus hair length	APIHLG|APIHRLG
+RTO:0000522	culm color	CULMCL
+RTO:0000523	spikelet floret color	FLCL
+RTO:0000524	flower color	FLCL
+RTO:0000525	large vascular bundle number to leaf area ratio	LVBNBLFARRO
+RTO:0000526	large vascular bundle number	LVBNB
+RTO:0000527	leaf area trait	LFAR
+RTO:0000528	leaf position	leaf height|LFHT
+RTO:0000529	leaf length to width ratio	LFLGWDRO
+RTO:0000530	leaf nitrogen content	LFNICN
+RTO:0000531	mesocotyl length	MCTLG
+RTO:0000532	panicle base to lowest branch	panicle base to lowest primary panicle branch|panicle base to first primary branch|PNBLBR|peduncle length from panicle base to first primary branch
+RTO:0000533	peduncle top diameter	PDTDIA
+RTO:0000534	primary branch number	number of primary rachis branches|primary branches per panicle|panicle primary branch number|PRB|NPB|PBRNB
+RTO:0000535	rhizome number	rhizome number per plant|RHZNB
+RTO:0000536	rhizome morphology trait	rhizome morphology trait
+RTO:0000537	rhizome branch angle	rhizome branching degree|RHZBRAG
+RTO:0000538	rhizome branch number	rhizome branching number per plant|RHZBRNB
+RTO:0000539	shoot dry weight	total shoot dry weight|SHDWT
+RTO:0000540	rhizome length	average rhizome length|RHZLG
+RTO:0000541	rhizome internode length	average rhizome internode length|RHZINLG
+RTO:0000542	rhizome internode number	average rhizome internode number|RHZINNB
+RTO:0000543	rhizome dry weight	rhizome dry weight per plant|RHZDWT
+RTO:0000544	secondary branch number	SBRNB|secondary branches per panicle
+RTO:0000545	small vascular bundle number	SVBNB
+RTO:0000546	plant volume	SP|space
+RTO:0000547	space per culm	SPPCULM|tiller volume
+RTO:0000548	space to culm ratio	SPCULMRO
+RTO:0000549	specific leaf area	SLA|leaf specific area|SLFAR
+RTO:0000550	spikelet length to width ratio	SPKLGWDRO
+RTO:0000551	spikelet width	SPKWD
+RTO:0000552	spikelets per panicle length	spikelet number per panicle length|number of spikelets per cm panicle length|SPKPPNLG
+RTO:0000553	leaf stomatal complex frequency	STOFQ
+RTO:0000554	tiller angle	TIAG
+RTO:0000555	shoot axis weight	SHWT|total shoot weight
+RTO:0000556	white-backed planthopper egg mortality	WBPHOVI|WBPH egg mortality
+RTO:0000557	watery lesion percentage	percentage of watery lesion|WLPCENT
+RTO:0000558	shoot fresh weight	total shoot fresh weight|SHFWT
+RTO:0000559	petal color	petal color
+RTO:0000560	sepal color	sepal color
+RTO:0000561	tepal color	tepal color
+RTO:0000562	endosperm morphology trait	endosperm morphology trait
+RTO:0000563	stem length	CmL|culm length|STEMLG|CULMLG|culm height|core length|stem height
+RTO:0000564	stem angle	STEMAG
+RTO:0000565	root fresh weight	total root fresh weight|RTFWT
+RTO:0000566	root dry weight to tiller number ratio	deep root dry weight to tiller number ratio|RTDWTTINBRO
+RTO:0000567	cytoplasmic male sterility	cytoplasmic male sterility
+RTO:0000568	inflorescence color	head color
+RTO:0000569	inflorescence number	INFLONB
+RTO:0000570	infructescence weight	infructescence weight
+RTO:0000571	seminal root length	seminal root length
+RTO:0000572	endosperm quality	End|endosperm quality (sensu Poaceae)
+RTO:0000573	average grain weight	average grain weight
+RTO:0000574	dehulled grain weight	DHULGRWT|GRWT
+RTO:0000575	100-dehulled grain weight	HDHULGRWT|hundred dehulled grain weight|HDGRWT|hundred grain weight
+RTO:0000576	1000-dehulled grain weight	TDHULGRWT|thousand dehulled grain weight|TDGRWT|thousand grain weight
+RTO:0000577	polished grain weight	PLSGRWT
+RTO:0000578	100-polished grain weight	HPLSGRWT|hundred polished grain weight
+RTO:0000579	1000-polished grain weight	TPLSGRWT|thousand polished grain weight
+RTO:0000580	plant volume (sensu Poaceae)	plant volume (sensu Poaceae)
+RTO:0000581	plant quality trait	plant quality trait
+RTO:0000582	protein content	total protein content|PROTCN
+RTO:0000583	enzyme activity trait	enzymatic activity|enzyme catalytic activity
+RTO:0000584	UV-A light sensitivity	Ultraviolet-A resistance|UVARS|Ultraviolet-A light sensitivity|UV-A resistance
+RTO:0000585	UV-B light sensitivity	Ultraviolet-B resistance|Ultraviolet-A light sensitivity|UVBRS|UV-B resistance
+RTO:0000586	total fat content	FATCN|lipid content
+RTO:0000587	magnesium to potassium content ratio	ratio of magnesium to potassium|MGKCNRO|Magnesium to potassium ratio
+RTO:0000588	fat and essential oil content	fat and essential oil content
+RTO:0000589	hydrogen peroxide content	H2O2 content|H2O2CN
+RTO:0000590	diastatic power	DIASPWR
+RTO:0000591	ash content	ash content
+RTO:0000592	sodium content	sodium content
+RTO:0000593	potassium content	potassium content
+RTO:0000594	soluble to total protein ratio	Soluble protein to total protein content ratio|STPROTRO
+RTO:0000595	malt-extract percentage	MALTEXTPCENT|malt-extract percent
+RTO:0000596	grain density	test weight|SDDN
+RTO:0000597	groat percentage	groat proportion|hull percentage|caryopsis percentage|GROATPCENT
+RTO:0000598	lemma shape	lemma shape
+RTO:0000599	abscisic acid sensitivity	ABASN|ABA response|abscisic acid response
+RTO:0000600	leaf perimeter	LFCIRCUM|leaf circumference
+RTO:0000601	colored grain percentage	percentage of red rice grains|percentage of damaged yellow rice grains|percentage of green rice grains
+RTO:0000602	crushed grain percentage	percentage brokens|percent broken|CRUSHDHULGRPCENT|CRUSHGRPCENT|cracked grain percentage|crushed dehulled-grain percentage|cracked dehulled-grain percentage
+RTO:0000603	vivipary	preharvest germination
+RTO:0000604	plant embryo development trait	plant embryo development trait
+RTO:0000605	inflorescence development trait	inflorescence development trait
+RTO:0000606	flower development trait	floret development trait
+RTO:0000607	involucre bristle length	sterile inflorescence branch length|INVLCBS|bristle length
+RTO:0000608	allelopathic effect	ALLELPATHEF
+RTO:0000609	spikelet density	SPKDN
+RTO:0000610	relative phosphorus distribution between shoot and root	RELPHOCONCSHRT
+RTO:0000611	relative phosphorus utilization efficiency	RELPHOUTZEFY
+RTO:0000612	pearl millet downy mildew resistance	Pg_DNMDRS
+RTO:0000613	days to tassel	days to tassel flowering
+RTO:0000614	pedicel length	PDCLG
+RTO:0000615	green plantlet differentiation frequency	GRNPTLDFQ
+RTO:0000616	green plantlet yield frequency	GRNPTLYLDFQ
+RTO:0000617	relative total dry weight	RELTDWT
+RTO:0000618	stem node number	NDNB
+RTO:0000619	popping expansion volume	popcorn volume|POPEXPVOL
+RTO:0000620	relative shoot dry weight	RELSHDWT
+RTO:0000621	spike width	SPIKEWD
+RTO:0000622	seed fertility	percent seed fertility|SDFRT
+RTO:0000623	total root number	TRTNB
+RTO:0000624	inflorescence primary branch length	PBRLG
+RTO:0000625	leaf sheath diameter	LFSDIA
+RTO:0000626	inflorescence bristle length	BRLG
+RTO:0000627	relative root dry weight	RELRTDWT
+RTO:0000628	relative phosphorus concentration	RELPHOCONC
+RTO:0000629	cauline axillary branch number	CAUAXIBRNB
+RTO:0000630	relative acid phosphatase activity	RELACIDPASEACT
+RTO:0000631	relative phosphorus uptake	RELPHOUP
+RTO:0000632	peduncle width	PDCWD
+RTO:0000633	lemma length	LEMLG
+RTO:0000634	flour color	FLRCL
+RTO:0000635	leaf necrosis	LFNEC|leaf scorch
+RTO:0000636	seed growth and development trait	seed growth and development trait
+RTO:0000637	shoot system growth and development trait	shoot system growth and development trait
+RTO:0000638	leaf growth and development trait	leaf growth and development trait
+RTO:0000639	root development trait	root development trait
+RTO:0000640	spikelet morphology trait	spikelet morphology trait
+RTO:0000641	days to silk	days to silk
+RTO:0000642	phyllochron	phyllochron
+RTO:0000643	axillary bud dormancy	axillary bud dormancy
+RTO:0000644	tiller bud dormancy	tiller bud dormancy
+RTO:0000645	barley fusarium head blight resistance	Hv_FUSHEADBTRS
+RTO:0000646	wheat fusarium head blight resistance	Ta_FUSHEADBTRS
+RTO:0000647	fungal blight disease resistance	fungal blight disease resistance
+RTO:0000648	grain core area white	GRCARWHT
+RTO:0000649	brown rice yield	BRWRYLD
+RTO:0000650	cooking or brewing quality	cooking or brewing quality
+RTO:0000651	mycotoxin content	mycotoxin content
+RTO:0000652	deoxynivalenol content	DONCONC
+RTO:0000653	floret number	FLNB
+RTO:0000654	pre-flowering flower abortion	frequency of pre-flowering floret abortion|PREFLFLRABR|pre-flowering floret abortion
+RTO:0000655	bran percentage	rice bran percentage|BRAPCENT
+RTO:0000656	tetraploid wheat fusarium head blight resistance	Tt_FUSHEADBTRS|tetraploid wheat fusarium head blight disease resistance
+RTO:0000657	phytochemical compound content	phytochemical compound content
+RTO:0000658	ferulic acid content	FERULICACIDCN|4-hydroxy-3-methoxycinnamic acid
+RTO:0000659	style color	color of style|STYCL|color of silk|silk color
+RTO:0000660	third leaf position	third leaf height|3rd leaf height|3LFHT
+RTO:0000661	cob diameter	cobd|diameter of central spike of ear|COBDIA
+RTO:0000662	inflorescence circumference	INFLOCIRCUM
+RTO:0000663	ear circumference	EARCIRCUM|ear infructescence circumference
+RTO:0000664	inflorescence height	INFLOHT
+RTO:0000665	ear infructescence position	ear height|EARHT
+RTO:0000666	grassy flavor	GRASSYFLVOR|grassy flavour
+RTO:0000667	fruit tenderness	TENDER|FRTENDER
+RTO:0000668	juiciness	JUICE|succulence
+RTO:0000669	kernel row number per ear	kernel row number per ear|KERROWNB
+RTO:0000670	kernel row length	kernel set length|KERROWLG
+RTO:0000671	grain tenderness	kernel tenderness|GRTENDER
+RTO:0000672	maysin content	MAYSINCN
+RTO:0000673	Zea mays northern leaf blight disease resistance	Zea mays northern leaf blight disease resistance
+RTO:0000674	NCLB incubation period	NLFBTINCUBPD
+RTO:0000675	NCLB area under disease progress curve	AUDPC|NLFBTPROGCURV
+RTO:0000676	fruit crispness	CRISP
+RTO:0000677	leaf margin color	LFMCL|leaf margin pigmentation|pigmentation of leaf margin
+RTO:0000678	starch content	STARCHCN
+RTO:0000679	starch yield	STARCHYLD
+RTO:0000680	starchiness	mealiness|STARCH
+RTO:0000681	sucrose synthase activity trait	SUSACT
+RTO:0000682	fruit sweetness	SWEET|FRSWEET
+RTO:0000683	turgor pressure	TURGPRES
+RTO:0000684	starch concentration	STARCHCONC
+RTO:0000685	amylase activity trait	amylase activity trait
+RTO:0000686	phosphatase activity trait	phosphoric monoester hydrolase activity
+RTO:0000687	acid phosphatase activity trait	ACIDPASEACT
+RTO:0000688	hull color	HULCL
+RTO:0000689	pericarp color	bran color|dehulled grain color|PERICARPCL|DHULGRCL|grain color
+RTO:0000690	plant color	plant color
+RTO:0000691	leaf gloss	leaf gloss
+RTO:0000692	globulin protein content	globulin protein content
+RTO:0000693	imidazolinone sensitivity	imidazolinone sensitivity
+RTO:0000694	sulfonylurea herbicide sensitivity	sulfonylurea herbicide sensitivity
+RTO:0000695	brittle endosperm	brittle endosperm
+RTO:0000696	seminal rootless	absence of seminal roots
+RTO:0000697	fascicled ear	fascicled ear
+RTO:0000698	etched endosperm	etched endosperm
+RTO:0000699	rough endosperm	rough endosperm
+RTO:0000700	wrinkled seed	wrinkled kernel
+RTO:0000701	leaf vein color	leaf vein color
+RTO:0000702	leaf midrib color	leaf midrib color
+RTO:0000703	leaf adherence	leaf adherence
+RTO:0000704	sporocyte development trait	sporocyte development trait
+RTO:0000705	microsporocyte development trait	microsporocyte development trait
+RTO:0000706	megasporocyte development trait	megasporocyte development trait
+RTO:0000707	megasporocyte number	megasporocyte number
+RTO:0000708	microsporocyte number	microsporocyte number
+RTO:0000709	sporogenesis	sporogenesis
+RTO:0000710	cell cycle trait	cell division cycle
+RTO:0000711	meiotic cell cycle trait	meiotic cell cycle trait
+RTO:0000712	mitotic cell cycle trait	mitotic cell cycle trait
+RTO:0000713	lignin content	lignin content
+RTO:0000714	lignin monomer content	lignin monomer content
+RTO:0000715	lignin biosynthesis trait	lignin biosynthesis
+RTO:0000716	grain length	GRLG|kernel length|DHULGRLG|KERLG|length of grain without hull|length of dehulled grain
+RTO:0000717	plastochron	plastochron
+RTO:0000718	plant organ morphology trait	plant organ morphology trait
+RTO:0000719	plant aspect	plant aspect
+RTO:0000720	plant axis morphology trait	plant axis morphology trait
+RTO:0000721	shoot axis morphology trait	shoot axis morphology trait
+RTO:0000722	branch morphology trait	branch morphology trait
+RTO:0000723	tuber morphology trait	tuber morphology trait
+RTO:0000724	subterranean shoot axis tuber morphology trait	subterranean shoot axis tuber morphology trait
+RTO:0000725	subterranean shoot axis tuber shape	tuber shape
+RTO:0000726	subterranean shoot axis tuber size	tuber size
+RTO:0000727	subterranean shoot axis tuber appearance	tuber appearance
+RTO:0000728	subterranean shoot axis tuber mass	tuber mass
+RTO:0000729	phyllome morphology trait	phyllome morphology trait
+RTO:0000730	leaf morphology trait	leaf morphology trait
+RTO:0000731	cotyledon morphology trait	cotyledon morphology trait
+RTO:0000732	seedling cotyledon color	seedling cotyledon color
+RTO:0000733	seedling cotyledon number	seedling cotyledon number
+RTO:0000734	seedling cotyledon size	seedling cotyledon size
+RTO:0000735	coleoptile morphology trait	coleoptile morphology trait
+RTO:0000736	cardinal organ part morphology trait	cardinal organ part morphology trait
+RTO:0000737	shoot axis internode morphology trait	shoot axis internode morphology trait
+RTO:0000738	stem internode morphology trait	stem internode morphology trait
+RTO:0000739	hypocotyl morphology trait	hypocotyl morphology trait
+RTO:0000740	mesocotyl morphology trait	mesocotyl morphology trait
+RTO:0000741	seedling hypocotyl color	seedling hypocotyl color
+RTO:0000742	seedling hypocotyl green	seedling hypocotyl green
+RTO:0000743	seedling hypocotyl green with bronze band	seedling hypocotyl green with bronze band
+RTO:0000744	seedling hypocotyl purple	seedling hypocotyl purple
+RTO:0000745	seedling hypocotyl dark purple	seedling hypocotyl dark purple
+RTO:0000746	stalk morphology trait	stalk morphology trait
+RTO:0000747	petiole morphology trait	petiole morphology trait
+RTO:0000748	petiole length	petiole length
+RTO:0000749	petiole shape	petiole shape
+RTO:0000750	petiole size	petiole size
+RTO:0000751	seedling hypocotyl morphology trait	seedling hypocotyl morphology trait
+RTO:0000752	bacterial blight disease resistance	bacterial blight disease resistance
+RTO:0000753	embryo hypocotyl morphology trait	embryo hypocotyl morphology trait
+RTO:0000754	seedling mesocotyl morphology trait	seedling mesocotyl morphology trait
+RTO:0000755	embryo mesocotyl morphology trait	embryo mesocotyl morphology trait
+RTO:0000756	seedling cotyledon morphology trait	seedling cotyledon morphology trait
+RTO:0000757	plant embryo cotyledon morphology trait	plant embryo cotyledon morphology trait
+RTO:0000758	peduncle morphology trait	peduncle morphology trait
+RTO:0000759	peduncle waxiness	peduncle waxiness
+RTO:0000760	peduncle type	peduncle type
+RTO:0000761	peduncle color	peduncle color
+RTO:0000762	peduncle attachment	pod attachment
+RTO:0000763	seedling hypocotyl size	seedling hypocotyl size
+RTO:0000764	inflorescence axis morphology trait	inflorescence axis morphology trait
+RTO:0000765	inflorescence axis size	inflorescence axis size
+RTO:0000766	inflorescence branch morphology trait	inflorescence branch morphology trait
+RTO:0000767	tassel branch morphology trait	tassel branch morphology trait
+RTO:0000768	reproductive shoot system morphology trait	reproductive shoot system morphology trait
+RTO:0000769	inflorescence waxiness	inflorescence waxiness
+RTO:0000770	tassel inflorescence morphology trait	tassel inflorescence morphology trait
+RTO:0000771	bud morphology trait	bud morphology trait
+RTO:0000772	axillary bud morphology trait	axillary bud morphology trait
+RTO:0000773	axillary bud size	axillary bud size
+RTO:0000774	axillary bud number	axillary bud number
+RTO:0000775	axillary bud shape	axillary bud shape
+RTO:0000776	axillary bud prominence	axillary bud prominence
+RTO:0000777	tassel inflorescence color	tassel inflorescence color
+RTO:0000778	tassel inflorescence circumference	tassel inflorescence circumference
+RTO:0000779	tassel inflorescence height	tassel inflorescence height
+RTO:0000780	tassel inflorescence length	tassel inflorescence length
+RTO:0000781	tassel inflorescence diameter	tassel inflorescence diameter
+RTO:0000782	inflorescence density	head density
+RTO:0000783	inflorescence depth	head depth
+RTO:0000784	inflorescence diameter	head diameter
+RTO:0000785	inflorescence weight	head weight
+RTO:0000786	inflorescence width	INFLWD|head width
+RTO:0000787	inflorescence texture	head texture
+RTO:0000788	inflorescence presence	inflorescence presence
+RTO:0000789	pseudostem morphology trait	pseudostem morphology trait
+RTO:0000790	pseudostem length	pseudostem length
+RTO:0000791	pseudostem shape	pseudostem shape
+RTO:0000792	pseudostem color	pseudostem color
+RTO:0000793	pseudostem diameter	pseudostem diameter
+RTO:0000794	tassel branch dry weight	tassel branch dry weight
+RTO:0000795	tassel branch number	tassel branch number
+RTO:0000796	tassel inflorescence type	tassel inflorescence type
+RTO:0000797	bract morphology trait	bract morphology trait
+RTO:0000798	inflorescence bract morphology trait	husk
+RTO:0000799	inflorescence bract length	husk length
+RTO:0000800	inflorescence bract cover	husk cover
+RTO:0000801	inflorescence bract color	husk color
+RTO:0000802	leaf vein morphology trait	leaf vein morphology trait
+RTO:0000803	leaf vein size	leaf vein size
+RTO:0000804	leaf midvein morphology trait	leaf midrib
+RTO:0000805	leaf midvein thickness	leaf midrib
+RTO:0000806	leaf attitude	leaf attitude
+RTO:0000807	leaf flexibility	leaf flexibility
+RTO:0000808	leaf volume	leaf volume
+RTO:0000809	leaf lamina area	leaf lamina area
+RTO:0000810	leaf cover	leaf cover
+RTO:0000811	leaf lamina morphology trait	leaf lamina morphology trait
+RTO:0000812	leaf lamina margin morphology trait	leaf lamina margin morphology trait
+RTO:0000813	adult leaf morphology trait	adult leaf morphology trait
+RTO:0000814	flag leaf morphology trait	flag leaf morphology trait
+RTO:0000815	organ margin morphology trait	organ margin morphology trait
+RTO:0000816	phyllome margin morphology trait	phyllome margin morphology trait
+RTO:0000817	leaf sheath morphology trait	leaf sheath morphology trait
+RTO:0000818	multi-tissue plant structure morphology trait	multi-tissue plant structure morphology trait
+RTO:0000819	cardinal part of a multi-tissue plant structure morphology trait	cardinal part of a multi-tissue plant structure morphology trait
+RTO:0000820	seed coat morphology trait	seed coat morphology trait
+RTO:0000821	plant structure morphology trait	plant structure morphology trait
+RTO:0000822	collective plant structure morphology trait	collective plant structure morphology trait
+RTO:0000823	collective organ part structure morphology trait	collective organ part structure morphology trait
+RTO:0000824	collective plant organ structure morphology trait	collective plant organ structure morphology trait
+RTO:0000825	portion of plant tissue morphology trait	portion of plant tissue morphology trait
+RTO:0000826	in vitro plant structure morphology trait	in vitro plant structure morphology trait
+RTO:0000827	collective phyllome structure morphology trait	collective phyllome structure morphology trait
+RTO:0000828	inflorescence primary branch morphology trait	inflorescence primary branch morphology trait
+RTO:0000829	panicle inflorescence morphology trait	panicle related trait
+RTO:0000830	fruit diameter	fruit diameter
+RTO:0000831	fruit attachment	fruit attachment
+RTO:0000832	fruit type	fruit type
+RTO:0000833	fruit hairiness	fruit hairiness
+RTO:0000834	fruit set trait	fruit set trait
+RTO:0000835	spikelet floret shape	spikelet floret shape
+RTO:0000836	spikelet floret size	spikelet floret size
+RTO:0000837	spikelet floret diameter	spikelet floret diameter
+RTO:0000838	lodicule length	lodicule length
+RTO:0000839	lodicule type	lodicule type
+RTO:0000840	flower diameter	flower diameter
+RTO:0000841	flower shape	flower shape
+RTO:0000842	flower length	flower length
+RTO:0000843	flower abscission zone morphology trait	flower abscission zone morphology trait
+RTO:0000844	floral organ morphology trait	floral organ morphology trait
+RTO:0000845	petal morphology trait	petal morphology trait
+RTO:0000846	sepal morphology trait	sepal morphology trait
+RTO:0000847	tepal morphology trait	tepal morphology trait
+RTO:0000848	sporophyll morphology trait	sporophyll morphology trait
+RTO:0000849	megasporophyll morphology trait	megasporophyll morphology trait
+RTO:0000850	microsporophyll morphology trait	microsporophyll morphology trait
+RTO:0000851	glume morphology trait	glume morphology trait
+RTO:0000852	leaf yield trait	leaf yield trait
+RTO:0000853	fruit yield trait	fruit yield trait
+RTO:0000854	leaf erect	leaf erect
+RTO:0000855	leaf prostrate	leaf prostrate
+RTO:0000856	leaf penduloum	leaf penduloum
+RTO:0000857	leaf lamina splitting	leaf lamina splitting
+RTO:0000858	spine leaf morphology trait	spine leaf morphology trait
+RTO:0000859	spine leaf size	spine leaf size
+RTO:0000860	spine leaf color	spine leaf color
+RTO:0000861	stem hairiness	stem hairiness
+RTO:0000862	seed coat length	seed coat length
+RTO:0000863	flower type	flower type
+RTO:0000864	cleistogamus flower	cleistogamus flower
+RTO:0000865	chasmogamous flower	chasmogamous flower
+RTO:0000866	petiolule morphology trait	petiolule morphology trait
+RTO:0000867	petiolule color	petiolule color
+RTO:0000868	petiolule shape	petiolule shape
+RTO:0000869	petiolule length	petiolule length
+RTO:0000870	seed coat luster	seed coat luster
+RTO:0000871	seed coat hardness	seed coat hardness
+RTO:0000872	seed coat proportion	seed coat proportion
+RTO:0000873	leaf wet weight	leaf wet weight
+RTO:0000874	stem size	core size|stalk size
+RTO:0000875	stem shape	core shape
+RTO:0000876	fruit number trait	accessory fruit number
+RTO:0000877	fruit harvest index	fruit harvest index
+RTO:0000878	leaf harvest index	leaf harvest index
+RTO:0000879	seed harvest index	seed harvest index
+RTO:0000880	root nodule morphology trait	root nodule morphology trait
+RTO:0000881	root nodule weight	root nodule weight
+RTO:0000882	root nodule number	root nodule number
+RTO:0000883	dry fruit color	dry pod color
+RTO:0000884	seed coat pigment bleeding	seed coat pigment bleeding
+RTO:0000885	seed coat texture	seed coat texture
+RTO:0000886	seed coat pattern	seed coat pattern
+RTO:0000887	seed yield trait	seed yield trait
+RTO:0000888	exocarp morphology trait	epicarp morphology trait
+RTO:0000889	exocarp thickness	rind thickness
+RTO:0000890	fruit hollowness	fruit hollowness
+RTO:0000891	fruit color uniformity	fruit color uniformity
+RTO:0000892	fruit bitterness trait	fruit bitterness trait
+RTO:0000893	trichome morphology trait	trichome morphology trait
+RTO:0000894	trichome appressed	trichome appressed
+RTO:0000895	trichome acircular	trichome acircular
+RTO:0000896	trichome canescent	trichome canescent
+RTO:0000897	trichome capillary	trichome capillary
+RTO:0000898	trichome clavate	trichome clavate
+RTO:0000899	trichome ensiform	trichome ensiform
+RTO:0000900	trichome hirsute	trichome hirsute
+RTO:0000901	grain weight	kernel weight|caryopsis fruit weight|kwt|20 kernel weight|GRWT
+RTO:0000902	infructescence morphology trait	infructescence morphology trait
+RTO:0000903	infructescence axis morphology trait	infructescence axis morphology trait
+RTO:0000904	cob weight	cob weight
+RTO:0000905	ear weight	earwt
+RTO:0000906	cob color	cobpig
+RTO:0000907	non-vascular leaf morphology trait	non-vascular leaf morphology trait
+RTO:0000908	multi-tissue plant structure growth and development trait	multi-tissue plant structure growth and development trait
+RTO:0000909	plant organ growth and development trait	plant organ growth and development trait
+RTO:0000910	plant structure growth and development trait	plant structure growth and development trait
+RTO:0000911	fruit growth and development trait	fruit growth and development trait
+RTO:0000912	seed shattering	hilum abscission
+RTO:0000913	seed quality trait	seed quality trait
+RTO:0000914	mannose content	man content|D-mannose content
+RTO:0000915	plant phenological trait	plant phenological trait
+RTO:0000916	photoperiod-sensitive flowering time trait	flowering time response to photoperiod trait
+RTO:0000917	kernel weight per ear	kernel weight per ear
+RTO:0000918	infructescence yield trait	seeds per panicle
+RTO:0000919	kernel number per ear	kernel number per ear
+RTO:0000920	kernel number per row	78114
+RTO:0000921	tassel spike length	first order tassel inflorescence axis length
+RTO:0000922	tassel branch zone length	tassel branch zone length
+RTO:0000923	rank number per ear	rank number per ear
+RTO:0000924	aleurone layer morphology trait	aleurone layer morphology trait
+RTO:0000925	aleurone layer color	aleurone layer color
+RTO:0000926	aleurone layer appearance	aleurone layer appearance
+RTO:0000927	pericarp morphology trait	pericarp morphology trait
+RTO:0000928	endocarp morphology trait	endocarp morphology trait
+RTO:0000929	whole plant growth and development trait	whole plant growth and development trait
+RTO:0000930	mesocarp morphology trait	mesocarp morphology trait
+RTO:0000931	seedling growth and development trait	seedling growth and development trait
+RTO:0000932	corolla morphology trait	corolla morphology trait
+RTO:0000933	corolla color	corolla color
+RTO:0000934	stem weight	stalk weight
+RTO:0000935	stem number	stalk number
+RTO:0000936	spikelet rachilla morphology trait	spikelet rachilla morphology trait
+RTO:0000937	cyanide content	cyanide content
+RTO:0000938	cob shape	cob shape
+RTO:0000939	cob length	cob length
+RTO:0000940	cob width	cob width
+RTO:0000941	cob area	cob area
+RTO:0000942	cob angle	cob angle
+RTO:0000943	ear color	ear infructescence color
+RTO:0000944	ear shape	ear infructescence shape
+RTO:0000945	ear aspect	ear infructescence aspect
+RTO:0000946	ear infructescence position ratio	ear position ratio
+RTO:0000947	hilum morphology trait	hilum morphology trait
+RTO:0000948	hilum color	hilum color
+RTO:0000949	ear inflorescence morphology trait	ear inflorescence morphology trait
+RTO:0000950	panicle density	panicle density
+RTO:0000951	inflorescence hairiness	head hairiness
+RTO:0000952	spikelet rachilla length	rachilla length
+RTO:0000953	spikelet rachilla shape	rachilla shape
+RTO:0000954	spikelet rachilla hair type	rachilla hair type
+RTO:0000955	grain width	kernel width|caryopsis width
+RTO:0000956	ear infructescence morphology trait	ear infructescence morphology trait
+RTO:0000957	leaf foliage rating	leaf foliage rating
+RTO:0000958	glume shape	glume shape
+RTO:0000959	involucre morphology trait	involucre morphology trait
+RTO:0000960	plant embryo cotyledon color	plant embryo cotyledon colour
+RTO:0000961	root system morphology trait	root system morphology trait
+RTO:0000962	staminate flower number trait	male flower number trait
+RTO:0000963	pistillate flower number trait	female flower number trait
+RTO:0000964	shoot-borne shoot system morphology trait	shoot-borne shoot system morphology trait
+RTO:0000965	epicormic shoot system morphology trait	epicormic shoot system morphology trait
+RTO:0000966	seed hardness	seed hardness
+RTO:0000967	epicormic shoot system number	stem sucker number
+RTO:0000968	gibberellin biosynthesis trait	gibberellin biosynthesis
+RTO:0000969	cellulose content	cellulose content
+RTO:0000970	androecium morphology trait	androecium morphology trait
+RTO:0000971	aluminum content trait	Al content|aluminium content
+RTO:0000972	flag leaf area	flag leaf area
+RTO:0000973	polished grain length	white rice grain length
+RTO:0000974	polished grain width	white rice grain width
+RTO:0000975	polished grain length to width ratio	white rice grain length to width ratio
+RTO:0000976	glume cover	glume cover
+RTO:0000977	glume persistence	glume persistence
+RTO:0000978	inflorescence exsertion	inflorescence exsertion
+RTO:0000979	plant height uniformity	plant height uniformity
+RTO:0000980	basal tiller number	basal axillary shoot number
+RTO:0000981	basal tiller length	basal tiller height
+RTO:0000982	adventitious root number	adventitious root number
+RTO:0000983	coleoptile length	coleoptile length
+RTO:0000984	days to flag leaf emergence	days to flag leaf emergence
+RTO:0000985	deep root number	deep root number
+RTO:0000986	senesced leaf number	dead leaf number
+RTO:0000987	deep root weight ratio	deep root dry weight to total root dry weight ratio
+RTO:0000988	lateral root length	lateral root length
+RTO:0000989	lateral root number	lateral root number
+RTO:0000990	leaf dry weight	leaf dry weight
+RTO:0000991	photosynthetic rate	gross photosynthetic rate|leaf photosynthetic rate
+RTO:0000992	relative chlorophyll content	relative chlorophyll content
+RTO:0000993	water use efficiency	photosynthetic rate to transpiration rate ratio
+RTO:0000994	transpiration rate	transpiration rate
+RTO:0000995	root to total biomass ratio	root dry weight to total plant dry weight ratio
+RTO:0000996	exudate sap volume	Sap per tiller
+RTO:0000997	days to inflorescence exsertion	days to inflorescence emergence
+RTO:0000998	days to tassel emergence	days to tassel emergence
+RTO:0000999	days to ear shoot emergence	days to ear shoot emergence
+RTO:0001000	phosphorus content	PHOCN
+RTO:0001001	leaf phosphorus content	LFPHOCN
+RTO:0001002	respiration rate	respiration rate
+RTO:0001003	net photosynthetic rate	net photosynthetic rate
+RTO:0001004	osmotic adjustment break point	Break point of osmotic adjustment
+RTO:0001005	relative harvest index	relative harvest index
+RTO:0001006	relative leaf area	relative leaf area
+RTO:0001007	relative leaf dry weight	relative leaf dry weight
+RTO:0001008	relative panicle number	relative panicle number
+RTO:0001009	relative spikelet number	relative number of spikelet per panicle
+RTO:0001010	relative plant height	relative plant height
+RTO:0001011	stem width	culm width|culm diameter
+RTO:0001012	stem senescence	culm senescence
+RTO:0001013	root yield	root yield
+RTO:0001014	root quality trait	root quality trait
+RTO:0001015	barium content trait	Ba content
+RTO:0001016	cobalt content trait	Co content
+RTO:0001017	chromium content trait	Cr content
+RTO:0001018	iodine content trait	I content
+RTO:0001019	lead content trait	I content
+RTO:0001020	silicon content trait	Si content
+RTO:0001021	rubidium content trait	Rb content
+RTO:0001022	strontium content trait	Sr content
+RTO:0001023	root hair density	root hair density
+RTO:0001024	root cortex cross-sectional area	root cortex cross-sectional area
+RTO:0001025	subterranean shoot axis tuber length	subterranean shoot axis tuber length
+RTO:0001026	root stele cross-sectional area	root stele cross-sectional area
+RTO:0001027	root aerenchyma cross-sectional area	root aerenchyma cross-sectional area
+RTO:0001028	root cross sectional area	root cross sectional area
+RTO:0001029	root system width	root system width
+RTO:0001030	root system depth	root system depth
+RTO:0001031	root system width to depth ratio	root system width to depth ratio
+RTO:0001032	subterranean shoot axis tuber width	subterranean shoot axis tuber width
+RTO:0001033	inflorescence axis thickness	rachis thickness
+RTO:0001034	number of panicle internodes	number of panicle internodes
+RTO:0001035	panicle inflorescence internode length	panicle inflorescence internode length
+RTO:0001036	number of panicle inflorescence branches per internode	number of panicle inflorescence branches per internode
+RTO:0001037	panicle inflorescence terminal primary branch length	panicle inflorescence terminal primary branch length
+RTO:0001038	number of metaxylem vessels	number of metaxylem vessels
+RTO:0001039	days to booting	days to booting
+RTO:0001040	processing quality trait	processing quality trait
+RTO:0001041	cooking quality trait	cooking quality trait
+RTO:0001042	brewing quality trait	brewing quality trait
+RTO:0001043	shoot axis tuber yield	shoot axis tuber yield
+RTO:0001044	inflorescence axis length	RACHISLENG|rachis length
+RTO:0001045	fruit shattering	fruit shattering
+RTO:0001046	legume fruit shattering	pod shattering
+RTO:0001047	pulvinus size	pulvinus size
+RTO:0001048	infructescence development trait	infructescence development trait
+RTO:0001049	berry fruit morphology trait	berry fruit morphology trait
+RTO:0001050	capsule fruit morphology trait	capsule fruit morphology trait
+RTO:0001051	caryopsis fruit morphology trait	grain morphology trait|kernel morphology trait
+RTO:0001052	drupe fruit morphology trait	stone fruit morphology trait
+RTO:0001053	follicle fruit morphology trait	follicle fruit morphology trait
+RTO:0001054	legume fruit morphology trait	pod morphology trait
+RTO:0001055	nut fruit morphology trait	nut morphology trait
+RTO:0001056	samara fruit morphology trait	samara fruit morphology trait
+RTO:0001057	schizocarp fruit morphology trait	schizocarp fruit morphology trait
+RTO:0001058	silique fruit morphology trait	silique morphology trait
+RTO:0001059	achene fruit weight	achene fruit weight
+RTO:0001060	berry fruit weight	berry fruit weight
+RTO:0001061	capsule fruit weight	capsule fruit weight
+RTO:0001062	drupe fruit weight	drupe fruit weight
+RTO:0001063	follicle fruit weight	follicle fruit weight
+RTO:0001064	legume fruit weight	legume fruit weight
+RTO:0001065	nut fruit weight	nut fruit weight
+RTO:0001066	samara fruit weight	samara fruit weight
+RTO:0001067	schizocarp fruit weight	schizocarp fruit weight
+RTO:0001068	silique fruit weight	silique fruit weight
+RTO:0001069	achene fruit morphology trait	accessory fruit morphology trait
+RTO:0001070	pepo fruit morphology trait	pepo morphology trait
+RTO:0001071	pome fruit morphology trait	pome fruit morphology trait
+RTO:0001072	circumscissile capsule fruit morphology trait	circumscissile capsule fruit morphology trait
+RTO:0001073	utricle capsule fruit morphology trait	utricle capsule fruit morphology trait
+RTO:0001074	coccarium capsule fruit morphology trait	coccarium capsule fruit morphology trait
+RTO:0001075	loculicidal capsule fruit morphology trait	loculicidal capsule fruit morphology trait
+RTO:0001076	poricidal capsule fruit morphology trait	poricidal capsule fruit morphology trait
+RTO:0001077	septicidal capsule fruit morphology trait	septicidal capsule fruit morphology trait
+RTO:0001078	loment fruit morphology trait	loment fruit morphology trait
+RTO:0001079	hesperidium fruit morphology trait	citrus fruit morphology trait
+RTO:0001080	grain volume	kernel volume|GRVOL
+RTO:0001081	grain color trait	kernel color
+RTO:0001082	floral organ size	floral organ size
+RTO:0001083	stamen size	stamen size
+RTO:0001084	pistil size	pistil size
+RTO:0001085	petal size	petal size
+RTO:0001086	sepal size	sepal size
+RTO:0001087	petal length	petal length
+RTO:0001088	petal width	petal width
+RTO:0001089	sepal length	sepal length
+RTO:0001090	sepal width	sepal width
+RTO:0001091	stamen length	stamen length
+RTO:0001092	pistil length	pistil length
+RTO:0001093	homeotic development trait	homeotic mutation
+RTO:0001094	vegetative homeotic development trait	vegetative homeotic development trait
+RTO:0001095	reproductive homeotic development trait	reproductive homeotic development trait
+RTO:0001096	floral organ length	floral organ length
+RTO:0001097	floral organ width	floral organ width
+RTO:0001098	flowering time trait	anthesis timing|time of flowering
+RTO:0001099	fruit color	fruit color
+RTO:0001100	endocarp color	endocarp color
+RTO:0001101	mesocarp color	mesocarp color
+RTO:0001102	exocarp color	epicarp color
+RTO:0001103	fruit columella color	fruit columella color
+RTO:0001104	locular tissue trait	locular tissue trait
+RTO:0001105	pericarp texture	pericarp texture
+RTO:0001106	exocarp texture	exocarp texture
+RTO:0001107	fruit size	pod size|kernel size|FRSZ
+RTO:0001108	fruit length	pod length|GRLG|grain length
+RTO:0001109	fruit width	FRWD|kernel width|percentage of plump kernels|kernel plumpness|plump grain
+RTO:0001110	fruit shape	pod shape
+RTO:0001111	fruit morphology trait	fruit morphology
+RTO:0001112	fruit distal end shape	fruit distal end shape
+RTO:0001113	fruit proximal end shape	fruit proximal end shape
+RTO:0001114	fruit abscission zone size	size stem scar size
+RTO:0001115	fruit ripening trait	fruit ripening
+RTO:0001116	fruit firmness	fruit firmness
+RTO:0001117	leaf margin morphology trait	leaf margin curvature
+RTO:0001118	leaflet number	leaflet number
+RTO:0001119	leaf size	leaf size
+RTO:0001120	shoot meristem development	shoot meristem abortion
+RTO:0001121	shoot branching	shoot branching
+RTO:0001122	obsoleted fruit set trait	obsoleted fruit set trait
+RTO:0001123	acid detergent fiber	ADF|ACIDDETFIBR
+RTO:0001124	dietary fiber related trait	dietary fiber related trait
+RTO:0001125	carbon isotope discrimination	CBISOTPDISC
+RTO:0001126	dry matter digestibility	DMATTDIGAB
+RTO:0001127	malt tenderness	MALTTENDER
+RTO:0001128	flour particle size	FLRPARTSZ
+RTO:0001129	starch digestibility	STARCHDIG
+RTO:0001130	water absorption by seed	WABSORPSD
+RTO:0001131	pesticide sensitivity	pesticide sensitivity
+RTO:0001132	phototropism response trait	coleoptile curvature|coleoptile phototropism
+RTO:0001133	shoot axis phototropism response trait	shoot axis phototropism response trait
+RTO:0001134	root phototropism response trait	root phototropism response trait
+RTO:0001135	endosperm storage protein content	endosperm storage protein content
+RTO:0001136	pyruvate orthophosphate dikinase activity trait	Pyruvate, phosphate phosphotransferase|PPDK|Pyruvate phosphate dikinase
+RTO:0001137	starch grain size	starch grain size
+RTO:0001138	starch grain shape	starch grain shape
+RTO:0001139	oxidative stress	oxidative stress
+RTO:0001140	starch grain synthesis	starch grain synthesis
+RTO:0001141	pistil number	pistil number
+RTO:0001142	cytokinin content	cytokinin content
+RTO:0001143	seed maturation	SDMT|nonsynchronous seed maturation|asynchronous seed maturation|synchronous seed maturation
+RTO:0001144	leaf rolling tolerance	wilting tolerance|LFRLTL|Cold-induced wilting tolerance
+RTO:0001145	leaf necrosis tolerance	LFNECTL|Cold-induced necrosis tolerance|necrosis tolerance
+RTO:0001146	leaf yellowing tolerance	LFYTL|Cold-induced yellowing tolerance
+RTO:0001147	root hair length	RTHRLG|RTHLG
+RTO:0001148	seed phosphorus content	SDPHOCN
+RTO:0001149	abscisic acid content	ABACN|ABA content
+RTO:0001150	jasmonic acid content	JA content|jasmonate content
+RTO:0001151	diterpenoid phytoalexin content	diterpenoid phytoalexin content
+RTO:0001152	momilactone A content	phytoalexin momilactone A content
+RTO:0001153	momilactone B content	phytoalexin momilactone B content
+RTO:0001154	auxin content	AUXCN
+RTO:0001155	amino acid content	amino acid content
+RTO:0001156	tryptophan content	tryptophan content
+RTO:0001157	gibberellic acid content	gibberellin content|GACN|GA content
+RTO:0001158	brassinosteroid content	BRCN
+RTO:0001159	brassinosteroid sensitivity	BRSN
+RTO:0001160	panicleless	panicleless
+RTO:0001161	inflorescenceless	inflorescenceless
+RTO:0001162	albumin content	albumen content
+RTO:0001163	leaf curling	curled leaf trait|frizzled leaf trait
+RTO:0001164	plant cell shape	plant cell shape
+RTO:0001165	plant cell morphology trait	plant cell morphology trait
+RTO:0001166	plant cell size	plant cell size
+RTO:0001167	crown root number	crown root number
+RTO:0001168	cell growth and development trait	cell growth and development trait
+RTO:0001169	cell elongation trait	cell length
+RTO:0001170	leaf lamina joint bending	leaf lamina joint bending
+RTO:0001171	leaf sheath length	LFSLG
+RTO:0001172	leaf lamina length	leaf blade length|LFLLG
+RTO:0001173	peduncle length	neck internode length
+RTO:0001174	root meristem development	root meristem development
+RTO:0001175	gravity response trait	gravity response trait
+RTO:0001176	fruit flavor trait	pod flavor trait
+RTO:0001177	beta-carotene content	beta-carotenoid content
+RTO:0001178	alpha carotene content	alpha-carotenoid content
+RTO:0001179	cyclic carotene content	cyclic carotene content
+RTO:0001180	acyclic carotene content	acyclic carotene content
+RTO:0001181	lycopene content	lycopene content
+RTO:0001182	pungency	pungency
+RTO:0001183	lutein content	lutein content
+RTO:0001184	cercospora leaf spot resistance	cercospora leaf spot resistance
+RTO:0001185	protist disease resistance	protist disease resistance
+RTO:0001186	Meloidogyne incognita resistance	Meloidogyne incognita resistance
+RTO:0001187	cucurbit downy mildew resistance	cucurbit downy mildew resistance
+RTO:0001188	Meloidogyne javanica resistance	Meloidogyne javanica resistance
+RTO:0001189	petiole color	petiole color
+RTO:0001190	xylem color	xylem color
+RTO:0001191	phloem color	phloem color
+RTO:0001192	root shape	root shape
+RTO:0001193	stay green trait	stay green trait
+RTO:0001194	cell organelle morphology trait	cell organelle development trait|organelle biogenesis trait|organelle structure trait
+RTO:0001195	plastid development trait	plastid biogenesis trait|plastid structure trait
+RTO:0001196	chloroplast development trait	chloroplast structure trait|chloroplast biogenesis trait
+RTO:0001197	leaf sheath auricle pubescence	AUPUBES
+RTO:0001198	leaf sheath auricle morphology trait	leaf sheath auricle morphology trait
+RTO:0001199	awn morphology trait	awn morphology trait
+RTO:0001200	awn thickness	AWNTH
+RTO:0001201	leaf lamina width	leaf blade width|LFLWD
+RTO:0001202	leaf sheath width	leaf sheath width
+RTO:0001203	leaf pubescence	leaf pubescence
+RTO:0001204	leaf lamina margin pubescence	leaf blade margin pubescence|LFLMPUBES
+RTO:0001205	leaf sheath color	LFSCL
+RTO:0001206	life cycle habit	LIFECYCHAB
+RTO:0001207	sterile lemma shape	STLEMSHP
+RTO:0001208	sterile lemma width	STLEMWD
+RTO:0001209	fruit quality trait	fruit quality trait
+RTO:0001210	fruit senescing quality trait	fruit senescing quality trait
+RTO:0001211	grain shape	dehulled grain shape|DHULGRSHP|GRSHP
+RTO:0001212	grain length to width ratio	DHULGRLGWDRO|dehulled-grain length to width ratio|GRLHWDRO
+RTO:0001213	flag leaf angle: early stage	FLFAGERLY|flag leaf attitude: early stage
+RTO:0001214	flag leaf angle: late stage	FLFAGLATE|flag leaf attitude: late stage
+RTO:0001215	awn presence	AWNPLU
+RTO:0001216	straighthead	straighthead
+RTO:0001217	flower number trait	flower number trait
+RTO:0001218	floret number per branch	FLNBPBR
+RTO:0001219	floret number per inflorescence	florets per inflorescence|florets per panicle|floret number per panicle|FLNBPPN|FLNBPINFLO
+RTO:0001220	fruit surface area	FRUTSURFAR
+RTO:0001221	grain surface area	kernel surface area|DHULGRSURFAR|GRSURFAR|dehulled-grain surface area|hulled-grain surface area
+RTO:0001222	fruit volume	fruit volume
+RTO:0001223	dehulled grain volume	DHULGRVOL
+RTO:0001224	fruit curved length	fruit curved length
+RTO:0001225	grain curved length	dehulled-grain curved length|curved length of dehulled-grain|DHULGRCURVLG
+RTO:0001226	fruit weight	fruit weight
+RTO:0001227	10-dehulled grain weight	TENGRWT|10 grain weight|TENDHULGRWT|ten grain weight|ten dehulled grain weight
+RTO:0001228	ligule morphology trait	ligule morphology trait
+RTO:0001229	ligule pubescence	LIGPUBES
+RTO:0001230	ligule margin pubescence	LIGMPUBES|ligule margin hairiness
+RTO:0001231	inflorescence branch arrangement	INFLBRARANGE|panicle branch arrangement
+RTO:0001232	arrangement of inflorescence primary branch	primary branch arrangement|PBRARANGE|arrangement of primary branch
+RTO:0001233	inflorescence axis texture	PNAXISTEX|INFLOAXISTEX|panicle axis texture
+RTO:0001234	cell organelle development trait	cell organelle development trait
+RTO:0001235	shoot growth angle	growth habit|culm habit|STEMHAB|CULMHAB|stem habit
+RTO:0001236	flag leaf length	FLFLG
+RTO:0001237	flag leaf lamina width	FLFLWD|flag leaf blade width
+RTO:0001238	grain number	GRNB|kernel number
+RTO:0001239	length of grain with hull	hulled-grain length|hulled grain length|HULGRLG
+RTO:0001240	hulled grain width	width of grain with hull|hulled grain width|hulled grain curved width|HULGRWD
+RTO:0001241	curved length of grain with hull	HULGRCURVLG|hulled grain curved length
+RTO:0001242	surface area of grain with hull	hulled-grain surface area|HULGRSURFAR
+RTO:0001243	hulled grain volume	HULGRVOL|hulled caryopsis volume
+RTO:0001244	ligule margin shape	LIGMSHP
+RTO:0001245	rhizome formation	RHZFORM
+RTO:0001246	spikelet length	SPKLG
+RTO:0001247	linoleic acid content	linoleic oil content|(9Z,12Z)-Octadecadienoic acid content|9Z,12Z-octadecadienoic acid content|low linoleic oil content|(Z,Z)-9,12-octadecadienoic acid content|cis,cis-linoleic acid content|high linoleic oil content|9-cis,12-cis-Octadecadienoic acid content
+RTO:0001248	oleic acid content	(9Z)-Octadecenoic acid content|high oleic oil content|oleic oil content|(9Z)-octadec-9-enoic acid content|cis-9-octadecenoic acid content|(Z)-Octadec-9-enoic acid content|mid oleic oil content
+RTO:0001249	stearic acid content	octadecoic acid content|stearic oil content|high stearic oil content|low stearic oil content|n-octadecanoic acid content|octadecanoic acid content
+RTO:0001250	omega-3 fatty acid content	omega-3 fatty acid content
+RTO:0001251	alpha-linolenic acid content	cis,cis,cis-9,12,15-octadecatrienoic acid content|all-cis-9,12,15-octadecatrienoic acid content|(Z,Z,Z)-9,12,15-octadecatrienoic acid content|9-cis,12-cis,15-cis-octadecatrienoic acid content|(9,12,15)-linolenic acid content|9,12,15-Octadecatrienoic acid content|(9Z,12Z,15Z)-Octadecatrienoic acid content
+RTO:0001252	glyphosate sensitivity	glyphosate susceptibility|glyphosate tolerance
+RTO:0001253	glufosinate sensitivity	glufosinate susceptibility|glufosinate tolerance
+RTO:0001254	acetolactate synthase inhibitor sensitivity	ALS inhibitor susceptibility|ALS inhibitor tolerance|acetolactate synthase inhibitor tolerance|acetolactate synthase inhibitor susceptibility
+RTO:0001255	European corn borer resistance	ECB resistance
+RTO:0001256	rootworm resistance	rootworm resistance
+RTO:0001257	salt tolerance	SALTTL
+RTO:0001258	proline content	proline content
+RTO:0001259	oligosaccharide content	oligosaccharide content
+RTO:0001260	raffinose content	raffinose content
+RTO:0001261	fructose content	fructose content
+RTO:0001262	monosaccharide content	monosaccharide content
+RTO:0001263	polysaccharide content	polysaccharide content
+RTO:0001264	carbohydrate derivative content	carbohydrate derivative content
+RTO:0001265	lodicule morphology trait	lodicule morphology trait
+RTO:0001266	lodicule number	lodicule number
+RTO:0001267	lodicule shape	lodicule shape
+RTO:0001268	carpel morphology trait	carpel morphology trait
+RTO:0001269	carpel number	carpel number
+RTO:0001270	phyllotaxy	leaf arrangement
+RTO:0001271	plant tissue development trait	plant tissue development trait
+RTO:0001272	meristem tissue development trait	meristem tissue development trait
+RTO:0001273	meristem identity	meristem determinacy
+RTO:0001274	organ identity	organ identity
+RTO:0001275	floral organ identity	floral organ identity
+RTO:0001276	shoot apical meristem development	shoot apical meristem development
+RTO:0001277	vegetative to reproductive phase transition trait	vegetative to reproductive phase transition trait
+RTO:0001278	floral organ development trait	floral organ development trait
+RTO:0001279	lodicule development trait	lodicule development trait
+RTO:0001280	ectopic lodicule development	ectopic lodicule development
+RTO:0001281	floral bract development trait	floral bract development trait
+RTO:0001282	floral bract number	floral bract number
+RTO:0001283	inflorescence bract development trait	inflorescence bract development trait
+RTO:0001284	inflorescence bract number	inflorescence bract number
+RTO:0001285	glume number	glume number
+RTO:0001286	spikelet meristem identity	spikelet meristem identity
+RTO:0001287	inflorescence size	inflorescence size
+RTO:0001288	panicle inflorescence size	panicle inflorescence size
+RTO:0001289	floret number per spikelet	FLNBPSPK
+RTO:0001290	tertiary branch number	tertiary branch number
+RTO:0001291	tertiary branching of inflorescence	tertiary branching of inflorescence
+RTO:0001292	stem elongation	stem elongation
+RTO:0001293	carpel shape	carpel shape
+RTO:0001294	floral organ number	floral organ number
+RTO:0001295	petal number	petal number
+RTO:0001296	sepal number	sepal number
+RTO:0001297	tepal number	tepal number
+RTO:0001298	lithium content	lithium content
+RTO:0001299	boron content	boron content
+RTO:0001300	magnesium content	magnesium content
+RTO:0001301	phosphorus concentration	phosphorus concentration
+RTO:0001302	sulfur content	sulfur content
+RTO:0001303	calcium content trait	calcium content trait
+RTO:0001304	manganese concentration	manganese concentration
+RTO:0001305	iron concentration	iron concentration
+RTO:0001306	cobalt concentration	cobalt concentration
+RTO:0001307	nickel content	nickel content
+RTO:0001308	copper concentration	copper concentration
+RTO:0001309	zinc concentration	zinc concentration
+RTO:0001310	arsenic content trait	arsenic content trait
+RTO:0001311	selenium content	selenium content
+RTO:0001312	molybdenum content	molybdenum content
+RTO:0001313	cuperous ion concentration	cuperous ion concentration
+RTO:0001314	cuperic ion concentration	cuperic ion concentration
+RTO:0001315	cadmium content trait	cadmium content trait
+RTO:0001316	leaf chlorosis	leaf chlorosis
+RTO:0001317	days to germinate	days to germinate
+RTO:0001318	plant width	plant width
+RTO:0001319	leaf margin serrated	leaf margin serrated
+RTO:0001320	rolled leaf	rolled leaf
+RTO:0001321	seedling hypocotyl length	seedling hypocotyl length
+RTO:0001322	leaf trichome density	leaf trichome density
+RTO:0001323	aphid resistance	aphid resistance
+RTO:0001324	germinability in dark	germinability in dark
+RTO:0001325	DSDS50	DSDS50
+RTO:0001326	percent germination	percent germination
+RTO:0001327	leaf lamina color distribution	LFLCLDIST
+RTO:0001328	inflorescence primary branch attitude	INFLPBRAATT
+RTO:0001329	inflorescence axis color	INFLAXISCL
+RTO:0001330	inflorescence branch color	panicle branch color|INFLBRACL
+RTO:0001331	penultimate leaf length	second leaf length|PENLFLG
+RTO:0001332	penultimate leaf lamina width	PENLFLWD|second leaf width
+RTO:0001333	awn width	AWNWD
+RTO:0001334	stigma length	STIGLG
+RTO:0001335	style length	silk length|STYLLG
+RTO:0001336	internode color in proxomity to colored node	INCLPROXNDCL
+RTO:0001337	leaf area index	leaf area index
+RTO:0001338	leaf chlorophyll content	leaf chlorophyll content
+RTO:0001339	chlorophyll content in an extract	chlorophyll content in an extract
+RTO:0001340	quantum yield	QY
+RTO:0001341	chlorophyll fluorescence induction kinetics	OJIP
+RTO:0001342	fluorescence related trait	fluorescence related trait
+RTO:0001343	quantum yield determined by the light curve	quantum yield determined by the light curve
+RTO:0001344	quantum yield at a given wavelength	quantum yield at a given wavelength
+RTO:0001345	continuous fluorescence yield	F<sub>T</sub>
+RTO:0001346	leaf area duration	LAD
+RTO:0001347	leaf senescence rate	leaf senescence rate
+RTO:0001348	leaf senescence duration	leaf senescence duration
+RTO:0001349	panicle inflorescence compactness	panicle inflorescence compactness
+RTO:0001350	grain weight to panicle weight ratio	grain weight to panicle weight ratio
+RTO:0001351	shoot system potassium content	shoot system potassium content
+RTO:0001352	shoot system sodium content	shoot system sodium content
+RTO:0001353	sorghum stem borer resistance	sorghum stem borer resistance
+RTO:0001354	chickpea pod borer	chickpea pod borer
+RTO:0001355	sorghum shoot fly resistance	sorghum shoot fly resistance
+RTO:0001356	sorghum grain mold	sorghum grain mold
+RTO:0001357	sorghum rust resistance	sorghum rust resistance
+RTO:0001358	sorghum downy mildew resistance	sorghum downy mildew resistance
+RTO:0001359	chickpea botrytis grey mold resistance	chickpea botrytis grey mold resistance
+RTO:0001360	chickpea fusarium wild resistance	chickpea fusarium wild resistance
+RTO:0001361	chickpea colleotrichum blight resistance	chickpea colleotrichum blight resistance
+RTO:0001362	chickpea ascochyta blight resistance	chickpea ascochyta blight resistance
+RTO:0001363	sorghum leaf blight resistance	sorghum leaf blight resistance
+RTO:0001364	seed texture	seed texture
+RTO:0001365	seed coat spotted	seed coat spotted
+RTO:0001366	tertiary shoot branch number	tertiary shoot branch number
+RTO:0001367	secondary shoot branch number	secondary shoot branch number
+RTO:0001368	primary shoot branch number	primary shoot branch number
+RTO:0001369	basal axillary tertiary branch number	basal axillary tertiary branch number
+RTO:0001370	basal axillary secondary branch number	basal axillary secondary branch number
+RTO:0001371	basal axillary primary branch number	basal axillary primary branch number
+RTO:0001372	basal axillary branch number	basal axillary branch number
+RTO:0001373	apical axillary tertiary branch number	apical axillary tertiary branch number
+RTO:0001374	apical axillary secondary branch number	apical axillary secondary branch number
+RTO:0001375	apical axillary primary branch number	apical axillary primary branch number
+RTO:0001376	apical axillary branch number	apical axillary branch number
+RTO:0001377	leaf lamina pubscence length	leaf lamina pubscence length
+RTO:0001378	leaf lamina pubescence density	leaf lamina pubescence density
+RTO:0001379	leaf lamina margin pubescence length	leaf lamina margin pubescence length
+RTO:0001380	leaf lamina margin pubescence density	leaf lamina margin pubescence density
+RTO:0001381	glume length	glume length
+RTO:0001382	glume width	glume width
+RTO:0001383	glume pubescence density	glume pubescence density
+RTO:0001384	glume pubescence	glume pubescence
+RTO:0001385	glume pubescence length	glume pubescence length
+RTO:0001386	glume waxiness	glume waxiness
+RTO:0001387	barley leaf scald disease resistance	scald
+RTO:0001388	barley spot blotch disease resistance	spot blotch
+RTO:0001389	wheat spot blotch disease resistance	Helminthosporium leaf blotch
+RTO:0001390	barley stripe rust disease resistance	yellow rust|BSR
+RTO:0001391	wheat stripe rust disease resistance	yellow rust
+RTO:0001392	barley leaf rust disease resistance	brown rust
+RTO:0001393	wheat leaf rust disease resistance	brown rust
+RTO:0001394	barley common root rot resistance	crown rot
+RTO:0001395	wheat common root rot resistance	wheat common root rot resistance
+RTO:0001396	barley powdery mildew disease resistance	barley powdery mildew disease resistance
+RTO:0001397	wheat powdery mildew disease resistance	wheat powdery mildew disease resistance
+RTO:0001398	barley net form net blotch disease resistance	NFNB
+RTO:0001399	barley spot form net blotch disease resistance	SFNB
+RTO:0001400	barley septoria disease resistance	SSLB
+RTO:0001401	wheat septoria leaf blotch disease resistance	wheat septoria leaf blotch disease resistance
+RTO:0001402	barley leaf streak resistance	barley leaf streak resistance
+RTO:0001403	barley yellow dwarf virus disease resistance	BYDV
+RTO:0001404	beta-glucan content	beta-glucan content
+RTO:0001405	spike exsertion	spike exsertion
+RTO:0001406	beta-glucanase activity trait	beta-glucanase activity trait
+RTO:0001407	beta-glucanase thermostability	beta-glucanase thermostability
+RTO:0001408	residual beta-glucanase activity trait	residual beta-glucanase
+RTO:0001409	barley wort protein concentration	wort protein
+RTO:0001410	barley wort color	barley wort color
+RTO:0001411	barley malt protein	barley malt protein
+RTO:0001412	phenolic compound content	phenolic compound content
+RTO:0001413	head drop	head drop
+RTO:0001414	zeaxanthin content	zeaxanthin content
+RTO:0001415	beta-cryptoxanthin content	beta-cryptoxanthin content
+RTO:0001416	stover organic matter digestibility	in vitro organic matter digestibility|stover related trait
+RTO:0001417	metabolized energy of stover	metabolised energy|stover related traits
+RTO:0001418	stover nitrogen content	stover related traits
+RTO:0001419	stem diameter	culm diameter
+RTO:0001420	spiral leaf	spiral leaf
+RTO:0001421	stem senescence	culm senescence
+RTO:0001422	neck leaf presence	neck leaf presence
+RTO:0001423	root cracking	root cracking
+RTO:0001424	total water soluble content	total dissolved solids content
+RTO:0001425	iron content trait	iron content trait
+RTO:0001426	zinc content trait	zinc content trait
+RTO:0001427	manganese content	manganese content
+RTO:0001428	copper content trait	Cu content
+RTO:0001429	nitrogen content	nitrogen content
+RTO:0001430	nitrate content	nitrate content
+RTO:0001431	stomatal process related trait	stomatal process related trait
+RTO:0001432	mineral and ion transport trait	mineral and ion transport trait
+RTO:0001433	stomatal opening	stomatal opening
+RTO:0001434	nitrate sensitivity	nitrate sensitivity
+RTO:0001435	nitrate transport	nitrate transport
+RTO:0001436	nitrate uptake	nitrate uptake
+RTO:0001437	starch mobilization	starch mobilization
+RTO:0001438	phosphate content	phosphate ion content
+RTO:0001439	adventitious root length	adventitious root length
+RTO:0001440	adventitious rootless	adventitious rootless
+RTO:0001441	CW-cytoplasmic male sterility	CW-cytoplasmic male sterility
+RTO:0001442	Indole-3-acetic acid content	IAA content|Indole-3-acetic acid (IAA) content
+RTO:0001443	plant cell length	plant cell length
+RTO:0001444	root cortical cell length	root cortical cell length
+RTO:0001445	vascular bundle development trait	vascular bundle development trait
+RTO:0001446	gynoecium development trait	gynoecium development trait
+RTO:0001447	ovary development trait	ovary development trait
+RTO:0001448	phosphorus toxicity	phosphorus toxicity
+RTO:0001449	shoot system phosphorus content	shoot system phosphorus content
+RTO:0001450	chlorophyll fluorescence quenching	chlorophyll fluorescence quenching
+RTO:0001451	photochemical quenching	photochemical quenching
+RTO:0001452	non photochemical quenching	NPQ
+RTO:0001453	neoxanthin content	neoxanthin content
+RTO:0001454	violaxanthin content	violaxanthin content
+RTO:0001455	involucral bract spine presence	spines on involucral bracts
+RTO:0001456	arachnid damage resistance	arachnid damage resistance
+RTO:0001457	two-spotted spider mite resistance	red spider mite resistance
+RTO:0001458	ethanol yield from biomass	ethanol yield from biomass
+RTO:0001459	stem internode bent	stem internode bent
+RTO:0001460	obsolete cotyledon size	seed leaf size
+RTO:0001461	secondary xylem volumetric density	wood volumetric density
+RTO:0001462	shoot axis node color	shoot axis node relative color|shoot axis node colour
+RTO:0001463	infructescence position	infructescence position
+RTO:0001464	tuberous root tuber diameter	root tuber diameter|storage root diameter
+RTO:0001465	tuberous root tuber morphology trait	tuberous root tuber morphology trait
+RTO:0001466	branch position	shoot axis branch position
+RTO:0001467	branch angle	branching angle|shoot axis branch angle
+RTO:0001468	caruncle color	caruncle colour
+RTO:0001469	fruit position	aggregate fruit position|drupe position|diplotegium position|folliceta position|hesperidium position|hip position|kernel position|multiple fruit position|capsule position|grain position|nut position|pepo position|schizocarp location|follicetum position|poricidal capsule position|utricle position|coenocarp position|loculicidal capsule position|silicle location|akene position|anthocarp position|stone fruit position|syconium position|pyxides position|pod position|silicula position|nutlet position|citrus fruit position|schizocarp position|glandes position|caryopsis position|silicle position|silicula relational spatial quality|utricle location|samara position|berry position|hesperidia position|septicidal capsule position|diclesium position|fruit placement|glans position|accessory fruit position|pome position|acorn position|pyxis position|lomentum position|siliqua position|diplotegia position|loment position|fruit location|caryopsides position|silique position|achene position|legume position|pyxides location|syconia position|syncarp position|cypsela position|circumcissile capsule position
+RTO:0001470	whole plant size	bush size|sporophyte size|vine size|colony size|suffrutices size|frutices size|clonal colony size|prothallus size|gametophyte size|liana size|herb size|woody clump size|prothallium size|frutex size|shrub size|planta entera (Spanish) size|prothalli size|tree size|suffrutex size|seedling size
+RTO:0001471	leaf lamina lobe morphology trait	leaf lobe morphology trait
+RTO:0001472	leaf lamina lobe length	leaf lobe length
+RTO:0001473	leaf lamina lobe width	leaf lobe width
+RTO:0001474	plant ovary color	plant ovary relative color|plant ovary colour
+RTO:0001475	stem cortex color	stem cortex relative color|stem cortex colour
+RTO:0001476	stem epidermis color	stem epidermis relative color|stem epidermis colour
+RTO:0001477	disk flower color	disc floret color|disk floret color
+RTO:0001478	stipule length	stipule length
+RTO:0001479	plant ovary morphology	Poaceae ovary morphology|Zea ovary morphology
+RTO:0001480	anther morphology trait	anther morphology trait
+RTO:0001481	lemma morphology trait	lemma morphology trait
+RTO:0001482	palea morphology trait	palea morphology trait
+RTO:0001483	root system aluminum content	root Al content|root system Al content
+RTO:0001484	root system arsenic content	root As content
+RTO:0001485	root system boron content	root B content
+RTO:0001486	root system barium content	root Ba content
+RTO:0001487	root system calcium content	root Ca content
+RTO:0001488	root system cadmium content	root Cd content
+RTO:0001489	root system cobalt content	root Co content
+RTO:0001490	root system chromium content	root Cr content
+RTO:0001491	root system copper content	root Cu content
+RTO:0001492	root system iron content	root Fe content
+RTO:0001493	root system iodine content	root I content
+RTO:0001494	root system potassium content	root K content
+RTO:0001495	root system lithium content	root Li content
+RTO:0001496	root system magnesium content	root Mg content
+RTO:0001497	root system manganese content	root Mn content
+RTO:0001498	root system molybdenum content	root Mo content
+RTO:0001499	root system sodium content	root Na content
+RTO:0001500	root system nickel content	root Ni content
+RTO:0001501	root system phosphorus content	root P content
+RTO:0001502	root system lead content	root Pb content
+RTO:0001503	root system rubidium content	root Rb content
+RTO:0001504	root system sulfur content	root S content
+RTO:0001505	root system selenium content	root Se content
+RTO:0001506	root system silicon content	root Si content
+RTO:0001507	root system strontium content	root Sr content
+RTO:0001508	root system zinc content	root Zn content
+RTO:0001509	shoot system aluminum content	shoot system Al content|shoot Al content
+RTO:0001510	shoot system arsenic content	shoot As content
+RTO:0001511	shoot system boron content	shoot B content
+RTO:0001512	shoot system barium content	shoot Ba content
+RTO:0001513	shoot system calcium content	shoot Ca content
+RTO:0001514	shoot system cadmium content	shoot Cd content
+RTO:0001515	shoot system cobalt content	shoot Co content
+RTO:0001516	shoot system chromium content	shoot Cr content
+RTO:0001517	shoot system copper content	shoot Cu content
+RTO:0001518	shoot system iron content	shoot Fe content
+RTO:0001519	shoot system iodine content	shoot I content
+RTO:0001520	shoot system lithium content	shoot Li content
+RTO:0001521	shoot system magnesium content	shoot Mg content
+RTO:0001522	shoot system manganese content	shoot Mn content
+RTO:0001523	shoot system molybdenum content	shoot Mo content
+RTO:0001524	shoot system nickel content	shoot Ni content
+RTO:0001525	shoot system lead content	shoot Pb content
+RTO:0001526	shoot system rubidium content	shoot Rb content
+RTO:0001527	shoot system sulfur content	shoot S content
+RTO:0001528	shoot system selenium content	shoot Se content
+RTO:0001529	shoot system silicon content	shoot Si content
+RTO:0001530	shoot system strontium content	shoot Sr content
+RTO:0001531	shoot system zinc content	shooCFt Zn content
+RTO:0001532	WTO root	WTO root
+RTO:0001533	plant property	plant property
+RTO:0001534	polyphenol content	polyphenolic compounds content|content of total polyphenols
+RTO:0001535	environmental condition	environmental condition
+RTO:0001536	phenotype	phenotype
+RTO:0001537	trait	trait
+RTO:0001538	ability to flower	ability to flower
+RTO:0001539	abiotic condition	abiotic condition
+RTO:0001540	awnedness	awnedness
+RTO:0001541	biotic condition	biotic condition
+RTO:0001542	development	development
+RTO:0001543	early beginning of anthesis	early anthesis time
+RTO:0001544	early flag leaf emergence	early flag leaf emergence
+RTO:0001545	early flag leaf senescence	early flag leaf senescence
+RTO:0001546	early floral initiation	early floral initiation
+RTO:0001547	early flowering	early flowering
+RTO:0001548	early heading	earliness at earing
+RTO:0001549	early maturation	early maturation
+RTO:0001550	early seedling vigour	early seedling vigour
+RTO:0001551	free-threshing	free-threshing
+RTO:0001552	growth	growth
+RTO:0001553	hard threshing	non-free-threshing
+RTO:0001554	high density of shoot	high density of shoot
+RTO:0001555	high fertility	high fertility
+RTO:0001556	high grain protein content	high grain protein content
+RTO:0001557	high grain specific weight	high grain specific weight
+RTO:0001558	intermediate plant habit	intermediate plant habit
+RTO:0001559	lack of seed dormancy	lack of seed dormancy
+RTO:0001560	lack of vernalization requirement	no response to vernalization
+RTO:0001561	late beginning of anthesis	late beginning of anthesis
+RTO:0001562	late flag leaf emergence	late flag leaf emergence
+RTO:0001563	late floral initiation	late floral initiation
+RTO:0001564	late flowering	late flowering
+RTO:0001565	late heading	late heading
+RTO:0001566	late leaf senescence	late leaf senescence
+RTO:0001567	late maturation	late maturation
+RTO:0001568	long spike	long spike
+RTO:0001569	long-awned	long-awned
+RTO:0001570	low density of shoot	low density of shoot
+RTO:0001571	low fertility	low fertility
+RTO:0001572	low grain specific weight	low grain specific weight
+RTO:0001573	medium-awned	medium-awned
+RTO:0001574	moderate response to vernalization	moderate response to vernalization
+RTO:0001575	morphology	morphology
+RTO:0001576	nearly-erect plant habit	nearly-erect plant habit
+RTO:0001577	nearly-prostrate plant habit	nearly-prostrate plant habit
+RTO:0001578	plant density	density
+RTO:0001579	quality	quality
+RTO:0001580	reproduction	reproduction
+RTO:0001581	response to environmental condition	response to environmental condition
+RTO:0001582	semi-erect plant habit	semi-erect plant habit
+RTO:0001583	semi-prostrate plant habit	semi-prostrate plant habit
+RTO:0001584	short spike	short spike
+RTO:0001585	short-awned	short-awned
+RTO:0001586	shrivelled grain	shrivelled grain
+RTO:0001587	spring growth habit	spring habit|spring type
+RTO:0001588	undersized grain	undersized grain
+RTO:0001589	vernalization-responsive	vernalization-responsive
+RTO:0001590	weak response to vernalization	weak response to vernalization
+RTO:0001591	winter growth habit	winter habit|winter type
+RTO:0001592	Green Area Index	GAI
+RTO:0001593	abiotic stress	abiotic stress
+RTO:0001594	above-ground dry matter quantity	AGDM
+RTO:0001595	anther extrusion	anther extrusion
+RTO:0001596	awn	awn
+RTO:0001597	beginning of anthesis	beginning of anthesis
+RTO:0001598	chemical	chemical
+RTO:0001599	crop yield	grain yield|GY
+RTO:0001600	ear emergence time	time of ear emergence|heading time
+RTO:0001601	ear-bearing tiller density	ear-bearing tiller density
+RTO:0001602	extreme temperature	extreme temperature
+RTO:0001603	fiber quality	fiber quality
+RTO:0001604	final leaf number	final leaf number
+RTO:0001605	flag leaf emergence time	flag leaf emergence time
+RTO:0001606	floral initiation	floral initiation
+RTO:0001607	flowering duration	flowering duration
+RTO:0001608	food property	food property
+RTO:0001609	germinative power	seed germinability|germinability
+RTO:0001610	grain composition	grain composition
+RTO:0001611	lodging resistance	lodging resistance
+RTO:0001612	milling quality	milling
+RTO:0001613	nutrient use efficiency	nutrient use efficiency
+RTO:0001614	photoperiod	photoperiod
+RTO:0001615	plant habit	habit
+RTO:0001616	plant precocity	earliness|precocity
+RTO:0001617	response to plant density	response to plant density
+RTO:0001618	response to vernalization	vernalization
+RTO:0001619	shade	shade
+RTO:0001620	shatter resistance	shatter resistance
+RTO:0001621	shoot density	shoot density
+RTO:0001622	soil property	soil
+RTO:0001623	solar radiation	solar radiation
+RTO:0001624	spike waxiness	spike waxiness
+RTO:0001625	sprouting tolerance	sprouting tolerance
+RTO:0001626	sterility	sterile trait
+RTO:0001627	threshability	threshability
+RTO:0001628	water quantity	water
+RTO:0001629	water-soluble carbohydrate content	WSC content
+RTO:0001630	wind speed	wind
+RTO:0001631	acaricide	acaricide
+RTO:0001632	admixture	admixture
+RTO:0001633	air humidity	air humidity
+RTO:0001634	amount of damaged starch	damaged starch
+RTO:0001635	antibiotics	antibiotics
+RTO:0001636	bread making quality	baking quality
+RTO:0001637	cold	cold
+RTO:0001638	disease	disease
+RTO:0001639	dry matter grain yield	dry matter grain yield
+RTO:0001640	ear number per meter of row	ear number per meter of row
+RTO:0001641	early leaf senescence	early leaf senescence
+RTO:0001642	erect plant habit	erect plant habit
+RTO:0001643	excessive rain	excessive rain
+RTO:0001644	flooding	flooding
+RTO:0001645	frost	frost
+RTO:0001646	fungicide	fungicide
+RTO:0001647	glume tenacity	glume tenacity
+RTO:0001648	grain gluten content	grain gluten content
+RTO:0001649	grain hardness	grain texture|hardness of the grain|kernel texture|softness of the grain
+RTO:0001650	grain nitrogen content	grain nitrogen content
+RTO:0001651	grain number per ear	grain number per ear
+RTO:0001652	grain protein content	protein content|protein content of seed|GPC|seed protein content
+RTO:0001653	grain starch content	GSC
+RTO:0001654	grain weight per ear	grain mass per ear
+RTO:0001655	heat	heat
+RTO:0001656	heat shock	heat shock
+RTO:0001657	herbicide	herbicide
+RTO:0001658	hot wind	hot wind
+RTO:0001659	insecticide	insecticide
+RTO:0001660	lack of water	lack of water
+RTO:0001661	macronutrient deficiency	macronutriment limitation
+RTO:0001662	macronutrient use efficiency	macronutrient use efficiency
+RTO:0001663	micronutrient deficiency	micronutriment limitation
+RTO:0001664	micronutrient use efficiency	micronutrient use efficiency
+RTO:0001665	milling score	milling score
+RTO:0001666	moisture content of the grain	moisture content of the grain
+RTO:0001667	mottled grain	mottled grain
+RTO:0001668	nematicide	nematicide
+RTO:0001669	number of ear-bearing tillers at anthesis	number of ear-bearing tillers at anthesis
+RTO:0001670	number of ear-bearing tillers at maturity	number of ear-bearing tillers at maturity
+RTO:0001671	number of ear-bearing tillers per meter row	EBT
+RTO:0001672	number of grains per square meter	grain number per square meter|kernel number per square meter
+RTO:0001673	number of viable seeds per meter of row	number of viable seeds per meter of row
+RTO:0001674	percentage of florets without grain	percentage of florets without grain
+RTO:0001675	pest	pest
+RTO:0001676	pest resistance	pest resistance
+RTO:0001677	pesticide	pesticide
+RTO:0001678	photosensitivity	photosensitivity
+RTO:0001679	post-harvest seed dormancy	post-harvest seed dormancy
+RTO:0001680	pre-harvest sprouting tolerance	PHS
+RTO:0001681	presence of black points	blackpoint kernel|kernel black point
+RTO:0001682	prostrate plant habit	prostrate plant habit
+RTO:0001683	rainfall	rainfall
+RTO:0001684	resistance to noxious weed	resistance to noxious plant
+RTO:0001685	response to stress from soil	soil stress response
+RTO:0001686	root lodging resistance	root lodging resistance
+RTO:0001687	semolina characteristic	semolina
+RTO:0001688	shoot number per m2	shoot number per m2
+RTO:0001689	shoot number per plant	shoot number per plant
+RTO:0001690	soil acidity	soil acidity
+RTO:0001691	soil mineral	soil mineral
+RTO:0001692	soil toxic component	soil toxic component
+RTO:0001693	spike fragility	spike fragility
+RTO:0001694	stalk lodging resistance	stalk lodging resistance
+RTO:0001695	stem water-soluble carbohydrate content	stem sugar content|water soluble carbohydrate in stem|stem water-soluble carbohydrate|sugar content in stem|stem WSC content
+RTO:0001696	susceptibility to lodging	susceptibility to lodging
+RTO:0001697	thousand kernel weight	TKW
+RTO:0001698	water stress	water stress
+RTO:0001699	wind resistance	wind resistance
+RTO:0001700	arthropod	arthropod
+RTO:0001701	atrazine	atrazine
+RTO:0001702	boron deficiency	boron deficiency
+RTO:0001703	boron use efficiency	boron use efficiency
+RTO:0001704	bread smell	bread smell
+RTO:0001705	copper deficiency	copper deficiency
+RTO:0001706	copper use efficiency	copper use efficiency
+RTO:0001707	crumb colour	crumb colour
+RTO:0001708	crumb firmness	crumb firmness
+RTO:0001709	drought	drought
+RTO:0001710	endosperm texture	endosperm texture
+RTO:0001711	extreme temperature resistance	extreme temperature resistance
+RTO:0001712	flour colour	flour color
+RTO:0001713	flour composition	flour composition
+RTO:0001714	flour mechanical property	flour mechanical property
+RTO:0001715	grain bright color	grain bright color
+RTO:0001716	grain softness	grain softness
+RTO:0001717	grain uniformity of size	grain uniformity of size
+RTO:0001718	hard grain texture	hard textured wheat
+RTO:0001719	insect	insect
+RTO:0001720	insect resistance	resistance to insect|insect resistance trait|resistance to insect pest
+RTO:0001721	invertebrate	invertebrate
+RTO:0001722	iron deficiency	iron deficiency
+RTO:0001723	iron use efficiency	iron use efficiency
+RTO:0001724	level of starch-surface friabilin	level of starch-surface friabilin
+RTO:0001725	manganese deficiency	manganese deficiency
+RTO:0001726	manganese use efficiency	manganese use efficiency
+RTO:0001727	moisture tolerance	tolerance to moisture
+RTO:0001728	nitrogen deficiency	nitrogen limitation
+RTO:0001729	nitrogen use efficiency	NUE
+RTO:0001730	noxious weed	noxious weed
+RTO:0001731	nuclear male sterility	nuclear male sterility
+RTO:0001732	pathogen	pathogen
+RTO:0001733	pathogen resistance	resistance to infection|resistance to a plant pathogen|resistance to pathogens|disease-resistance|resistance to disease|resistance to a pathogen|disease and/or pathogen resistance|disease resistance|resistance to the plant pathogen
+RTO:0001734	phophorus deficiency	phosphorus limitation
+RTO:0001735	phosphorus use efficiency	phosphorus use efficiency
+RTO:0001736	potassium deficiency	potassium deficiency
+RTO:0001737	potassium use efficiency	potassium use efficiency
+RTO:0001738	quantity of hard starch granule	quantity of hard starch granule
+RTO:0001739	resistance to Cirsium arvense	resistance to Cirsium arvense
+RTO:0001740	resistance to arthropod	resistance to arthropod
+RTO:0001741	resistance to chemicals	plant resistance to a chemical agent
+RTO:0001742	resistance to invertebrate pest	resistance to invertebrate pest
+RTO:0001743	response to potassium limitation	response to potassium deficiency
+RTO:0001744	response to primary nutrient limitation	primary nutrient deficiency
+RTO:0001745	response to soil acidity	response to soil acidity
+RTO:0001746	response to water deficiency	adaptation to water stress|responses to drought
+RTO:0001747	rhizotoxicity	rhizotoxicity
+RTO:0001748	semolina color	semolina color
+RTO:0001749	shade tolerance	shade tolerance
+RTO:0001750	single-kernel hardness	single-kernel wheat hardness
+RTO:0001751	soft grain texture	soft texture of the grain|soft-textured|soft kernel texture
+RTO:0001752	storage pest	storage pest
+RTO:0001753	storage pest resistance	storage pest resistance
+RTO:0001754	tolerance to extreme temperature	tolerance to extreme temperature
+RTO:0001755	toxin in the soil	toxin
+RTO:0001756	Alternaria Leaf Blight	Alternaria Leaf Blight
+RTO:0001757	American Wheat Striate Mosaic	American Wheat Striate Mosaic
+RTO:0001758	Anthoxanthum Mosaic	Anthoxanthum Mosaic
+RTO:0001759	Army Cutworm	Army Cutworm
+RTO:0001760	Armyworm	Armyworm
+RTO:0001761	Ascochyta Leaf Spot	Ascochyta Leaf Spot
+RTO:0001762	Black Point	Black Point
+RTO:0001763	Bunt	Bunt
+RTO:0001764	Cecidomyides	cecidomyia
+RTO:0001765	Cecidomyides resistance	Cecidomyides resistance
+RTO:0001766	Cephalosporium Leaf Stripe	Cephalosporium Stripe
+RTO:0001767	Chloris Striate Mosaic	Australian Wheat Striate Mosaic
+RTO:0001768	Cirsium arvense	Cirsium arvense
+RTO:0001769	Helminthosporium Leaf Blight	HLB
+RTO:0001770	Hessian fly	Hessian fly
+RTO:0001771	Hessian fly resistance	resistance to Mayetiola destructor
+RTO:0001772	anthracnose	anthracnose
+RTO:0001773	aphid	invertebrate
+RTO:0001774	bacteria	bacterium
+RTO:0001775	bacterial stripe	bacterial stripe
+RTO:0001776	basal glume rot	basal glume rot
+RTO:0001777	billbug	billbug
+RTO:0001778	billbug resistance	billbug resistance
+RTO:0001779	black chaff	black chaff
+RTO:0001780	cold resistance	cold hardiness|cold-hardiness
+RTO:0001781	crude protein content of the flour	crude protein content
+RTO:0001782	discoloration of flour	discoloration of flour
+RTO:0001783	dough extensibility	dough extensibility
+RTO:0001784	dough resistance to shearing	dough resistance to shearing
+RTO:0001785	dough strength	dough strength
+RTO:0001786	ear cockle	seed gall
+RTO:0001787	ergot	ergot
+RTO:0001788	eyespot	strawbreaker
+RTO:0001789	flour ash content	flour ash content
+RTO:0001790	flour brightness	brightness of flour
+RTO:0001791	flour crude fiber content	flour crude fiber content
+RTO:0001792	flour lipid content	flour lipid level|flour fat content
+RTO:0001793	flour resistance to deformation	flour resistance to deformation
+RTO:0001794	flour whiteness	whiteness of flour
+RTO:0001795	frost resistance	frost-hardiness|frost hardiness
+RTO:0001796	frost tolerance	frost tolerance
+RTO:0001797	fungi	fungus
+RTO:0001798	greenbug	greenbug
+RTO:0001799	greenbug resistance	greenbug resistance
+RTO:0001800	heat resistance	heat susceptibility
+RTO:0001801	leafhopper	leafhopper
+RTO:0001802	leafhopper resistance	leafhopper resistance
+RTO:0001803	metal toxicity	metal rhizotoxicity
+RTO:0001804	metalloid toxicity	metalloid toxicity
+RTO:0001805	mildew	mildew
+RTO:0001806	mold	mould
+RTO:0001807	nematode	nematode
+RTO:0001808	nitrogen harvest index	NHI
+RTO:0001809	phytoplasma disease	mycoplasma disease
+RTO:0001810	resistance to Army Cutworm	resistance to Army Cutworm
+RTO:0001811	resistance to Lepidopteran insect	resistance to lepidopteran insect infestation|resistance to Lepidopteran
+RTO:0001812	response to nitrogen limitation	response to nitrogen deficiency
+RTO:0001813	response to phophorus limitation	rsponse to phosphate deficiency|response to phosphate limitation|response to phophorus deficiency|response to phosphorus deficiency
+RTO:0001814	response to potassium deficiency	response to potassium deficiency
+RTO:0001815	root rot	root rot
+RTO:0001816	rust	rust
+RTO:0001817	sclerotium wilt	Southern Blight
+RTO:0001818	septoria	septoria
+RTO:0001819	sharp eyespot	sharp eyespot
+RTO:0001820	smut	smut
+RTO:0001821	snow rot	Gray Snow Mold|Grey Snow Mould|Speckled Snow Mold
+RTO:0001822	spring drought	spring drought
+RTO:0001823	starch viscosity	starch viscosity
+RTO:0001824	take-all	take-all
+RTO:0001825	tolerance to boron deficiency	tolerance to boron deficiency
+RTO:0001826	tolerance to high soil acidity	tolerance to high soil acidity
+RTO:0001827	tolerance to metal deficiency	tolerance to metal deficiency
+RTO:0001828	tolerance to soil acidity	tolerance to soil acidity
+RTO:0001829	toxin resistance	toxin resistance
+RTO:0001830	toxin sensitivity	toxin sensitivity
+RTO:0001831	virus	virus
+RTO:0001832	water absorption of flour	flour water absorption
+RTO:0001833	wheat blast	Gray Leaf Spot
+RTO:0001834	wheat dwarf	wheat dwarf
+RTO:0001835	wheat streak mosaic	wheat streak mosaic
+RTO:0001836	wheat yellow mosaic	wheat yellow mosaic
+RTO:0001837	winter hardiness	winter-hardiness
+RTO:0001838	yellow pigment content of seed	yellow pigment content of seed
+RTO:0001839	yellowness of flour	flour yellow pigment content
+RTO:0001840	Alternaria spp.	Alternaria spp.
+RTO:0001841	Alternaria triticina	Alternaria triticina
+RTO:0001842	American Wheat Striate Mosaic virus	AWStMV
+RTO:0001843	Anguina tritici	seed gall nematode
+RTO:0001844	Anthoxanthum Mosaic virus	Anthoxanthum Mosaic virus
+RTO:0001845	Ascochyta tritici	Ascochyta tritici
+RTO:0001846	Aster Yellows disease	Aster Yellows disease
+RTO:0001847	Athelia rolfsii	Corticium rolfsii|Sclerotium rolfsii
+RTO:0001848	Bipolaris sorokiniana	Helminthosporium sativum|Drechslera sorokiniana|Cochliobolus sativus
+RTO:0001849	Blumeria graminis	Erysiphe graminis
+RTO:0001850	Cephalosporium gramineum	Hymenella cerealis|Hymenula cerealis
+RTO:0001851	Ceratobasidium cereale	Rhizoctonia cerealis
+RTO:0001852	Chloris Striate Mosaic resistance	resistance to Australian Wheat Striate Mosaic
+RTO:0001853	Chloris Striate Mosaic virus	Australian Wheat Striate Mosaic virus
+RTO:0001854	Cladosporium spp.	Cladosporium spp.
+RTO:0001855	Claviceps purpurea	Sphacelia segetum
+RTO:0001856	Colletotrichum graminicola	Dicladium graminicolum|Dicladium graminicola|Glomerella graminicola|Steirochaete graminicola|Colletotrichopsis graminicola
+RTO:0001857	Common Bunt	covered smut|stinking smut
+RTO:0001858	Curvularia spicifera	Helminthosporium tetramera|Bipolaris tetramera|Helminthosporium spiciferum|Drechslera spicifera|Cochliobolus spicifer
+RTO:0001859	Didymella exitialis	Didymella exitialis
+RTO:0001860	Dwarf bunt	TCK smut
+RTO:0001861	Endria inimica	Endria inimica
+RTO:0001862	Euxoa auxiliaris	Euxoa auxiliaris
+RTO:0001863	Faronta diffusa	Faronta diffusa
+RTO:0001864	Faronta diffusa resistance	Faronta diffusa resistance
+RTO:0001865	Fusarium culmorum	Fusarium culmorum
+RTO:0001866	Fusarium graminearum	Gibberella zeae
+RTO:0001867	Fusarium langsethiae	Fusarium langsethiae
+RTO:0001868	Fusarium oxysporum	Fusarium oxysporum
+RTO:0001869	Fusarium pseudograminearum	Fusarium pseudograminearum
+RTO:0001870	Fusarium root rot	Dryland Foot Rot|Fusarium Foot Rot|Dryland Root Rot
+RTO:0001871	Fusarium spp.	Fusarium spp.
+RTO:0001872	Gaeumannomyces graminis var. tritici	Ophiobolus graminis|Gaeumannomyces graminis f. sp. tritici
+RTO:0001873	Karnal bunt	Partial Bunt
+RTO:0001874	Macrosteles fascifrons	Macrosteles fascifrons
+RTO:0001875	Macrosteles quadrilineatus	Macrosteles quadrilineatus
+RTO:0001876	Magnaporthe oryzae	Magnaporthe oryzae
+RTO:0001877	Microdochium majus	Microdochium majus
+RTO:0001878	Microdochium nivale	Fusarium nivale
+RTO:0001879	Monographella nivalis	Calonectria nivalis
+RTO:0001880	Oculimacula acuformis	Tapesia acuformis|Pseudocercosporella herpotrichoides|Helgardia acuformis
+RTO:0001881	Oculimacula yallundae	Helgardia herpotrichoides|Tapesia yallundae|Cercosporella herpotrichoides
+RTO:0001882	Parastagonospora nodorum	Septoria nodorum|Leptosphaeria nodorum
+RTO:0001883	Pseudaletia unipuncta	Pseudaletia unipuncta
+RTO:0001884	Pseudaletia unipuncta resistance	Pseudaletia unipuncta resistance
+RTO:0001885	Pseudomonas syringae pv. atrofaciens	Pseudomonas syringae pv. atrofaciens
+RTO:0001886	Pseudomonas syringae pv. syringae	Pseudomonas syringae pv. syringae
+RTO:0001887	Puccinia graminis	Puccinia graminis
+RTO:0001888	Puccinia recondita	Puccinia recondita
+RTO:0001889	Puccinia striiformis	Puccinia striiformis
+RTO:0001890	Puccinia triticina	Puccinia triticina
+RTO:0001891	Pyrenophora trichostoma	Pyrenophora trichostoma
+RTO:0001892	Pyrenophora tritici-repentis	Helminthhosporium tritici-repentis|Drechslera tritici-repentis
+RTO:0001893	Pyricularia grisea	Magnaporthe grisea
+RTO:0001894	Pythium root rot	Pythium root rot
+RTO:0001895	Pythium spp.	Pythium spp.
+RTO:0001896	Rathayibacter tritici	Pseudomonas tritici|Corynebacterium tritici|Clavibacter tritici
+RTO:0001897	Rhizoctonia Root Rot	bare patch|Rhizoctonia Stunt
+RTO:0001898	Rhizoctonia solani	Thanatephorus cucumeris
+RTO:0001899	Russian wheat aphid	Russian wheat aphid
+RTO:0001900	Russian wheat aphid resistance	resistance to Diuraphis noxia Kurdjumov|resistance to RWA
+RTO:0001901	Sclerophthora macrospora	Sclerospora macrospora
+RTO:0001902	Sclerotium rolfsii	Sclerotium rolfsii
+RTO:0001903	Septoria Avenae blotch	Septoria Avenae blotch
+RTO:0001904	Septoria leaf blotch	STB|Septoria Tritici Blotch
+RTO:0001905	Septoria nodorum blotch	Septoria nodorum blotch
+RTO:0001906	Stagonospora avenae	Stagonospora avenae
+RTO:0001907	Tilletia caries	Tilletia tritici
+RTO:0001908	Tilletia controversa	TCK|Tilletia controversa kuhn
+RTO:0001909	Tilletia foetida	Tilletia laevis|Tilletia foetens|Ustilago foetens|Erysibe foetida|Tilletia tritici var. laevis
+RTO:0001910	Tilletia indica	Neovossia indica
+RTO:0001911	Typhula incarnata	Typhula incarnata
+RTO:0001912	Typhula ishikariensis	Typhula idahoensis
+RTO:0001913	Urocystis agropyri	Urocystis agropyri
+RTO:0001914	Ustilago nuda f. sp. tritici	Ustilago nuda f. sp. tritici
+RTO:0001915	Ustilago tritici	Ustilago tritici
+RTO:0001916	Zymoseptoria tritici	Mycosphaerella graminicola|Septoria tritici
+RTO:0001917	arsenic toxicity	As toxicity
+RTO:0001918	bacterial leaf blight resistance	resistance to Pseudomonas syringae pv. syringae
+RTO:0001919	cereal cyst nematode	CCN
+RTO:0001920	closterovirus	closterovirus
+RTO:0001921	downy mildew	crazy top
+RTO:0001922	flag smut	flag smut
+RTO:0001923	gall midge	gall midge
+RTO:0001924	geminivirus	geminivirus
+RTO:0001925	heat shock resistance	heat shock resistance
+RTO:0001926	heavy metal toxicity	heavy metal toxicity
+RTO:0001927	high temperature resistance	high temperature resistance
+RTO:0001928	late blight resistance	late blight resistance
+RTO:0001929	loose smut	loose smut
+RTO:0001930	phytoplasma	mycoplasma
+RTO:0001931	potyvirus	potyvirus
+RTO:0001932	resistance to Alternaria Leaf Blight	resistance to Alternaria triticina
+RTO:0001933	resistance to American Wheat Striate Mosaic	resistance to AWStMV
+RTO:0001934	resistance to Anthoxanthum Mosaic	resistance to Anthoxanthum Mosaic
+RTO:0001935	resistance to Anthracnose	resistance to Glomerella graminicola|resistance to Colletotrichum graminicola
+RTO:0001936	resistance to Ascochyta Leaf Spot	resistance to Ascochyta tritici|resistance to Didymella exitialis
+RTO:0001937	resistance to Black Point	resistance to Black Point
+RTO:0001938	resistance to Bunt	resistance to Bunt
+RTO:0001939	resistance to Cephalosporium Leaf Stripe	resistance to Hymenula cerealis|resistance to Cephalosporium Stripe|resistance to Hymenella cerealis|resistance to Cephalosporium gramineum
+RTO:0001940	resistance to Endria inimica	resistance to Endria inimica
+RTO:0001941	resistance to Ergot	resistance to Sphacelia segetum|resistance to Claviceps purpurea
+RTO:0001942	resistance to Euxoa auxiliaris	Euxoa auxiliaris resistance
+RTO:0001943	resistance to Eyespot	resistance to Cercosporella herpotrichoides|resistance to Oculimacula yallundae|resistance to Tapesia acuformis|resistance to Helgardia acuformis|resistance to Strawbreaker|resistance to Olicumacula acuformis|resistance to Pseudocercosporella herpotrichoides|resistance to Tapesia yallundae|resistance to Helgardia herpotrichoides
+RTO:0001944	resistance to Fusarium head blight	resistance to Microdochium nivale|resistance to Wheat Scab|resistance to Fusarium|resistance to Fusarium graminearum|Fusarium resistance|resistance to Fusarium spp.|resistance to head scab|resistance to seedling blight|Fusarium head blight resistance|resistance to head blight|resistance to Gibberella zeae|resistance to scab crown rot|resistance to Fusarium langsethiae|resistance to Microdochium majus|resistance to Fusarium nivale|resistance to Monographella nivalis|scab resistance|resistance to Ear Blight|FHB resistance|resistance to Fusarium culmorum
+RTO:0001945	resistance to Helminthosporium Leaf Blight	resistance to HLB
+RTO:0001946	resistance to Macrosteles fascifrons	resistance to Macrosteles fascifrons
+RTO:0001947	resistance to Macrosteles quadrilineatus	resistance to Macrosteles quadrilineatus
+RTO:0001948	resistance to Mold	resistance to Mould
+RTO:0001949	resistance to Sclerotium Wilt	resistance to Southern Blight|resistance to Corticum rolfsii|resistance to Sclerotium rolfsii
+RTO:0001950	resistance to Sharp Eyespot	resistance to Rhizoctonia cerealis|resistance to Ceratobasidium cereale
+RTO:0001951	resistance to Take-All	resistance to Ophiobolus graminis|resistance to Gaeumannomyces graminis f. sp. tritici|resistance to Gaeumannomyces graminis var. tritici
+RTO:0001952	resistance to atrazine	resistance to atrazine
+RTO:0001953	resistance to bacterial stripe	resistance to Xanthomonas campestris pv. translucens
+RTO:0001954	resistance to basal glume rot	resistance to Pseudomonas syringae pv. atrofaciens
+RTO:0001955	resistance to black chaff	resistance to Xanthomonas campestris pv. translucens
+RTO:0001956	resistance to cereal cyst nematode	resistance to CCN
+RTO:0001957	resistance to chlorsulfuron	resistance to chlorsulfuron
+RTO:0001958	resistance to closterovirus	resistance to closterovirus
+RTO:0001959	resistance to geminivirus	resistance to geminivirus
+RTO:0001960	resistance to imidazolinone	resistance to imidazolinone
+RTO:0001961	resistance to mildew	resistance to mildew
+RTO:0001962	resistance to phytoplasma	mycoplasma resistance|resistance to phytoplasma disease|resistance to phytoplasmal disease|resistance to mycoplasma|resistance to mycoplasma disease
+RTO:0001963	resistance to potyvirus	potyvirus resistance
+RTO:0001964	resistance to root rot	resistance to root rot
+RTO:0001965	resistance to root-knot nematode	resistance to root-knot nematode
+RTO:0001966	resistance to rust	rust resistance
+RTO:0001967	resistance to seed gall nematode	resistance to seed gall nematode
+RTO:0001968	resistance to septoria	resistance to septoria
+RTO:0001969	resistance to smut	resistance to smut
+RTO:0001970	resistance to wheat blast	resistance to Magnaporthe oryzae|resistance to Gray Leaf Spot|resistance to Magnaporthe grisea|resistance to Pyricularia grisea
+RTO:0001971	resistance to wheat dwarf virus	resistance to wheat dwarf|resistance to WDV
+RTO:0001972	resistance to yellow rot	resistance to Clavibacter tritici infection|resistance to Rathayibacter tritici|resistance to yellow ear rot|resistance to spike blight
+RTO:0001973	response to inositol deficiency	response to inositol deficiency
+RTO:0001974	root-knot nematode	root-knot nematode
+RTO:0001975	snow mold	pink snow mold|pink snow mould|snow mould
+RTO:0001976	sooty molds	sooty moulds|black molds
+RTO:0001977	stem rust	black rust
+RTO:0001978	tan spot	yellow leaf spot|yellow leaf blotch
+RTO:0001979	tolerance to aluminium deficiency	tolerance to aluminium deficiency
+RTO:0001980	wheat dwarf virus	WdV
+RTO:0001981	wheat moth resistance	wheat moth resistance
+RTO:0001982	Aster yellows phytoplasma	Aster yellows phytoplasma
+RTO:0001983	Drechslera Leaf Blight	Drechslera leaf spot
+RTO:0001984	Leptosphaeria avenaria f.sp. tritici	Leptosphaeria avenaria f.sp. tritici
+RTO:0001985	Meloidogyne spp.	Meloidogyne spp.
+RTO:0001986	Phaeosphaeria avenaria f. sp. tritici	Phaeosphaeria avenaria f. sp. tritici
+RTO:0001987	Puccinia graminis f.sp. tritici	Puccinia graminis f.sp. tritici
+RTO:0001988	Puccinia striiformis f. sp. tritici	Puccinia striiformis f. sp. tritici
+RTO:0001989	Septoria avenae f.sp. tritici	Septoria avenae f.sp. tritici
+RTO:0001990	cadmium toxicity	Cd toxicity
+RTO:0001991	grain specific weight	grain test weight
+RTO:0001992	lead toxicity	Pb toxicity
+RTO:0001993	mercury toxicity	Hg toxicity
+RTO:0001994	nickel toxicity	Ni toxicity
+RTO:0001995	orange wheat blossom midge	Sitodiplosis mosellana
+RTO:0001996	resistance to Common Bunt	resistance to Stinking Smut|resistance to Covered Smut
+RTO:0001997	resistance to Common Root Rot	resistance to Foot Rot
+RTO:0001998	resistance to Crown Rot	resistance to Crown Rot
+RTO:0001999	resistance to Downy Mildew	resistance to Crazy Top|resistance to Sclerospora macrospora|resistance to Sclerophthora macrospora
+RTO:0002000	resistance to Dwarf Bunt	resistance to Tilletia controversa|resistance to TCK smut
+RTO:0002001	resistance to Foot Rot	Leaf spot resistance|resistance to leaf blotch|resistance to Curvularia spicifera
+RTO:0002002	resistance to Fusarium Root Rot	resistance to Fusarium Foot Rot|resistance to Dryland Foot Rot|resistance to Dryland Root Rot
+RTO:0002003	resistance to Karnal bunt	resistance to Tilletia indica|resistance to Partial Bunt
+RTO:0002004	resistance to Leaf Rust	resistance to Puccinia triticina|leaf rust resistance|resistance to brown rust|resistance to Puccinia recondita
+RTO:0002005	resistance to Meloidogyne spp.	resistance to Meloidogyne spp.
+RTO:0002006	resistance to Powdery Mildew	resistance to Erysiphe graminis f. sp. tritici|powdery mildew resistance|resistance to Blumeria graminis|resistance to powdery mildew
+RTO:0002007	resistance to Pythium Root Rot	Pythium Root Rot resistance|resistance to Bare Patch|resistance to Pythium spp.
+RTO:0002008	resistance to Rhizoctonia root rot	resistance to Rhizoctonia Stunt|resistance to Rhizoctonia solani|resistance to Bare Patch|Resistance to Thanatephorus cucumeris
+RTO:0002009	resistance to Septoria Leaf Blotch	resistance to Zymoseptoria tritici|resistance to STB|resistance to Mycosphaerella graminicola|resistance to Septoria tritici|resistance to Septoria Tritici Blotch
+RTO:0002010	resistance to Septoria avenae	resistance to Septoria avenae f.sp. tritici|resistance to Septoria Avenae Blotch|resistance to Phaeosphaeria avenaria f.sp. tritici|resistance to Leptosphaeria avenaria f.sp. tritici|resistance to Stagonospora avenae
+RTO:0002011	resistance to Snow Mold	resistance to Pink Snow Mold|resistance to Snow Mould|resistance to Microdochium majus|resistance to Pink Snow Mould|resistance to Fusarium nivale|resistance to Microdochium nivale|resistance to Monographella nivalis|resistance to Fusarium leaf blotch|resistance to Calonectria nivalis|resistance to Fusarium Leaf Blotch
+RTO:0002012	resistance to Snow Rot	resistance to Typhula ishikariensis|resistance to Gray Snow Mold|resistance to Typhula incarnata|resistance to Grey Snow Mould|resistance to Speckled Snow Mold|resistance to Typhula idahoensis
+RTO:0002013	resistance to Sooty Molds	resistance to Alternaria species|resistance to Cladosporium sp.|resistance to Alternaria sp.|resistance to Alternaria spp.|resistance to Cladosporium spp.|resistance to Black Molds|resistance to Cladosporium|resistance to Cladosporium species|resistance to Sooty Moulds|resistance to Alternaria
+RTO:0002014	resistance to Spot Blotch	resistance to Helminthosporium Leaf Blotch
+RTO:0002015	resistance to Stagonospora nodorum	resistance to Leptosphaeria nodorum|resistance to Septoria nodorum|resistance to Septoria nodorum blotch
+RTO:0002016	resistance to Stem Rust	resistance to black rust|resistance to Puccinia graminis f.sp. tritici|stem rust resistance|resistance to Puccinia graminis
+RTO:0002017	resistance to Stripe Rust	resistance to yellow rust|resistance to Puccinia striiformis f. sp. tritici|stripe rust resistance|resistance to Puccinia striiformis
+RTO:0002018	resistance to Tan Spot	resistance to Drechslera tritici-repentis|resistance to Pyrenophora trichostoma|resistance to Pyrenophora tritici-repentis|resistance to Helminthhosporium tritici-repentis|resistance to Yellow Leaf Spot|resistance to Yellow Leaf Blotch
+RTO:0002019	resistance to aster yellows phytoplasma	resistance to aster yellows phytoplasma
+RTO:0002020	resistance to flag smut	resistance to Urocystis agropyri
+RTO:0002021	resistance to loose smut	resistance to Ustilago tritici|resistance to Ustilago nuda f. sp. tritici
+RTO:0002022	resistance to orange wheat blossom midge	resistance to Sitodiplosis mosellana
+RTO:0002023	resistance to wheat streak mosaic virus	resistance to WSMV|resistance to wheat streak mosaic
+RTO:0002024	resistance to yellow mosaic virus	yellow mosaic resistance|WYMV resistance
+RTO:0002025	soil humidity	soil humidity
+RTO:0002026	wheat midge	wheat midge
+RTO:0002027	wheat midge resistance	wheat midge resistance
+RTO:0002028	wheat streak mosaic virus	wheat streak mosaic virus
+RTO:0002029	wheat yellow mosaic virus	WYMV
+RTO:0002030	zinc toxicity	Zn toxicity
+RTO:0002031	resistance to Curvularia spicifera	resistance to Curvularia spicifera
+RTO:0002032	resistance to Rhizoctonia Root Rot	resistance to Rhizoctonia solani
+RTO:0002033	resistance to Tilletia caries	resistance to Tilletia tritici
+RTO:0002034	resistance to Tilletia foetida	resistance to Tilletia laevis|resistance to Tilletia tritici var. laevis|resistance to Ustilago foetens|resistance to Erysibe foetida|resistance to Tilletia foetens
+RTO:0002035	aluminium in the soil	aluminium
+RTO:0002036	salt in the soil	salt|salinity|<new synonym>|salinity stress|soil salinity
+RTO:0002037	dry gluten content	dry gluten content
+RTO:0002038	gluten strength	gluten strength
+RTO:0002039	Khapra beetle	Trogoderma granarium
+RTO:0002040	Lepidopteran insect	Lepidopteran
+RTO:0002041	gliadin content	gliadin content
+RTO:0002042	glutenin content	glutenin content
+RTO:0002043	resistance to Khapra beetle	resistance to Khapra beetle
+RTO:0002044	yellow rot	spike blight|yellow ear rot|yellow slime
+RTO:0002045	high molecular weight glutenin subunit	high molecular weight glutenin subunit
+RTO:0002046	swelling index of glutenin	swelling index of glutenin
+RTO:0002047	wheat moth	wheat moth
+RTO:0002048	Xanthomonas campestris pv. translucens	Xanthomonas campestris pv. translucens
+RTO:0002049	high-molecular-weight Dx5 glutenin subunit	high-molecular-weight Dx5 glutenin subunit
+RTO:0002050	resistance to Bipolaris sorokiniana	resistance to Cochliobolus sativus|resistance to Drechslera sorokiniana|resistance to Helminthosporium sativum|resistance to Drechslera leaf blight
+RTO:0002051	resistance to Fusarium spp.	Fusarium oxysporum|resistance to Fusarium pseudograminearum|resistance to Fusarium culmorum|resistance to Fusarium graminearum

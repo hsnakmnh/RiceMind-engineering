@@ -1,0 +1,268 @@
+CO_320:0000092	Abortion pattern	AP|abortion stage
+CO_320:0000055	Alkali injury	AlkInj|Alkali tolerance
+CO_320:0000102	Amylose content	AmyCt
+CO_320:0000894	Anther colour	AnCo
+CO_320:0000150	Anther length	AnLt
+CO_320:0000895	Anthocyanin below apiculus	BApAnth
+CO_320:0000896	Apiculus anthocyanin	ApAnth
+CO_320:0000037	Apiculus color	APCO|ApCol
+CO_320:0000486	Apiculus shape	ApSh
+CO_320:0000487	Auricle anthocyanin	AurShp
+CO_320:0000029	Auricle color	AUCO|AurCol
+CO_320:0000036	Awn color	AWCO|AwCol|awn colour
+CO_320:0000488	Awn distribution	AwDist
+CO_320:0000146	Awn length	AWLT|AwLng
+CO_320:0000156	Awn presence	AWPR|AwPres
+CO_320:0000144	Awn thickness	AWTH|AwThk
+CO_320:0000015	Awning	AwType|awn type
+CO_320:0000173	Bacterial blight damage	BBDam|bacterial blight
+CO_320:0000174	Bacterial leaf streak damage	BLS|bacterial leaf blight|bacterial leaf streak|leaf blight
+CO_320:0000195	Bakanae disease	BakInc|bakanae disease
+CO_320:0000489	Basal leaf sheath anthocyanin	BLSAnth
+CO_320:0000023	Basal leaf sheath color	BLSCO|BLSCol
+CO_320:0000213	Bird damage	BirdDam
+CO_320:0000196	Brown planthopper damage	BPHDam|brown planthopper
+CO_320:0000111	Brown rice protein content	BRiceProtCt
+CO_320:0000177	Brown spot damage	BS|brown spot
+CO_320:0000110	Caryopsis length	CaryoLng|brown rice length|decorticated grain length
+CO_320:0000109	Caryopsis shape	CaryoShp|brown rice shape|decorticated grain shape
+CO_320:0000117	Caryopsis width	CaryoWdt|brown rice width|decorticated grain width
+CO_320:0000197	Case worm damage	CaseWormDam|case worm
+CO_320:0000104	Chalkiness of endosperm	Clk|chalk|chalkiness
+CO_320:0000490	Chromosome number	ChrNo
+CO_320:0000057	Cold tolerance	ColdSens
+CO_320:0000491	Coleoptile anthocyanin	ColeoAnth
+CO_320:0000492	Collar anthocyanin	CollAnth
+CO_320:0000028	Collar color	CCO|CollCol
+CO_320:0000031	Culm angle	CUAN|Culm habit|CulmAng
+CO_320:0000155	Culm diameter - 1st internode	CUDI|CulmDiam|DBI|basal internode diameter|stem thickness
+CO_320:0000016	Culm internode anthocyanin	CulmINodAnth|stem internode anthocyanin
+CO_320:0000493	Culm internode color	CulmINodCol|stem internode color
+CO_320:0000494	Culm internode underlying colour	CulmINodUnderCol|stem internode underlying colour
+CO_320:0000030	Culm length	CULT|CulmLng|stem length
+CO_320:0000495	Culm node anthocyanin	CulmNodAnth|Stem node anthocyanin
+CO_320:0000154	Culm node underlying colour	CulmNodUndCol
+CO_320:0000496	Culm number	CUNO|CulmNo
+CO_320:0000084	Culm strength	CUST|CulmStr
+CO_320:0000088	Time to flowering (from sowing)	DFlwS|FLW|Time to heading
+CO_320:0000060	Drought injury	DhtInj|drought sensitivity
+CO_320:0000058	Drought recovery	DhtRecov
+CO_320:0000497	Endosperm type	EndoType
+CO_320:0000178	False smut	FSmut|false smut
+CO_320:0000098	Fertility restoration	FertRest
+CO_320:0000017	Flag leaf angle	FlgLfAng|flag leaf attitude
+CO_320:0000138	Flag leaf length	FLL|FLLT|FlgLfLng
+CO_320:0000137	Flag leaf width	FLWD|FlgLfWdt
+CO_320:0000498	Flowering date	FlwDate|heading date
+CO_320:0000199	Gall midge damage	GallMidgeDam|gall midge
+CO_320:0000106	Gel consistency	GelC
+CO_320:0000107	Gelatinization temperature	GelTemp
+CO_320:0000094	Glume opening	GlOp
+CO_320:0000499	Grain discoloration	GrDiscol|grain discoloration
+CO_320:0000105	Grain elongation	GrElong
+CO_320:0000004	Grain length	GRLT|GrLng
+CO_320:0000020	Grain thickness	GRTH|GrThk
+CO_320:0000100	Grain weight	GRWT|GrnWt
+CO_320:0000005	Grain width	GRWD|GrWdt
+CO_320:0000073	Grain yield	GY|GrYld
+CO_320:0000179	Grassy stunt 1 disease	RGSV1Sev|rice grassy stunt 1 disease
+CO_320:0000500	Grassy stunt 2 disease	RGSV2Sev|rice grassy stunt 2 disease
+CO_320:0000200	Green leafhopper damage	GLhDam|green leafhopper
+CO_320:0000182	Narrow brown leaf spot damage	NBLSDam|narrow brown leaf spot
+CO_320:0000508	Outcrossing extent	OutXExt
+CO_320:0000035	Panicle axis attitude	PA|PanAxAtt|Panicle attitude
+CO_320:0000128	Panicle axis texture	PanAxText
+CO_320:0000509	Panicle basal branch number	PBPan|PanN
+CO_320:0000510	Panicle blast damage	PBDam|neck blast|panicle blast
+CO_320:0000511	Panicle blast severity	PBSev|neck blast|panicle blast
+CO_320:0000512	Panicle blast incidence	PBInc|neck blast|panicle blast
+CO_320:0000513	Panicle branch arrangement	PanBrArr
+CO_320:0000141	Panicle distance to basal branch	PanBasBrDist
+CO_320:0000074	Panicle exsertion	Exs|PEX|PanExs
+CO_320:0000033	Panicle length	PLT|PanLng
+CO_320:0000009	Panicle number per plant	PNO|PanNo|PanPlt
+CO_320:0000152	Panicle shattering	PSH|PanSh
+CO_320:0000078	Panicle threshability	PTH|PanThr
+CO_320:0000018	Panicle type	PTY|PanTyp|branch attitude
+CO_320:0000115	Pericarp colour	PericCol|Seed coat colour|bran colour|decorticated grain colour
+CO_320:0000075	Phenotypic Acceptability	PhenAcc
+CO_320:0000065	Phosphorus deficiency damage	PDef|phosphorus deficiency
+CO_320:0000076	Plant height	PlntHt
+CO_320:0000158	Pollen sterility	MaleSter|male sterility
+CO_320:0000183	Ragged stunt disease	RaggedStuntSev|ragged stunt|rice ragged stunt disease
+CO_320:0000214	Rat damage	RatDam
+CO_320:0000124	Rhizome and stolon formation	RHIFOR|RhyzForm
+CO_320:0000203	Rice bug damage	RBugDam|rice bug
+CO_320:0000216	Rice delphacid	RDelphDam|rice delphacid
+CO_320:0000184	Rice tungro disease	RTungroSev|rice tungro virus|tungo disease|tungro
+CO_320:0000206	Rice whorl maggot damage	RWhorlMaggDam|rice whorl maggot
+CO_320:0000066	Salt injury	SaltInj|salinity|salinity injury|salt tolerance
+CO_320:0000103	Scent	Aroma|Sct|caryopsis scent
+CO_320:0000034	Secondary panicle branching	Pan2ndBr|SECOND_BR
+CO_320:0000086	Seed germination	SdGerm
+CO_320:0000514	Seeding date	SdDate
+CO_320:0000218	Seedling height	SDHT|SeedlHt
+CO_320:0000189	Sheath blight	ShBltInc
+CO_320:0000185	Sheath rot	ShRotInc|sheath rot
+CO_320:0000090	Spikelet fertility	SPKF|SpFert|SpkFer
+CO_320:0000159	Spikelet sterility	SPKF|SpFert|SpkSter
+CO_320:0000208	Stem borer damage	StemBorer|stem borer
+CO_320:0000061	Stem elongation	StmElong|elongation ability|elongation in deepwater
+CO_320:0000186	Stem rot	StmRotInc|stem rot
+CO_320:0000041	Sterile lemma color	SLCO|SLmc|StrLmCol|glume color
+CO_320:0000042	Sterile lemma length	SLLT|StrLmLng|glume length
+CO_320:0000121	Sterile lemma shape	LemaShp
+CO_320:0000038	Stigma color	STCO|StgmCol
+CO_320:0000093	Stigma exsertion	StgExers
+CO_320:0000067	Submergence tolerance	SubTol
+CO_320:0000210	Thrip damage	ThripDam|thrips
+CO_320:0000079	Tiller number per plant	TilPlt|TillNo|Tillering
+CO_320:0000194	Udbatta disease	UDInc|udbatta disease
+CO_320:0000187	Ufra	UfraDam|ufra
+CO_320:0000077	Vigor	PlntVg
+CO_320:0000211	Whitebacked planthopper damage	WBPH|whitebacked planthopper
+CO_320:0000515	Yellow dwarf	YellowDwarfSev
+CO_320:0000192	Yellow mottle disease	YellowMottleSev|rice yellow mottle disease|yellow mottle
+CO_320:0000069	Zinc deficiency injury	ZnDefInj|zinc deficiency
+CO_320:0000108	Head rice	HdR|head rice percent
+CO_320:0000062	Heat injury	HeatSens|heat tolerance
+CO_320:0000193	Hoja blanca disease	HojaBlancaSev|hoja blanca|rice hoja blanca
+CO_320:0000063	Iron toxicity injury	IronInj|iron toxicity
+CO_320:0000501	Keel anthocyanin	KeelAnth|Lemma keel anthocyanin
+CO_320:0000180	Kernel smut	KSmut|kernel smut
+CO_320:0000064	Kneeing ability	CUKNEE|KnA|KneeAb
+CO_320:0000014	Leaf angle	LA|LfAng|leaf attitude
+CO_320:0000502	Leaf blade anthocyanin	LfBladAnth
+CO_320:0000006	Leaf blade color	LfBladCol
+CO_320:0000503	Leaf blade greenness	LfBladGreen
+CO_320:0000013	Leaf blade pubescence	LBP|LfBladPub|blpub
+CO_320:0000176	Leaf blast damage	LfBlastDam|blast|leaf blast|rice leaf blast
+CO_320:0000011	Leaf length	LLT|LfLng|leaf blade length
+CO_320:0000504	Leaf margin pubescence	LfMargPub
+CO_320:0000181	Leaf scald damage	LfScald|leaf scald
+CO_320:0000085	Leaf senescence	LSEN|LfSen
+CO_320:0000021	Leaf width	LWD|LfWdt|leaf blade width
+CO_320:0000201	Leaffolder damage	LfFolderDam|leaffolder
+CO_320:0000039	Lemma and palea color	LmPCol|glume colour|hull colour
+CO_320:0000505	Lemma and palea color ornementation	LmPColOrn|glume colour|hull colour
+CO_320:0000040	Lemma and palea pubescence	LPPUB|LmPPub|LmPb
+CO_320:0000506	Lemma phenol reaction	PhenReac
+CO_320:0000026	Ligule color	LIGCO|LigCol
+CO_320:0000025	Ligule length	LGL|LIGLT|LigLng
+CO_320:0000507	Ligule margin shape	LigMargShp
+CO_320:0000132	Ligule pubescence	LIGPUB|LigPub
+CO_320:0000027	Ligule shape	LIGSH|LigShp
+CO_320:0000080	Lodging incidence	LodInc
+CO_320:0000091	Male sterility group	MaleSterGp
+CO_320:0000082	Maturity	TMat|time of maturity
+CO_320:0001049	Aerenchyma area	AerA
+CO_320:0001059	Aerenchyma diameter	AerD
+CO_320:0001060	Aerenchyma number	AerN
+CO_320:0001061	Canopy height	CanH
+CO_320:0001062	Culm area	CulmA
+CO_320:0001063	Culm degree of deformation	CDef
+CO_320:0001050	Culm diameter - 2nd internode	CulmD
+CO_320:0001051	Culm major diameter - 2nd internode	CDMaj
+CO_320:0001052	Culm minor diameter - 2nd internode	CDMin
+CO_320:0001064	Culm partial porosity	CulmPP
+CO_320:0001065	Culm specific porosity	CulmSP
+CO_320:0001066	Culm total porosity	CulmTP
+CO_320:0001067	Culm wall thickness	CwallT
+CO_320:0001068	Culm wall area	CwallA
+CO_320:0001069	Time to flowering (from transplanting)	DFlwT
+CO_320:0001070	Time to initial flowering (from transplanting)	DiFlwT
+CO_320:0001071	Time to maturity (from transplanting)	DMatT
+CO_320:0001072	Time to panicle exsertion (from heading)	DExs
+CO_320:0001073	Dry matter yield	TDM
+CO_320:0001074	Elongated internode number	EInt
+CO_320:0001075	Flag leaf area	FLA
+CO_320:0001076	Flag leaf dry weight	FLDw
+CO_320:0001077	Dry weight of flag leaf and flag leaf-1	FLpDw
+CO_320:0001078	Specific area of flag leaf and flag leaf-1	FLpSla
+CO_320:0001079	Flag leaf relative size	FLsizeR
+CO_320:0001080	Flag leaf specific area	FLSla
+CO_320:0001081	Flag leaf-1 area	FL1A
+CO_320:0001082	Flag leaf-1 dry weight	FL1Dw
+CO_320:0001083	Flag leaf-1 length	FL1L
+CO_320:0001084	Flag leaf-1 specific leaf area	FL1Sla
+CO_320:0001085	Flag leaf-1 width	FL1W
+CO_320:0001086	Green leaf number	GLf
+CO_320:0001087	Harvest index	HI
+CO_320:0001048	Filled grain weight	FGW
+CO_320:0001088	Leaf total number	Lf
+CO_320:0001089	Oxygen radical absorbance capacity	ORAC
+CO_320:0001056	Panicles per hill	PanHill
+CO_320:0001090	Panicle density	PanD
+CO_320:0001091	Peduncle length	PedL
+CO_320:0001092	Pith area	PithA
+CO_320:0001093	Pith diameter	PithD
+CO_320:0001094	Pith major diameter	PDMaj
+CO_320:0001095	Pith minor diameter	PDMin
+CO_320:0001096	Second internode length	Int2L
+CO_320:0001053	Filled spikelets per panicle	FSpPan
+CO_320:0001097	Filled spikelet density	FSD
+CO_320:0001098	Filled spikelet proportion	FSpProp
+CO_320:0001099	Spikelets per hill	SpHill
+CO_320:0001100	Spikelets per panicle	SpPan
+CO_320:0001101	Spikelets density	SpD
+CO_320:0001102	Unfilled spikelets density	USpD
+CO_320:0001103	Stay-green	SGr
+CO_320:0001104	Stem diameter - 2nd internode	StemD
+CO_320:0001105	Stem major diameter - 2nd internode	SDMaj
+CO_320:0001106	Stem minor diameter - 2nd internode	SDMin
+CO_320:0001107	Straw yield	StDM
+CO_320:0001108	Tiller number per hill	TilHill
+CO_320:0001109	Tiller density	TilD
+CO_320:0001046	Water extraction capacity	SMTwp
+CO_320:0001057	Root diameter	RtD
+CO_320:0001110	Root length	RtL
+CO_320:0001111	Root surface area	RtA
+CO_320:0001112	Root volume	RtV
+CO_320:0001113	Leaf intercellular carbon dioxide concentration	CI
+CO_320:0001114	Photosynthetic rate	PS
+CO_320:0001115	Transpiration rate	Tr
+CO_320:0001116	Stomatal conductance	Gs
+CO_320:0001117	Stomatal resistance	Rs
+CO_320:0001118	Leaf temperature	LfT
+CO_320:0001119	Tiller fertility	FerTil
+CO_320:0001120	Time to flowering (from emergence)	DFlwE
+CO_320:0001121	Half-filled spikelet weight per area	HFSpY
+CO_320:0001122	Unfilled spikelets weight per area	UFSpY
+CO_320:0001123	Grain length to width ratio	GLWR
+CO_320:0001124	Proportion of grains with chalkiness	PGWC
+CO_320:0001125	Head milled rice rate	HMRR
+CO_320:0001126	Brown rice rate	BRR
+CO_320:0001127	Milled rice rate	MRR
+CO_320:0001128	Time to initial flowering (from sowing)	DiFlwS
+CO_320:0001129	Stem dry weight	SDWplt
+CO_320:0001130	Leaf dry weight per plant	LDWplt
+CO_320:0001054	Grain yield per plant	GYplt
+CO_320:0001131	Total dry matter per plant	TDMplt
+CO_320:0001047	Unfilled spikelets per panicle	UFSpPan|USpPan
+CO_320:0001132	Time to maturity (from sowing)	DMatS
+CO_320:0001133	Leaf sheath thickness	LfST
+CO_320:0001134	Culm porosity	CulmP
+CO_320:0001135	Half-filled grain weight	THfGW
+CO_320:0001136	Unfilled grain weight	TUfGW
+CO_320:0001137	Half-filled spikelets proportion	HFSpPct
+CO_320:0001138	Unfilled spikelets proportion	UFSpPct
+CO_320:0001139	Half-filled spikelets per panicle	HFSpPan
+CO_320:0001140	Stem sucrose content	StSUC
+CO_320:0001141	Stem protein content	StPRO
+CO_320:0001142	Stem starch content	StSTA
+CO_320:0001143	Stem total nonstructural carbohydrate content	StNSC
+CO_320:0001144	Stem ash content	StASH
+CO_320:0001145	Stem total lignin content	StLIG
+CO_320:0001146	Stem cell wall carbohydrate content	StCWC
+CO_320:0001147	Stem extractives content	StEXT
+CO_320:0001148	Stem total structural materials content	StSTR
+CO_320:0001149	Total stem materials content	StTWT
+CO_320:0001150	Half-filled spikelet densty	HSpD
+CO_320:0001151	Flag leaf chlorophyll content	FLCC|SCMR
+CO_320:0001152	Productive tiller number per plant	TilProd
+CO_320:0001153	Flag leaf temperature	FLfT
+CO_320:0001154	Straw dry matter per plant	StDM
+CO_320:0001155	Grain filling rate	GFR
+CO_320:0001156	Panicle dry weight per plant	PDWplt
+CO_320:0001055	Panicle temperature	PanT
+CO_320:0001559	Zinc content in grain	zinc content

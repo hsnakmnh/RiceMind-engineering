@@ -1,0 +1,91 @@
+{
+  "ensembl_release": 59,
+  "assembly": "IRGSP-1.0",
+  "files": {
+    "oryzabase_raw": {
+      "filename": "OryzabaseGeneListEn_20261010010113.txt",
+      "source_url": "https://shigen.nig.ac.jp/rice/oryzabase/gene/download?classtag=GENE_EN_LIST",
+      "size_bytes": 11516885,
+      "sha256": "dea748f96a7a06ee38e491e4f824e05352a2112318ccfdc0234dc92c8795d8a6",
+      "etag": null,
+      "last_modified": null,
+      "downloaded_at_utc": "2026-10-12T02:01:39.801791+00:00",
+      "encoding": "utf-8-sig",
+      "rows": 22237
+    },
+    "oryzabase_utf8": {
+      "filename": "OryzabaseGeneListEn_20261010010113.utf8.tsv",
+      "sha256": "5cf8d5df0cea78b0814b33d6cd427858a746094ce778094b275efdcb87f9c7a5",
+      "size_bytes": 11494647,
+      "encoding": "utf-8",
+      "rows": 22237,
+      "columns": [
+        "Trait Gene Id",
+        "CGSNL Gene Symbol",
+        "Gene symbol synonym(s)",
+        "CGSNL Gene Name",
+        "Gene name synonym(s)",
+        "Protein Name",
+        "Allele",
+        "Chromosome No.",
+        "Explanation",
+        "Trait Class",
+        "RAP ID",
+        "MSU ID",
+        "Gramene ID",
+        "Arm",
+        "Locate(cM)",
+        "Gene Ontology",
+        "Trait Ontology",
+        "Plant Ontology"
+      ],
+      "derived_from": "OryzabaseGeneListEn_20261010010113.txt"
+    },
+    "gff3": {
+      "filename": "Oryza_sativa.IRGSP-1.0.59.gff3.gz",
+      "source_url": "https://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-59/gff3/oryza_sativa/Oryza_sativa.IRGSP-1.0.59.gff3.gz",
+      "size_bytes": 7248400,
+      "sha256": "fe57ad77195274e1ce114ad7dffc577a34c17aa882a05be87fa09691b8dd7114",
+      "etag": "\"6e9a10-6143c51f78e09\"",
+      "last_modified": "Fri, 22 Mar 2024 09:19:26 GMT",
+      "downloaded_at_utc": "2026-10-12T02:01:48.215156+00:00",
+      "gzip_crc_validated": true
+    },
+    "dna": {
+      "filename": "Oryza_sativa.IRGSP-1.0.dna.toplevel.fa.gz",
+      "source_url": "https://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-59/fasta/oryza_sativa/dna/Oryza_sativa.IRGSP-1.0.dna.toplevel.fa.gz",
+      "size_bytes": 114731629,
+      "sha256": "abe7b2ecd9eb545f106886063c79a7b39a764e4394a36688da4621c3a00158b2",
+      "etag": "\"6d6aa6d-61288096193fa\"",
+      "last_modified": "Thu, 29 Feb 2024 16:49:02 GMT",
+      "downloaded_at_utc": "2026-10-12T02:03:42.012496+00:00",
+      "gzip_crc_validated": true
+    },
+    "cdna": {
+      "filename": "Oryza_sativa.IRGSP-1.0.cdna.all.fa.gz",
+      "source_url": "https://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-59/fasta/oryza_sativa/cdna/Oryza_sativa.IRGSP-1.0.cdna.all.fa.gz",
+      "size_bytes": 20983979,
+      "sha256": "b26ec05c2897c84fa430b6e40634bb7c6b1e313944a61adb7433b961d689e24f",
+      "etag": "\"14030ab-613146a21a773\"",
+      "last_modified": "Thu, 07 Mar 2024 16:17:41 GMT",
+      "downloaded_at_utc": "2026-10-12T02:04:04.979681+00:00",
+      "gzip_crc_validated": true
+    },
+    "pep": {
+      "filename": "Oryza_sativa.IRGSP-1.0.pep.all.fa.gz",
+      "source_url": "https://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-59/fasta/oryza_sativa/pep/Oryza_sativa.IRGSP-1.0.pep.all.fa.gz",
+      "size_bytes": 9044140,
+      "sha256": "6b2d480c10ceefe3a2fa3fb6305eef40c4283d8c5ab1ea17805dc62d8c2cca1e",
+      "etag": "\"8a00ac-613146a3a5129\"",
+      "last_modified": "Thu, 07 Mar 2024 16:17:42 GMT",
+      "downloaded_at_utc": "2026-10-12T02:04:14.283603+00:00",
+      "gzip_crc_validated": true
+    }
+  },
+  "status": "complete",
+  "notes": [
+    "Current official Oryzabase snapshot, not the author's 2025-07-02 export.",
+    "Local SHA-256, HTTP length checks and full gzip CRC validation."
+  ],
+  "completed_at_utc": "2026-10-12T02:04:14.284162+00:00"
+}

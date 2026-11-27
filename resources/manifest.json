@@ -1,0 +1,202 @@
+{
+  "format_version": 1,
+  "created": "2026-11-27",
+  "scope": "Bundled dictionaries, mapping, fixed Oryzabase snapshot and rules. Corpus separately indexed.",
+  "entries": [
+    {
+      "path": "dict-dir/oger/ontology/co_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 53559,
+      "sha256": "12886ece717583f529a9c5036d9421c11b0394918d979b356a1f9f5e2ec1c6e0",
+      "source_sha256": "12886ece717583f529a9c5036d9421c11b0394918d979b356a1f9f5e2ec1c6e0"
+    },
+    {
+      "path": "dict-dir/oger/ontology/go_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 23690092,
+      "sha256": "26c9d8ed9d90daff4b1237396a1b9eab43eeffd8aa7902358a216b938e5d7799",
+      "source_sha256": "26c9d8ed9d90daff4b1237396a1b9eab43eeffd8aa7902358a216b938e5d7799"
+    },
+    {
+      "path": "dict-dir/oger/genes/oryzabase_gene_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 6274513,
+      "sha256": "03c20d5a569f6079a97a502e4ddb327a213c0b2ae2b9cb0ed63746459e3477d3",
+      "source_sha256": "03c20d5a569f6079a97a502e4ddb327a213c0b2ae2b9cb0ed63746459e3477d3"
+    },
+    {
+      "path": "dict-dir/oger/ontology/rto_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 338081,
+      "sha256": "4fdf8c23291138a30fa4ec07e1c34e6c2780c7f8b604bd52e1c6213a53773289",
+      "source_sha256": "4fdf8c23291138a30fa4ec07e1c34e6c2780c7f8b604bd52e1c6213a53773289"
+    },
+    {
+      "path": "dict-dir/oger/genes/supplementary_gene_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 2535714,
+      "sha256": "bd2eb30640d00442076d91284d318064ef83933b953783ebaaa91ea8f3736db7",
+      "source_sha256": "bd2eb30640d00442076d91284d318064ef83933b953783ebaaa91ea8f3736db7"
+    },
+    {
+      "path": "dict-dir/oger/ontology/to_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 548983,
+      "sha256": "d74ac67a9e23cca045f74459026d28e2feaf8eb383b7b941527678069b8bd74d",
+      "source_sha256": "d74ac67a9e23cca045f74459026d28e2feaf8eb383b7b941527678069b8bd74d"
+    },
+    {
+      "path": "dict-dir/oger/ontology/variety_oger_dict.tsv",
+      "role": "oger_dictionary",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/annotation/dict.tar.gz",
+      "bytes": 170635,
+      "sha256": "7042c6570d919b7f0436db61f3d16befa63d2eab1d007f7259a62fd7be66e6f8",
+      "source_sha256": "7042c6570d919b7f0436db61f3d16befa63d2eab1d007f7259a62fd7be66e6f8"
+    },
+    {
+      "path": "dict-dir/annotation/co-dict.tsv",
+      "role": "three_column_dictionary",
+      "source": "Original author supplied dict.rar; retained local copy",
+      "bytes": 13425,
+      "sha256": "4ede78e6d28d4204bee29231e3f4d3204c2fd0149888606f158603debce85a36",
+      "source_sha256": "4ede78e6d28d4204bee29231e3f4d3204c2fd0149888606f158603debce85a36"
+    },
+    {
+      "path": "dict-dir/annotation/go-dict.tsv",
+      "role": "three_column_dictionary",
+      "source": "Original author supplied dict.rar; retained local copy",
+      "bytes": 10586618,
+      "sha256": "1ff31f196d6870f7059958b3620c5c105d00fd0b13f1820ee3d7e0018a3ea127",
+      "source_sha256": "1ff31f196d6870f7059958b3620c5c105d00fd0b13f1820ee3d7e0018a3ea127"
+    },
+    {
+      "path": "dict-dir/annotation/rto-dict.tsv",
+      "role": "three_column_dictionary",
+      "source": "Original author supplied dict.rar; retained local copy",
+      "bytes": 126784,
+      "sha256": "dc160fe49e491d1337f163278fb45a6d40d7007da9f43a87e3bfa7c2aab3d0f0",
+      "source_sha256": "dc160fe49e491d1337f163278fb45a6d40d7007da9f43a87e3bfa7c2aab3d0f0"
+    },
+    {
+      "path": "dict-dir/annotation/to-dict.tsv",
+      "role": "three_column_dictionary",
+      "source": "Original author supplied dict.rar; retained local copy",
+      "bytes": 277784,
+      "sha256": "9ef810d5acc713e4db85530bcf0e27e0144dacb699dbc4e7d79a99d80b242096",
+      "source_sha256": "9ef810d5acc713e4db85530bcf0e27e0144dacb699dbc4e7d79a99d80b242096"
+    },
+    {
+      "path": "dict-dir/annotation/variety-dict.tsv",
+      "role": "three_column_dictionary",
+      "source": "Original author supplied dict.rar; retained local copy",
+      "bytes": 81051,
+      "sha256": "3124bb9a52cdaa1cdc7cded9e5d919dabf3742707b51841140d0d2e9d891c21b",
+      "source_sha256": "8ae217685fa4e5cbdba77e335cc73fe5e445ec079feb0493eeb1a1cbb667fab3",
+      "transformation": "Remove only first header line; all remaining bytes retained."
+    },
+    {
+      "path": "asset/protein_gene_mapping.txt",
+      "role": "protein_gene_mapping",
+      "source": "https://github.com/muhaha2/RiceMind/blob/main/asset/protein_gene_mapping.txt",
+      "bytes": 11380048,
+      "sha256": "45d71357dacb3cffa9e9dd2e024509d43dc0cf82f409f822063c4236d6f9287e",
+      "source_sha256": "45d71357dacb3cffa9e9dd2e024509d43dc0cf82f409f822063c4236d6f9287e"
+    },
+    {
+      "path": "gene_list/difference_oryzabase_modified.txt",
+      "role": "optional_author_reference_list",
+      "source": "Original author supplied gene_list; boundary correction reference, not a blacklist",
+      "bytes": 261170,
+      "sha256": "1af71a3aa8beea6489849895f6828f9c09a0e5afa114614c0c99763c2be1b11d",
+      "source_sha256": "1af71a3aa8beea6489849895f6828f9c09a0e5afa114614c0c99763c2be1b11d"
+    },
+    {
+      "path": "gene_list/Gene_Oryza_Supplementary_20250801_lowercase.txt",
+      "role": "optional_author_reference_list",
+      "source": "Original author supplied gene_list; boundary correction reference, not a blacklist",
+      "bytes": 1659945,
+      "sha256": "2c79453c0d390456bff22795c9970776adb5a99f39aaece157b88728e9d1f411",
+      "source_sha256": "2c79453c0d390456bff22795c9970776adb5a99f39aaece157b88728e9d1f411"
+    },
+    {
+      "path": "gene_list/Oryzabasegene_split_list_modified_single_colum_lowercased.txt",
+      "role": "optional_author_reference_list",
+      "source": "Original author supplied gene_list; boundary correction reference, not a blacklist",
+      "bytes": 1340309,
+      "sha256": "c3da62110a9949e783c25ba8ff6551aeee9570b9cf2e930224208fadf25a97e0",
+      "source_sha256": "c3da62110a9949e783c25ba8ff6551aeee9570b9cf2e930224208fadf25a97e0"
+    },
+    {
+      "path": "sequence_data/reference/OryzabaseGeneListEn_20261010010113.txt",
+      "role": "pinned_reference",
+      "source": "Official Oryzabase snapshot and Ensembl release 59 manifest; see recorded public URLs",
+      "bytes": 11516885,
+      "sha256": "dea748f96a7a06ee38e491e4f824e05352a2112318ccfdc0234dc92c8795d8a6",
+      "source_sha256": "dea748f96a7a06ee38e491e4f824e05352a2112318ccfdc0234dc92c8795d8a6"
+    },
+    {
+      "path": "sequence_data/reference/OryzabaseGeneListEn_20261010010113.utf8.tsv",
+      "role": "pinned_reference",
+      "source": "Official Oryzabase snapshot and Ensembl release 59 manifest; see recorded public URLs",
+      "bytes": 11494647,
+      "sha256": "5cf8d5df0cea78b0814b33d6cd427858a746094ce778094b275efdcb87f9c7a5",
+      "source_sha256": "5cf8d5df0cea78b0814b33d6cd427858a746094ce778094b275efdcb87f9c7a5"
+    },
+    {
+      "path": "sequence_data/reference/reference_manifest.json",
+      "role": "pinned_reference",
+      "source": "Official Oryzabase snapshot and Ensembl release 59 manifest; see recorded public URLs",
+      "bytes": 3777,
+      "sha256": "42eccbda34022223933dabd0abc16be3b6bb358fb60e5670678488995e2aa83e",
+      "source_sha256": "42eccbda34022223933dabd0abc16be3b6bb358fb60e5670678488995e2aa83e"
+    },
+    {
+      "path": "dict-dir/filtering/blacklists/co_blacklist.tsv",
+      "role": "annotation_filter_rule",
+      "source": "Adaptation rule snapshot; see dict-dir/filtering/README.md",
+      "bytes": 72,
+      "sha256": "546b211bc7caf4681aa61208e6d96db7a865d81a105b1eb66b241a1bd4143f10"
+    },
+    {
+      "path": "dict-dir/filtering/blacklists/gene_blacklist.tsv",
+      "role": "annotation_filter_rule",
+      "source": "Adaptation rule snapshot; see dict-dir/filtering/README.md",
+      "bytes": 294,
+      "sha256": "1421a952e5002327bad120c1543e7cb8f52e257f44f6d4ae25a5813c532a7381"
+    },
+    {
+      "path": "dict-dir/filtering/blacklists/go_blacklist.tsv",
+      "role": "annotation_filter_rule",
+      "source": "Adaptation rule snapshot; see dict-dir/filtering/README.md",
+      "bytes": 72,
+      "sha256": "546b211bc7caf4681aa61208e6d96db7a865d81a105b1eb66b241a1bd4143f10"
+    },
+    {
+      "path": "dict-dir/filtering/blacklists/rto_blacklist.tsv",
+      "role": "annotation_filter_rule",
+      "source": "Adaptation rule snapshot; see dict-dir/filtering/README.md",
+      "bytes": 72,
+      "sha256": "546b211bc7caf4681aa61208e6d96db7a865d81a105b1eb66b241a1bd4143f10"
+    },
+    {
+      "path": "dict-dir/filtering/blacklists/to_blacklist.tsv",
+      "role": "annotation_filter_rule",
+      "source": "Adaptation rule snapshot; see dict-dir/filtering/README.md",
+      "bytes": 72,
+      "sha256": "546b211bc7caf4681aa61208e6d96db7a865d81a105b1eb66b241a1bd4143f10"
+    },
+    {
+      "path": "dict-dir/filtering/blacklists/variety_blacklist.tsv",
+      "role": "annotation_filter_rule",
+      "source": "Adaptation rule snapshot; see dict-dir/filtering/README.md",
+      "bytes": 918,
+      "sha256": "598a57d1fd4f30ffa69f3b14e9a9c27ca8fdb63be394b1fa27c5e3cf1676725d"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+enabled	category	entity_id	match_type	matched_text	standard_name	source
+1	variety	2397	id		LEAD	legacy remove_noise.py
+1	variety	1627	id		SET	legacy remove_noise.py
+1	variety	1056	id		LOCAL	legacy remove_noise.py
+1	variety	2418	id		O. SATIVA	legacy remove_noise.py
+1	variety	1821	id		PLUS	legacy remove_noise.py
+1	variety	1953	id		BOND	legacy remove_noise.py
+1	variety	1707	id		LAB	legacy remove_noise.py
+1	variety	1897	id		DELTA	legacy remove_noise.py
+1	variety	1646	id		DON	legacy remove_noise.py
+1	variety	1865	id		OTA	legacy remove_noise.py
+1	variety	1882	id		SUPER	legacy remove_noise.py
+1	variety	1334	id		ZERO	legacy remove_noise.py
+1	variety	987	id		MAS	legacy remove_noise.py
+1	variety	3062	id		Han	legacy remove_noise.py
+1	variety	3010	id		Luke	legacy remove_noise.py
+1	variety	387	id		INDEL	legacy remove_noise.py
+1	variety	1628	id		SOM	legacy remove_noise.py
+1	variety	1962	id		GENE	legacy remove_noise.py

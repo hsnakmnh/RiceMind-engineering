@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-27",
+  "status": "local_candidate_validated",
+  "python": "3.11.2",
+  "tests": {
+    "passed": 56,
+    "scope": "synthetic standard-library fixture tests",
+    "github_actions": "not run remotely",
+    "full_server_pipeline": "not rerun"
+  },
+  "checks": {
+    "python_ast_vs_working_copy": "Inherited match/filter methods retained; config/default-directory and statistics resource lookup adapted, so whole-file AST equivalence no longer claimed.",
+    "upstream_license_bytes_and_index": "passed",
+    "local_markdown_links": "passed",
+    "audit_hashes": "passed",
+    "payload_and_config_exclusion": "Active configs/models/raw articles/results excluded. Resources bundled intentionally; literature text is present only in local complete archive.",
+    "ignore_probes": 8,
+    "credential_pattern_scan": "no matches for tested token/private-key patterns; not exhaustive",
+    "new_documentation_whitespace": "passed",
+    "legacy_source_whitespace": "retained without algorithm or mass formatting edits",
+    "bundled_resources": "25 SHA-256 entries; 12 dictionaries checked for field count",
+    "filtered_corpus": "35451 records verified and regenerated without resegmentation; 24189/11262 by year",
+    "full_corpus": "1207889 records restored from earlier JSON; 2025 logical rows match remaining TSV",
+    "shell_syntax": "Bash unavailable locally for this revision; not newly checked"
+  },
+  "baseline_modified_scripts": 26,
+  "remote": {
+    "url_provided_by_user": true,
+    "configured_locally": true,
+    "public_read_check": "git ls-remote succeeded; no refs returned on 2026-11-27",
+    "pushed": false
+  },
+  "pending": [
+    "Authenticated commit/push and remote CI; source corpus redistribution scope remains separate from code permission."
+  ],
+  "file_count_before_validation_record": "Recomputed in top-level packaging report",
+  "target_repository": "https://github.com/hsnakmnh/RiceMind-engineering",
+  "permissions": {
+    "separate_phrase_adapter": "Maintainer confirmed original author permits public redistribution on 2026-11-27; see ATTRIBUTION.md."
+  }
+}
